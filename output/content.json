@@ -1,0 +1,36 @@
+{
+  "category": "الألوان والأوصاف",
+  "phrases": [
+    {
+      "english": "This shirt is a beautiful blue color.",
+      "arabic": "هذا القميص لونه أزرق جميل.",
+      "pronunciation": "Hadha al-qamees lawnuhu azraq jameel.",
+      "context": "Use this to compliment clothing or other items you find visually appealing."
+    },
+    {
+      "english": "The car is black and very fast.",
+      "arabic": "السيارة سوداء وسريعة جداً.",
+      "pronunciation": "Al-sayyarah sawda' wa saree'ah jiddan.",
+      "context": "This phrase is useful for describing vehicles and their performance."
+    },
+    {
+      "english": "I like the green color of the trees.",
+      "arabic": "أحب اللون الأخضر للأشجار.",
+      "pronunciation": "Uhibbu al-lawn al-akhdar lil-ashjar.",
+      "context": "Employ this when you want to express appreciation for nature's colors."
+    },
+    {
+      "english": "Her dress is a lovely shade of red.",
+      "arabic": "فستانها درجة جميلة من اللون الأحمر.",
+      "pronunciation": "Fustanuhā darajah jameelah min al-lawn al-ahmar.",
+      "context": "This is perfect for describing a person's clothing with a specific color."
+    },
+    {
+      "english": "The sky is bright yellow during sunset.",
+      "arabic": "السماء صفراء لامعة وقت الغروب.",
+      "pronunciation": "Al-sama' safra' laami'ah waqt al-ghuroob.",
+      "context": "Use this to describe natural phenomena and atmospheric conditions."
+    }
+  ],
+  "total": 5
+}
