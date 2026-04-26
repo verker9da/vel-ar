@@ -1,0 +1,91 @@
+name: Arabic Learning Video Bot
+
+on:
+  schedule:
+    # Run 5 times a day at these times (UTC):
+    # 00:00, 04:48, 09:36, 14:24, 19:12 (spread throughout the day)
+    - cron: '0 0,4,9,14,19 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  generate-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -r upload/requirements.txt
+
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Run Arabic Learning Bot
+        env:
+          # AI Configuration
+          POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+
+          # YouTube Credentials
+          YOUTUBE_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+
+          # Instagram Credentials
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+
+          # Facebook Credentials
+          FACEBOOK_ACCESS_TOKEN: ${{ secrets.FACEBOOK_ACCESS_TOKEN }}
+          FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
+
+          # Telegram Credentials
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+
+          # TikTok Credentials (if available)
+          TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
+
+          # Twitter/X Credentials
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+
+          # VK Credentials
+          VK_ACCESS_TOKEN: ${{ secrets.VK_ACCESS_TOKEN }}
+          VK_GROUP_ID: ${{ secrets.VK_GROUP_ID }}
+
+          # Threads Credentials
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+        run: |
+          python main.py
+
+      - name: Upload generated video
+        uses: actions/upload-artifact@v4
+        with:
+          name: arabic-learning-video-${{ github.run_number }}-${{ github.run_attempt }}
+          path: |
+            output/final_video.mp4
+            output/content.json
+          retention-days: 30
+
+      - name: Commit content history
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add content_history.json output/content.json 2>/dev/null || true
+          git commit -m "📝 Auto-generate Arabic learning content [Run ${{ github.run_number }}]" || true
+          git push
