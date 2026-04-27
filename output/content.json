@@ -1,35 +1,35 @@
 {
-  "category": "السعادة",
+  "category": "الصحة والجسد",
   "phrases": [
     {
-      "english": "I am very happy today because I achieved my goal.",
-      "arabic": "أنا سعيد جداً اليوم لأنني حققت هدفي.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm li'annani haqaqtu hadafi.",
-      "context": "Expressing personal joy and satisfaction."
+      "english": "I have a headache.",
+      "arabic": "أنا أشعر بصداع.",
+      "pronunciation": "Ana asha'ur bi sudaa'.",
+      "context": "Use this when you feel pain in your head."
     },
     {
-      "english": "This beautiful weather makes me feel joyful.",
-      "arabic": "هذا الجو الجميل يجعلني أشعر بالسعادة.",
-      "pronunciation": "Hadha al-jaww al-jameel yaj'aluni ash'ur bis-sa'adah.",
-      "context": "Connecting a pleasant environment to a feeling of happiness."
+      "english": "I feel tired.",
+      "arabic": "أشعر بالتعب.",
+      "pronunciation": "Asha'ur bil ta'ab.",
+      "context": "Say this when you need rest."
     },
     {
-      "english": "Seeing my family always brings me great happiness.",
-      "arabic": "رؤية عائلتي دائماً تجلب لي سعادة كبيرة.",
-      "pronunciation": "Ru'yat 'a'ilati da'iman tajlib li sa'adah kabirah.",
-      "context": "Describing a source of consistent happiness."
+      "english": "I am allergic to peanuts.",
+      "arabic": "لدي حساسية من الفول السوداني.",
+      "pronunciation": "Ladai hasasiyya min al-foul as-soudani.",
+      "context": "Inform others about this food allergy."
     },
     {
-      "english": "I wish you all the happiness in the world.",
-      "arabic": "أتمنى لك كل السعادة في العالم.",
-      "pronunciation": "Atamanna laka kull as-sa'adah fil-'alam.",
-      "context": "Offering a heartfelt wish for someone's well-being."
+      "english": "My stomach hurts.",
+      "arabic": "معدتي تؤلمني.",
+      "pronunciation": "Ma'idati tu'limuni.",
+      "context": "Use this when you have stomach pain."
     },
     {
-      "english": "Finding this book was a moment of pure bliss.",
-      "arabic": "العثور على هذا الكتاب كان لحظة سعادة غامرة.",
-      "pronunciation": "Al-'uthur 'ala hadha al-kitab kana lahzhat sa'adah ghamirah.",
-      "context": "Highlighting a specific event that caused intense happiness."
+      "english": "I need to see a doctor.",
+      "arabic": "أحتاج إلى رؤية طبيب.",
+      "pronunciation": "Ahtaj ila ru'yat tabeeb.",
+      "context": "Say this when you require medical attention."
     }
   ],
   "total": 5
