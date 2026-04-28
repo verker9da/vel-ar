@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "الطقس",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this when you want to ask the price of an item."
+      "english": "What is the weather like today?",
+      "arabic": "كيف حال الطقس اليوم؟",
+      "pronunciation": "Kayf hal al-taqs al-yawm?",
+      "context": "Ask this to inquire about the current weather conditions."
     },
     {
-      "english": "I want to buy this shirt.",
-      "arabic": "أريد شراء هذه القميص.",
-      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
-      "context": "Use this when you have decided to purchase a specific item."
+      "english": "It is very hot outside.",
+      "arabic": "الجو حار جداً في الخارج.",
+      "pronunciation": "Al-jaww har jiddan fil kharij.",
+      "context": "Use this when the temperature is high."
     },
     {
-      "english": "Do you have this in a smaller size?",
-      "arabic": "هل لديكم هذا بمقاس أصغر؟",
-      "pronunciation": "Hal ladaykum hatha bimqaas asghar?",
-      "context": "Use this when the item is too big and you need a different size."
+      "english": "It is cold and I need a jacket.",
+      "arabic": "الجو بارد وأحتاج إلى سترة.",
+      "pronunciation": "Al-jaww barid wa ahtaju ila sitra.",
+      "context": "Say this when the temperature is low and you feel the need for warm clothing."
     },
     {
-      "english": "Can I pay with a credit card?",
-      "arabic": "هل يمكنني الدفع ببطاقة الائتمان؟",
-      "pronunciation": "Hal yumkinuni ad-daf' bibitaaqat al-i'timaan?",
-      "context": "Use this to inquire about payment methods."
+      "english": "It looks like it will rain soon.",
+      "arabic": "يبدو أنه ستمطر قريباً.",
+      "pronunciation": "Yabdu annahu satumtir qareeban.",
+      "context": "Use this when you anticipate rain."
     },
     {
-      "english": "Where is the changing room?",
-      "arabic": "أين غرفة القياس؟",
-      "pronunciation": "Ayna ghurfat al-qiyaas?",
-      "context": "Use this when you need to try on clothes before buying."
+      "english": "The sky is clear and sunny.",
+      "arabic": "السماء صافية ومشمسة.",
+      "pronunciation": "Al-samaa' safiya wa mushmisa.",
+      "context": "Describe a day with no clouds and bright sunshine."
     }
   ],
   "total": 5
