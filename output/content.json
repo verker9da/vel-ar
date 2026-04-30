@@ -1,35 +1,35 @@
 {
-  "category": "الحب",
+  "category": "السعادة",
   "phrases": [
     {
-      "english": "I love you very much.",
-      "arabic": "أنا أحبك جداً.",
-      "pronunciation": "Ana uhibbuka jiddan.",
-      "context": "Use this to express deep affection to someone you love."
+      "english": "I am very happy today because the weather is beautiful.",
+      "arabic": "أنا سعيد جدًا اليوم لأن الطقس جميل.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-taqs jameel.",
+      "context": "Use this to express your happiness about a pleasant day."
     },
     {
-      "english": "You are beautiful.",
-      "arabic": "أنتِ جميلة.",
-      "pronunciation": "Anti jameela.",
-      "context": "Say this to compliment a woman's appearance."
+      "english": "This food tastes delicious, it makes me happy.",
+      "arabic": "هذا الطعام لذيذ جدًا، إنه يجعلني سعيدًا.",
+      "pronunciation": "Hadha al-ta'am ladheedh jiddan, innahu yaj'aluni sa'eedan.",
+      "context": "Say this when you enjoy a meal immensely."
     },
     {
-      "english": "My heart belongs to you.",
-      "arabic": "قلبي ملكك.",
-      "pronunciation": "Qalbi milkiik.",
-      "context": "A romantic expression to show devotion."
+      "english": "Seeing my family always brings me joy.",
+      "arabic": "رؤية عائلتي تجلب لي السعادة دائمًا.",
+      "pronunciation": "Ru'yat 'a'ilati tajlibu li al-sa'adah da'iman.",
+      "context": "Express this sentiment when you are with loved ones."
     },
     {
-      "english": "I miss you a lot.",
-      "arabic": "أفتقدك كثيراً.",
-      "pronunciation": "Aftaqiduki katheeran.",
-      "context": "Use when you haven't seen someone you care about for a while."
+      "english": "I feel a sense of peace and happiness when I read books.",
+      "arabic": "أشعر بالسلام والسعادة عندما أقرأ الكتب.",
+      "pronunciation": "Ash'ur bil-salam wal-sa'adah 'indama aqra' al-kutub.",
+      "context": "Share this when talking about your hobbies and how they affect you."
     },
     {
-      "english": "You are my everything.",
-      "arabic": "أنت كل شيء بالنسبة لي.",
-      "pronunciation": "Anta kullu shay'in bin-nisbati li.",
-      "context": "A strong declaration of how important someone is in your life."
+      "english": "Thank you, your kindness has made me truly happy.",
+      "arabic": "شكرًا لك، لطفك أسعدني حقًا.",
+      "pronunciation": "Shukran lak, lutfuka as'adani haqqan.",
+      "context": "Use this to show gratitude for someone's kind actions."
     }
   ],
   "total": 5

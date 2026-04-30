@@ -104,13 +104,14 @@
     "i would like to order a plate of grilled chicken, please.",
     "this food is very delicious, thank you.",
     "can i have the bill, please?",
-    "what is the specialty of the house?"
+    "what is the specialty of the house?",
+    "i am very happy today because the weather is beautiful.",
+    "this food tastes delicious, it makes me happy.",
+    "seeing my family always brings me joy.",
+    "i feel a sense of peace and happiness when i read books.",
+    "thank you, your kindness has made me truly happy."
   ],
   "used_categories": [
-    {
-      "category": "الصحة والجسد",
-      "timestamp": "2026-03-21T09:57:03.241006"
-    },
     {
       "category": "الحب",
       "timestamp": "2026-03-21T14:56:52.092893"
@@ -306,6 +307,10 @@
     {
       "category": "الحب",
       "timestamp": "2026-04-30T07:55:21.394151"
+    },
+    {
+      "category": "السعادة",
+      "timestamp": "2026-04-30T15:30:40.961486"
     }
   ],
   "phrase_hashes": [
@@ -413,6 +418,11 @@
     "fc4aa5e06798c29e041bb46bbc9b46ce",
     "8245a8587aaa4d47232bb0cf0dabec23",
     "d5984b9c6ae553906b9d447468514dd8",
-    "160ff1b26dd9310f2898e4ca366c44f2"
+    "160ff1b26dd9310f2898e4ca366c44f2",
+    "76b5d9e1e9c39b692de6cedb5a853b7c",
+    "cac9d67bae1804a8f0a80fae8f6f60ec",
+    "a3315fbfed3a0c5635793d4955f67afc",
+    "43b8d43750343f55d2ed4e23741e6011",
+    "5fda96aafa94ab4c817ce25a62dc1ea0"
   ]
 }
