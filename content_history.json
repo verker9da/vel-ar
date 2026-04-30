@@ -109,13 +109,13 @@
     "this food tastes delicious, it makes me happy.",
     "seeing my family always brings me joy.",
     "i feel a sense of peace and happiness when i read books.",
-    "thank you, your kindness has made me truly happy."
+    "thank you, your kindness has made me truly happy.",
+    "the bird is singing beautifully outside.",
+    "i saw a rabbit in the park yesterday.",
+    "my neighbor has a very loud horse.",
+    "i am afraid of snakes."
   ],
   "used_categories": [
-    {
-      "category": "الحب",
-      "timestamp": "2026-03-21T14:56:52.092893"
-    },
     {
       "category": "الطقس",
       "timestamp": "2026-03-21T19:44:43.971587"
@@ -311,6 +311,10 @@
     {
       "category": "السعادة",
       "timestamp": "2026-04-30T15:30:40.961486"
+    },
+    {
+      "category": "الحيوانات",
+      "timestamp": "2026-04-30T22:13:39.493056"
     }
   ],
   "phrase_hashes": [
@@ -423,6 +427,10 @@
     "cac9d67bae1804a8f0a80fae8f6f60ec",
     "a3315fbfed3a0c5635793d4955f67afc",
     "43b8d43750343f55d2ed4e23741e6011",
-    "5fda96aafa94ab4c817ce25a62dc1ea0"
+    "5fda96aafa94ab4c817ce25a62dc1ea0",
+    "92b4ab225c1835f6340664516409ce5f",
+    "3b61aa5879f2f2530d413ed445b12a75",
+    "c67ba8a26d8e0c33159ce1803816980e",
+    "f2c3cffae43aac72bf03dae109c0003f"
   ]
 }

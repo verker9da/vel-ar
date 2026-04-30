@@ -1,35 +1,35 @@
 {
-  "category": "السعادة",
+  "category": "الحيوانات",
   "phrases": [
     {
-      "english": "I am very happy today because the weather is beautiful.",
-      "arabic": "أنا سعيد جدًا اليوم لأن الطقس جميل.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-taqs jameel.",
-      "context": "Use this to express your happiness about a pleasant day."
+      "english": "I have a cat and a dog at home.",
+      "arabic": "لدي قطة وكلب في المنزل.",
+      "pronunciation": "Ladai qittah wa kalb fil manzil.",
+      "context": "Use this to tell someone about your pets."
     },
     {
-      "english": "This food tastes delicious, it makes me happy.",
-      "arabic": "هذا الطعام لذيذ جدًا، إنه يجعلني سعيدًا.",
-      "pronunciation": "Hadha al-ta'am ladheedh jiddan, innahu yaj'aluni sa'eedan.",
-      "context": "Say this when you enjoy a meal immensely."
+      "english": "The bird is singing beautifully outside.",
+      "arabic": "العصفور يغني بشكل جميل في الخارج.",
+      "pronunciation": "Al-'usfoor yughanni bishakl jameel fil kharij.",
+      "context": "Say this when you hear a bird singing."
     },
     {
-      "english": "Seeing my family always brings me joy.",
-      "arabic": "رؤية عائلتي تجلب لي السعادة دائمًا.",
-      "pronunciation": "Ru'yat 'a'ilati tajlibu li al-sa'adah da'iman.",
-      "context": "Express this sentiment when you are with loved ones."
+      "english": "I saw a rabbit in the park yesterday.",
+      "arabic": "رأيت أرنباً في الحديقة أمس.",
+      "pronunciation": "Ra'aitu arnanban fil hadeeqah ams.",
+      "context": "Use this to describe an animal sighting."
     },
     {
-      "english": "I feel a sense of peace and happiness when I read books.",
-      "arabic": "أشعر بالسلام والسعادة عندما أقرأ الكتب.",
-      "pronunciation": "Ash'ur bil-salam wal-sa'adah 'indama aqra' al-kutub.",
-      "context": "Share this when talking about your hobbies and how they affect you."
+      "english": "My neighbor has a very loud horse.",
+      "arabic": "جاري لديه حصان صاخب جداً.",
+      "pronunciation": "Jaree ladaihisan sakhib jiddan.",
+      "context": "Talk about a neighbor's animal."
     },
     {
-      "english": "Thank you, your kindness has made me truly happy.",
-      "arabic": "شكرًا لك، لطفك أسعدني حقًا.",
-      "pronunciation": "Shukran lak, lutfuka as'adani haqqan.",
-      "context": "Use this to show gratitude for someone's kind actions."
+      "english": "I am afraid of snakes.",
+      "arabic": "أنا أخاف من الثعابين.",
+      "pronunciation": "Ana akhaf min ath-tha'aabeen.",
+      "context": "Express your fear of a specific animal."
     }
   ],
   "total": 5
