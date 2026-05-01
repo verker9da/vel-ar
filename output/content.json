@@ -1,35 +1,35 @@
 {
-  "category": "الحيوانات",
+  "category": "العمل والأعمال",
   "phrases": [
     {
-      "english": "I have a cat and a dog at home.",
-      "arabic": "لدي قطة وكلب في المنزل.",
-      "pronunciation": "Ladai qittah wa kalb fil manzil.",
-      "context": "Use this to tell someone about your pets."
+      "english": "I am looking for a new job opportunity.",
+      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
+      "pronunciation": "Ana abḥath 'an furṣa 'amal jadīdah.",
+      "context": "Use this when you are actively seeking employment."
     },
     {
-      "english": "The bird is singing beautifully outside.",
-      "arabic": "العصفور يغني بشكل جميل في الخارج.",
-      "pronunciation": "Al-'usfoor yughanni bishakl jameel fil kharij.",
-      "context": "Say this when you hear a bird singing."
+      "english": "Can you please send me the company's annual report?",
+      "arabic": "هل يمكنك من فضلك إرسال التقرير السنوي للشركة لي؟",
+      "pronunciation": "Hal yumkinuka min faḍlik irsāl al-taqrīr al-sanawī lil-sharika lī?",
+      "context": "This is useful for requesting important business documents."
     },
     {
-      "english": "I saw a rabbit in the park yesterday.",
-      "arabic": "رأيت أرنباً في الحديقة أمس.",
-      "pronunciation": "Ra'aitu arnanban fil hadeeqah ams.",
-      "context": "Use this to describe an animal sighting."
+      "english": "I need to schedule a meeting with the marketing team.",
+      "arabic": "أحتاج إلى تحديد موعد اجتماع مع فريق التسويق.",
+      "pronunciation": "Aḥtāju ilā taḥdīd maw'id ijtima' ma' farīq al-taswīq.",
+      "context": "Say this when you want to arrange a group discussion."
     },
     {
-      "english": "My neighbor has a very loud horse.",
-      "arabic": "جاري لديه حصان صاخب جداً.",
-      "pronunciation": "Jaree ladaihisan sakhib jiddan.",
-      "context": "Talk about a neighbor's animal."
+      "english": "What is your company's main product?",
+      "arabic": "ما هو المنتج الرئيسي لشركتكم؟",
+      "pronunciation": "Mā huwa al-muntaj al-ra'īsī li-sharikatukum?",
+      "context": "Ask this to inquire about their core business offerings."
     },
     {
-      "english": "I am afraid of snakes.",
-      "arabic": "أنا أخاف من الثعابين.",
-      "pronunciation": "Ana akhaf min ath-tha'aabeen.",
-      "context": "Express your fear of a specific animal."
+      "english": "I am available for a phone interview tomorrow.",
+      "arabic": "أنا متاح لإجراء مقابلة هاتفية غدًا.",
+      "pronunciation": "Ana mutāḥ li-ijrā' muqābalah hātifiyyah ghadan.",
+      "context": "Use this to confirm your availability for a job interview."
     }
   ],
   "total": 5

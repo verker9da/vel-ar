@@ -113,13 +113,13 @@
     "the bird is singing beautifully outside.",
     "i saw a rabbit in the park yesterday.",
     "my neighbor has a very loud horse.",
-    "i am afraid of snakes."
+    "i am afraid of snakes.",
+    "can you please send me the company's annual report?",
+    "i need to schedule a meeting with the marketing team.",
+    "what is your company's main product?",
+    "i am available for a phone interview tomorrow."
   ],
   "used_categories": [
-    {
-      "category": "الطقس",
-      "timestamp": "2026-03-21T19:44:43.971587"
-    },
     {
       "category": "الأرقام والوقت",
       "timestamp": "2026-03-22T05:12:32.019030"
@@ -315,6 +315,10 @@
     {
       "category": "الحيوانات",
       "timestamp": "2026-04-30T22:13:39.493056"
+    },
+    {
+      "category": "العمل والأعمال",
+      "timestamp": "2026-05-01T07:54:28.336962"
     }
   ],
   "phrase_hashes": [
@@ -431,6 +435,10 @@
     "92b4ab225c1835f6340664516409ce5f",
     "3b61aa5879f2f2530d413ed445b12a75",
     "c67ba8a26d8e0c33159ce1803816980e",
-    "f2c3cffae43aac72bf03dae109c0003f"
+    "f2c3cffae43aac72bf03dae109c0003f",
+    "027a11ce688f96c327fde5c6fce464ce",
+    "c636d5d634bb5a90ec669a24798589b4",
+    "841d559a2052da5f379cf5c57c48f524",
+    "ee558678a69f6970a84308be745b8f02"
   ]
 }
