@@ -117,13 +117,11 @@
     "can you please send me the company's annual report?",
     "i need to schedule a meeting with the marketing team.",
     "what is your company's main product?",
-    "i am available for a phone interview tomorrow."
+    "i am available for a phone interview tomorrow.",
+    "it is cold and it is snowing.",
+    "the wind is very strong today."
   ],
   "used_categories": [
-    {
-      "category": "الأرقام والوقت",
-      "timestamp": "2026-03-22T05:12:32.019030"
-    },
     {
       "category": "الحكمة",
       "timestamp": "2026-03-22T09:58:29.535604"
@@ -319,6 +317,10 @@
     {
       "category": "العمل والأعمال",
       "timestamp": "2026-05-01T07:54:28.336962"
+    },
+    {
+      "category": "الطقس",
+      "timestamp": "2026-05-01T12:07:26.503042"
     }
   ],
   "phrase_hashes": [
@@ -439,6 +441,8 @@
     "027a11ce688f96c327fde5c6fce464ce",
     "c636d5d634bb5a90ec669a24798589b4",
     "841d559a2052da5f379cf5c57c48f524",
-    "ee558678a69f6970a84308be745b8f02"
+    "ee558678a69f6970a84308be745b8f02",
+    "00e19c361c762b027de1611be646c1d4",
+    "c9a0912c2afe05ffad8574fa27de04c0"
   ]
 }

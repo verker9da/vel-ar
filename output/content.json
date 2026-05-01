@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "الطقس",
   "phrases": [
     {
-      "english": "I am looking for a new job opportunity.",
-      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
-      "pronunciation": "Ana abḥath 'an furṣa 'amal jadīdah.",
-      "context": "Use this when you are actively seeking employment."
+      "english": "What is the weather like today?",
+      "arabic": "كيف حال الطقس اليوم؟",
+      "pronunciation": "kayf hal al-taqs al-yawm?",
+      "context": "Use this when you want to inquire about the current weather conditions."
     },
     {
-      "english": "Can you please send me the company's annual report?",
-      "arabic": "هل يمكنك من فضلك إرسال التقرير السنوي للشركة لي؟",
-      "pronunciation": "Hal yumkinuka min faḍlik irsāl al-taqrīr al-sanawī lil-sharika lī?",
-      "context": "This is useful for requesting important business documents."
+      "english": "It is very hot outside.",
+      "arabic": "الجو حار جداً في الخارج.",
+      "pronunciation": "al-jaww haar jiddan fil kharij.",
+      "context": "Say this when the temperature is high and it feels very warm."
     },
     {
-      "english": "I need to schedule a meeting with the marketing team.",
-      "arabic": "أحتاج إلى تحديد موعد اجتماع مع فريق التسويق.",
-      "pronunciation": "Aḥtāju ilā taḥdīd maw'id ijtima' ma' farīq al-taswīq.",
-      "context": "Say this when you want to arrange a group discussion."
+      "english": "It is cold and it is snowing.",
+      "arabic": "الجو بارد ويتساقط الثلج.",
+      "pronunciation": "al-jaww baarid wa yatasāqat al-thalj.",
+      "context": "Use this to describe a cold day with snowfall."
     },
     {
-      "english": "What is your company's main product?",
-      "arabic": "ما هو المنتج الرئيسي لشركتكم؟",
-      "pronunciation": "Mā huwa al-muntaj al-ra'īsī li-sharikatukum?",
-      "context": "Ask this to inquire about their core business offerings."
+      "english": "It looks like it will rain soon.",
+      "arabic": "يبدو أنه ستمطر قريباً.",
+      "pronunciation": "yabdu annahu satumtir qareeban.",
+      "context": "This phrase is useful when you observe signs of impending rain."
     },
     {
-      "english": "I am available for a phone interview tomorrow.",
-      "arabic": "أنا متاح لإجراء مقابلة هاتفية غدًا.",
-      "pronunciation": "Ana mutāḥ li-ijrā' muqābalah hātifiyyah ghadan.",
-      "context": "Use this to confirm your availability for a job interview."
+      "english": "The wind is very strong today.",
+      "arabic": "الرياح قوية جداً اليوم.",
+      "pronunciation": "al-riyah qawiyyah jiddan al-yawm.",
+      "context": "Utter this when there is a powerful breeze or gale."
     }
   ],
   "total": 5
