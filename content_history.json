@@ -123,13 +123,14 @@
     "the meeting is at three o'clock in the afternoon.",
     "i need to leave at seven thirty in the morning.",
     "my birthday is on the fifth of june.",
-    "there are twenty-five students in the class."
+    "there are twenty-five students in the class.",
+    "i want to learn arabic because it is the language of the quran.",
+    "i am motivated to practice speaking with native speakers.",
+    "this is a great opportunity to improve my arabic skills.",
+    "i am determined to become fluent in arabic.",
+    "i find learning arabic very rewarding."
   ],
   "used_categories": [
-    {
-      "category": "التسوق",
-      "timestamp": "2026-03-22T14:57:33.770600"
-    },
     {
       "category": "الصحة والجسد",
       "timestamp": "2026-03-22T19:46:13.683680"
@@ -325,6 +326,10 @@
     {
       "category": "الأرقام والوقت",
       "timestamp": "2026-05-01T17:37:51.707381"
+    },
+    {
+      "category": "الدافع",
+      "timestamp": "2026-05-01T22:06:33.356528"
     }
   ],
   "phrase_hashes": [
@@ -451,6 +456,11 @@
     "a465c671714ff34e0b85ae3b4b8261fb",
     "d424aa1ce959eba930451e98166f9ae7",
     "7dd7f7f127c2a524cef4e9450329b79e",
-    "ca0915b7443ba598ec8b91d184f7a849"
+    "ca0915b7443ba598ec8b91d184f7a849",
+    "7118e8dd67b315881006065142432550",
+    "1507459012325e3599ce603d31762329",
+    "93c198061fe32887876e9096b423dc5e",
+    "c87c00596db130fbda952cc0da31e919",
+    "3c5088459249615de42aa7939c187e2d"
   ]
 }
