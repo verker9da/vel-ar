@@ -131,13 +131,11 @@
     "i find learning arabic very rewarding.",
     "my favorite hobby is playing football with my friends.",
     "i like listening to music, especially arabic music.",
-    "i love to travel and explore new places."
+    "i love to travel and explore new places.",
+    "i would like to order a falafel sandwich, please.",
+    "where is the nearest supermarket?"
   ],
   "used_categories": [
-    {
-      "category": "النجاح",
-      "timestamp": "2026-03-23T05:48:04.314999"
-    },
     {
       "category": "الألوان والأوصاف",
       "timestamp": "2026-03-23T05:48:48.585986"
@@ -333,6 +331,10 @@
     {
       "category": "الهوايات والأنشطة",
       "timestamp": "2026-05-02T06:32:07.684107"
+    },
+    {
+      "category": "الطعام والطعام",
+      "timestamp": "2026-05-02T11:34:01.654971"
     }
   ],
   "phrase_hashes": [
@@ -467,6 +469,8 @@
     "3c5088459249615de42aa7939c187e2d",
     "decc05262883960c1912149a9bb4cf75",
     "ca9d226282c1f701e508213e04243193",
-    "64f7b3728a19b6a062e92ecc147ac6d3"
+    "64f7b3728a19b6a062e92ecc147ac6d3",
+    "ae04f79dc3acf4e221ced8badbc523a6",
+    "e42afff1718a6e067cbe819a5eadf3a5"
   ]
 }
