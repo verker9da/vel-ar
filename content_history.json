@@ -143,13 +143,13 @@
     "his eyes are a deep brown color.",
     "she wore a dress that was light pink.",
     "i am feeling tired.",
-    "i am allergic to cats."
+    "i am allergic to cats.",
+    "i would like to buy this shirt.",
+    "do you have this in a different size?",
+    "can i try this on?",
+    "i am just looking, thank you."
   ],
   "used_categories": [
-    {
-      "category": "التسوق",
-      "timestamp": "2026-03-23T20:58:19.010101"
-    },
     {
       "category": "الحب",
       "timestamp": "2026-03-24T05:16:24.091563"
@@ -345,6 +345,10 @@
     {
       "category": "الصحة والجسد",
       "timestamp": "2026-05-03T07:31:07.121031"
+    },
+    {
+      "category": "التسوق",
+      "timestamp": "2026-05-03T11:29:47.657098"
     }
   ],
   "phrase_hashes": [
@@ -491,6 +495,10 @@
     "30968c9e28d31298eb6b0dd11dd0dbbf",
     "101456ca3af519fceaa04ca6d16ed41e",
     "9d030832c7b632d330a60f019ec036e6",
-    "73aaaab64f27800e63891977e7796bed"
+    "73aaaab64f27800e63891977e7796bed",
+    "ff97a02b4481e2e3f9a92524730be0e8",
+    "b00156912c1dcab0877a74108b9487c6",
+    "e7bf380b62d18a216341c257e78a7fc1",
+    "376666c84b4e7faf6b5be349f4653417"
   ]
 }
