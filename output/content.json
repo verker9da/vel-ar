@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "السعادة",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this to ask the price of an item you are interested in buying."
+      "english": "I am very happy today because the weather is beautiful.",
+      "arabic": "أنا سعيد جدًا اليوم لأن الطقس جميل.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-taqs jameel.",
+      "context": "Use this to express your happiness about a pleasant day."
     },
     {
-      "english": "I would like to buy this shirt.",
-      "arabic": "أريد شراء هذه القميص.",
-      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
-      "context": "State what specific item you wish to purchase."
+      "english": "This food tastes delicious, it makes me happy.",
+      "arabic": "هذا الطعام لذيذ جدًا، إنه يجعلني سعيدًا.",
+      "pronunciation": "Hadha al-ta'am ladheedh jiddan, innahu yaj'aluni sa'eedan.",
+      "context": "Say this when you enjoy a meal immensely."
     },
     {
-      "english": "Do you have this in a different size?",
-      "arabic": "هل لديكم هذا بمقاس مختلف؟",
-      "pronunciation": "Hal ladaykum hatha bi-maqaas mukhtalif?",
-      "context": "Inquire about availability in other sizes if the current one doesn't fit."
+      "english": "Seeing my family always brings me joy.",
+      "arabic": "رؤية عائلتي تجلب لي السعادة دائمًا.",
+      "pronunciation": "Ru'yat 'a'ilati tajlibu li al-sa'adah da'iman.",
+      "context": "Express this sentiment when you are with loved ones."
     },
     {
-      "english": "Can I try this on?",
-      "arabic": "هل يمكنني تجربته؟",
-      "pronunciation": "Hal yumkinuni tajribatuh?",
-      "context": "Ask permission to try on clothing before purchasing."
+      "english": "I feel a sense of peace and happiness when I read books.",
+      "arabic": "أشعر بالسلام والسعادة عندما أقرأ الكتب.",
+      "pronunciation": "Ash'ur bil-salam wal-sa'adah 'indama aqra' al-kutub.",
+      "context": "Share this when talking about your hobbies and how they affect you."
     },
     {
-      "english": "I am just looking, thank you.",
-      "arabic": "أنا فقط أتفرج، شكراً لك.",
-      "pronunciation": "Ana faqat atafarraj, shukran lak.",
-      "context": "Politely decline assistance if you are not ready to buy yet."
+      "english": "Thank you, your kindness has made me truly happy.",
+      "arabic": "شكرًا لك، لطفك أسعدني حقًا.",
+      "pronunciation": "Shukran lak, lutfuka as'adani haqqan.",
+      "context": "Use this to show gratitude for someone's kind actions."
     }
   ],
   "total": 5
