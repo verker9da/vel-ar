@@ -149,13 +149,14 @@
     "can i try this on?",
     "i am just looking, thank you.",
     "you are very beautiful.",
-    "my heart beats for you."
+    "my heart beats for you.",
+    "my mother is a doctor and she is very kind.",
+    "my father works in a bank and he is very smart.",
+    "i have one brother and two sisters, and we are very close.",
+    "my grandmother loves to cook traditional food.",
+    "my cousin is getting married next month."
   ],
   "used_categories": [
-    {
-      "category": "الحيوانات",
-      "timestamp": "2026-03-24T21:00:57.492313"
-    },
     {
       "category": "الحكمة",
       "timestamp": "2026-03-25T05:16:57.069515"
@@ -351,6 +352,10 @@
     {
       "category": "الحب",
       "timestamp": "2026-05-04T09:07:29.652947"
+    },
+    {
+      "category": "العائلة والعلاقات",
+      "timestamp": "2026-05-04T19:07:29.460394"
     }
   ],
   "phrase_hashes": [
@@ -503,6 +508,11 @@
     "e7bf380b62d18a216341c257e78a7fc1",
     "376666c84b4e7faf6b5be349f4653417",
     "857d14e5eded0b95cecbcefbce2bce5c",
-    "48683be959bb33cdc84a72c806fd8b51"
+    "48683be959bb33cdc84a72c806fd8b51",
+    "2be372587bd7f575003a8647360248b1",
+    "a6f0262084878e6452b627f6f72fa5d3",
+    "f8e72625080d81d7aefa650612072b20",
+    "496a7100421ba3fe060cf2d675c66413",
+    "47ecd1f8b98abffaf1351efc8665f3a7"
   ]
 }

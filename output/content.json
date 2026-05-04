@@ -1,35 +1,35 @@
 {
-  "category": "الحب",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "I love you very much.",
-      "arabic": "أحبك كثيراً.",
-      "pronunciation": "Uhibbuka katheeran.",
-      "context": "This is a strong expression of love for a romantic partner or close family member."
+      "english": "My mother is a doctor and she is very kind.",
+      "arabic": "أمي طبيبة وهي لطيفة جدًا.",
+      "pronunciation": "Ummi tabeebah wa hiya lateefah jiddan.",
+      "context": "Use this to describe your mother's profession and personality."
     },
     {
-      "english": "You are very beautiful.",
-      "arabic": "أنتِ جميلة جداً.",
-      "pronunciation": "Anti jameela jiddan.",
-      "context": "Use this to compliment a woman's appearance sincerely."
+      "english": "My father works in a bank and he is very smart.",
+      "arabic": "أبي يعمل في بنك وهو ذكي جدًا.",
+      "pronunciation": "Abi ya'mal fi bank wa huwa zakiyy jiddan.",
+      "context": "Use this to talk about your father's job and intelligence."
     },
     {
-      "english": "My heart beats for you.",
-      "arabic": "قلبي ينبض لك.",
-      "pronunciation": "Qalbi yanbidhu lak.",
-      "context": "A poetic and romantic way to express deep affection."
+      "english": "I have one brother and two sisters, and we are very close.",
+      "arabic": "لدي أخ واحد وأختان، ونحن مقربون جدًا.",
+      "pronunciation": "Ladaiy akh wahid wa ukhtan, wa nahnu muqarriboon jiddan.",
+      "context": "Use this to explain your sibling situation and family bond."
     },
     {
-      "english": "I miss you a lot.",
-      "arabic": "أفتقدك كثيراً.",
-      "pronunciation": "Aftaqiduka katheeran.",
-      "context": "Use this when you haven't seen someone you care about in a while."
+      "english": "My grandmother loves to cook traditional food.",
+      "arabic": "جدتي تحب طهي الطعام التقليدي.",
+      "pronunciation": "Jaddati tuhibbu tahiy al-ta'am al-taqlidiyy.",
+      "context": "Use this to share a hobby or skill of your grandmother."
     },
     {
-      "english": "You are my everything.",
-      "arabic": "أنت كل شيء لي.",
-      "pronunciation": "Anta kullu shay'in li.",
-      "context": "This phrase conveys that the person is the most important thing in your life."
+      "english": "My cousin is getting married next month.",
+      "arabic": "ابن عمي سيتزوج الشهر القادم.",
+      "pronunciation": "Ibn 'ammi sayatazawwaj al-shahr al-qadim.",
+      "context": "Use this to share news about a family member's upcoming event."
     }
   ],
   "total": 5
