@@ -1,35 +1,35 @@
 {
-  "category": "العائلة والعلاقات",
+  "category": "الدافع",
   "phrases": [
     {
-      "english": "My mother is a doctor and she is very kind.",
-      "arabic": "أمي طبيبة وهي لطيفة جدًا.",
-      "pronunciation": "Ummi tabeebah wa hiya lateefah jiddan.",
-      "context": "Use this to describe your mother's profession and personality."
+      "english": "I want to learn Arabic because it is the language of the Quran.",
+      "arabic": "أريد أن أتعلم العربية لأنها لغة القرآن.",
+      "pronunciation": "Ureed an ata'allam al-'arabiyya li'annaha lughat al-Qur'an.",
+      "context": "To state your primary motivation for learning Arabic."
     },
     {
-      "english": "My father works in a bank and he is very smart.",
-      "arabic": "أبي يعمل في بنك وهو ذكي جدًا.",
-      "pronunciation": "Abi ya'mal fi bank wa huwa zakiyy jiddan.",
-      "context": "Use this to talk about your father's job and intelligence."
+      "english": "I am motivated to practice speaking with native speakers.",
+      "arabic": "أنا متحمس لممارسة التحدث مع الناطقين بها.",
+      "pronunciation": "Ana mutahammis limumarasat at-tahadduth ma'a an-natiqeen biha.",
+      "context": "To express your eagerness to engage in conversation."
     },
     {
-      "english": "I have one brother and two sisters, and we are very close.",
-      "arabic": "لدي أخ واحد وأختان، ونحن مقربون جدًا.",
-      "pronunciation": "Ladaiy akh wahid wa ukhtan, wa nahnu muqarriboon jiddan.",
-      "context": "Use this to explain your sibling situation and family bond."
+      "english": "This is a great opportunity to improve my Arabic skills.",
+      "arabic": "هذه فرصة رائعة لتحسين مهاراتي في اللغة العربية.",
+      "pronunciation": "Hadhihi fursa raa'i'a litahseen maharati fil-lugha al-'arabiyya.",
+      "context": "To acknowledge a beneficial situation for language development."
     },
     {
-      "english": "My grandmother loves to cook traditional food.",
-      "arabic": "جدتي تحب طهي الطعام التقليدي.",
-      "pronunciation": "Jaddati tuhibbu tahiy al-ta'am al-taqlidiyy.",
-      "context": "Use this to share a hobby or skill of your grandmother."
+      "english": "I am determined to become fluent in Arabic.",
+      "arabic": "أنا مصمم على أن أصبح طليقًا في اللغة العربية.",
+      "pronunciation": "Ana musammam 'ala an usbih taliiqan fil-lugha al-'arabiyya.",
+      "context": "To declare your strong resolve to achieve fluency."
     },
     {
-      "english": "My cousin is getting married next month.",
-      "arabic": "ابن عمي سيتزوج الشهر القادم.",
-      "pronunciation": "Ibn 'ammi sayatazawwaj al-shahr al-qadim.",
-      "context": "Use this to share news about a family member's upcoming event."
+      "english": "I find learning Arabic very rewarding.",
+      "arabic": "أجد تعلم اللغة العربية مجزيًا للغاية.",
+      "pronunciation": "Ajid ta'allum al-lugha al-'arabiyya mujziyan lil-ghaya.",
+      "context": "To share your positive feelings about the learning process."
     }
   ],
   "total": 5
