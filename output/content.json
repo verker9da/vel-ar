@@ -1,35 +1,35 @@
 {
-  "category": "العواطف والمشاعر",
+  "category": "أساسيات السفر",
   "phrases": [
     {
-      "english": "I am very happy today.",
-      "arabic": "أنا سعيد جدًا اليوم.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm.",
-      "context": "Use this when you feel joyful or pleased."
+      "english": "Where is the nearest restroom?",
+      "arabic": "أين أقرب حمام؟",
+      "pronunciation": "Ayna aqrab hammam?",
+      "context": "Use this when you need to find a bathroom urgently."
     },
     {
-      "english": "I feel a little sad.",
-      "arabic": "أشعر ببعض الحزن.",
-      "pronunciation": "Ash'ur bi-ba'd al-huzn.",
-      "context": "Use this when you are experiencing a mild sense of unhappiness."
+      "english": "How much does this cost?",
+      "arabic": "بكم هذا؟",
+      "pronunciation": "Bikam hatha?",
+      "context": "Ask this when you want to know the price of an item."
     },
     {
-      "english": "I am angry because of the delay.",
-      "arabic": "أنا غاضب بسبب التأخير.",
-      "pronunciation": "Ana ghadib bi-sabab at-ta'kheer.",
-      "context": "Use this to express frustration or annoyance."
+      "english": "I would like a cup of coffee, please.",
+      "arabic": "أريد كوب قهوة من فضلك.",
+      "pronunciation": "Ureed koob qahwa min fadlak.",
+      "context": "Use this when ordering a drink at a cafe."
     },
     {
-      "english": "She is very excited about the trip.",
-      "arabic": "هي متحمسة جدًا للرحلة.",
-      "pronunciation": "Hiya mutahammisa jiddan lir-rihla.",
-      "context": "Use this to describe someone's enthusiasm for an event."
+      "english": "Can you help me, please?",
+      "arabic": "هل يمكنك مساعدتي من فضلك؟",
+      "pronunciation": "Hal yumkinuka musa'adati min fadlak?",
+      "context": "Say this if you need assistance from someone."
     },
     {
-      "english": "He is afraid of spiders.",
-      "arabic": "هو يخاف من العناكب.",
-      "pronunciation": "Huwa yakhaf min al-'anakeb.",
-      "context": "Use this to state someone's phobia or fear."
+      "english": "I don't understand.",
+      "arabic": "أنا لا أفهم.",
+      "pronunciation": "Ana la afham.",
+      "context": "Use this when you cannot comprehend what someone is saying."
     }
   ],
   "total": 5
