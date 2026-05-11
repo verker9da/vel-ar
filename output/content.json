@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "الطعام والطعام",
   "phrases": [
     {
-      "english": "Hello, how are you doing today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
-      "context": "A polite greeting to start any conversation."
+      "english": "I would like to order a falafel sandwich, please.",
+      "arabic": "أود أن أطلب سندويتش فلافل من فضلك.",
+      "pronunciation": "Awad an atlub sandwich falafel min fadlak.",
+      "context": "Use this when ordering food at a restaurant or cafe."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatika.",
-      "context": "Expressing gratitude when someone has assisted you."
+      "english": "This food is very delicious, thank you.",
+      "arabic": "هذا الطعام لذيذ جداً، شكراً لك.",
+      "pronunciation": "Hatha al-ta'am latheeth jiddan, shukran lak.",
+      "context": "Say this to compliment the cook or server on a meal."
     },
     {
-      "english": "Excuse me, where is the nearest restroom?",
-      "arabic": "عفواً، أين أقرب حمام؟",
-      "pronunciation": "'Afwan, ayna aqrab hammam?",
-      "context": "Asking for directions to a necessary facility."
+      "english": "Can I have the bill, please?",
+      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
+      "pronunciation": "Hal yumkinuni al-husool 'ala al-fatoorah, min fadlak?",
+      "context": "Use this when you are ready to pay after eating."
     },
     {
-      "english": "I would like to order one cup of coffee.",
-      "arabic": "أرغب في طلب كوب واحد من القهوة.",
-      "pronunciation": "Arghabu fi talabi koobin wahidin min al-qahwah.",
-      "context": "Useful for ordering food or drinks in a restaurant or cafe."
+      "english": "I am allergic to peanuts.",
+      "arabic": "أنا حساس من الفول السوداني.",
+      "pronunciation": "Ana hassas min al-fool al-soodani.",
+      "context": "Inform your server about any food allergies to ensure safety."
     },
     {
-      "english": "I don't understand what you are saying.",
-      "arabic": "أنا لا أفهم ما تقوله.",
-      "pronunciation": "Ana la afhamu ma taquluhu.",
-      "context": "To politely indicate a lack of comprehension."
+      "english": "Where is the nearest supermarket?",
+      "arabic": "أين السوبر ماركت الأقرب؟",
+      "pronunciation": "Ayna al-supermarket al-aqrab?",
+      "context": "Ask this when you need to buy groceries or food items."
     }
   ],
   "total": 5
