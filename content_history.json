@@ -167,13 +167,13 @@
     "learn from yesterday, live for today, hope for tomorrow.",
     "a little bit of knowledge is a dangerous thing.",
     "the pen is mightier than the sword.",
-    "every cloud has a silver lining."
+    "every cloud has a silver lining.",
+    "hello, how are you doing today?",
+    "excuse me, where is the nearest restroom?",
+    "i would like to order one cup of coffee.",
+    "i don't understand what you are saying."
   ],
   "used_categories": [
-    {
-      "category": "العبارات الشائعة",
-      "timestamp": "2026-03-30T06:17:45.769274"
-    },
     {
       "category": "العمل والأعمال",
       "timestamp": "2026-03-30T12:04:41.291398"
@@ -369,6 +369,10 @@
     {
       "category": "الألوان والأوصاف",
       "timestamp": "2026-05-10T21:35:48.459482"
+    },
+    {
+      "category": "النجاح",
+      "timestamp": "2026-05-11T11:49:10.644488"
     }
   ],
   "phrase_hashes": [
@@ -539,6 +543,10 @@
     "d12a520987c76528da5179e632fc1296",
     "6de85b48a480df20685d7ffe7e84fb89",
     "c02be675980d5efa137085b32b834a9b",
-    "7f5f35e1ada810789505c324a04c538f"
+    "7f5f35e1ada810789505c324a04c538f",
+    "57269a02966303042386464415c70324",
+    "467aad99a1aca1502eec3d6e0b5a9091",
+    "cc8d31dbf97d6fef4ea00fa999bb485f",
+    "88e3fb06b90d0b1d3f11a019ef6a56dd"
   ]
 }
