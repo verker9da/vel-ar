@@ -1,35 +1,35 @@
 {
-  "category": "الحب",
+  "category": "الأرقام والوقت",
   "phrases": [
     {
-      "english": "I love you very much.",
-      "arabic": "أحبك كثيراً.",
-      "pronunciation": "Uhibbuka katheeran.",
-      "context": "This is a strong expression of love for a romantic partner or close family member."
+      "english": "What time is it right now?",
+      "arabic": "كم الساعة الآن؟",
+      "pronunciation": "Kam al-saa'ah al-aan?",
+      "context": "Use this to ask for the current time in any situation."
     },
     {
-      "english": "You are very beautiful.",
-      "arabic": "أنتِ جميلة جداً.",
-      "pronunciation": "Anti jameela jiddan.",
-      "context": "Use this to compliment a woman's appearance sincerely."
+      "english": "The meeting is at three o'clock in the afternoon.",
+      "arabic": "الاجتماع في الساعة الثالثة بعد الظهر.",
+      "pronunciation": "Al-ijtimaa' fi al-saa'ah al-thaalithah ba'd al-dhuhr.",
+      "context": "This phrase is useful for stating scheduled appointments or events."
     },
     {
-      "english": "My heart beats for you.",
-      "arabic": "قلبي ينبض لك.",
-      "pronunciation": "Qalbi yanbidhu lak.",
-      "context": "A poetic and romantic way to express deep affection."
+      "english": "I need to leave at seven thirty in the morning.",
+      "arabic": "أحتاج أن أغادر في الساعة السابعة والنصف صباحاً.",
+      "pronunciation": "Ahtaaj an ughaadir fi al-saa'ah al-saabi'ah wal-nisf sabaahan.",
+      "context": "Use this to inform someone about your departure time."
     },
     {
-      "english": "I miss you a lot.",
-      "arabic": "أفتقدك كثيراً.",
-      "pronunciation": "Aftaqiduka katheeran.",
-      "context": "Use this when you haven't seen someone you care about in a while."
+      "english": "My birthday is on the fifth of June.",
+      "arabic": "عيد ميلادي في الخامس من يونيو.",
+      "pronunciation": "Eid meelaadi fi al-khaamis min Yunyuu.",
+      "context": "This is how you state your date of birth or any date."
     },
     {
-      "english": "You are my everything.",
-      "arabic": "أنت كل شيء لي.",
-      "pronunciation": "Anta kullu shay'in li.",
-      "context": "This phrase conveys that the person is the most important thing in your life."
+      "english": "There are twenty-five students in the class.",
+      "arabic": "يوجد خمسة وعشرون طالباً في الصف.",
+      "pronunciation": "Yujad khamsah wa 'ishrun taaliban fi al-saff.",
+      "context": "Use this to state a specific quantity or number of people."
     }
   ],
   "total": 5
