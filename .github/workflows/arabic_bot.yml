@@ -1,10 +1,14 @@
 name: Arabic Learning Video Bot
 
 on:
+  # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    # Run 5 times a day at these times (UTC):
-    # 00:00, 04:48, 09:36, 14:24, 19:12 (spread throughout the day)
-    - cron: '0 0,4,9,14,19 * * *'
+    - cron: '0 13 * * *'  # 8:00 AM EST
+    - cron: '0 16 * * *'  # 11:00 AM EST
+    - cron: '0 19 * * *'  # 2:00 PM EST
+    - cron: '0 22 * * *'  # 5:00 PM EST
+    - cron: '0 1 * * *'   # 8:00 PM EST
+
   workflow_dispatch: # Allow manual trigger
 
 jobs:
