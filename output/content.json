@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "الطقس",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this to ask the price of an item you are interested in buying."
+      "english": "What is the weather like today?",
+      "arabic": "كيف حال الطقس اليوم؟",
+      "pronunciation": "kayf hal al-taqs al-yawm?",
+      "context": "Use this when you want to inquire about the current weather conditions."
     },
     {
-      "english": "I would like to buy this shirt.",
-      "arabic": "أريد شراء هذه القميص.",
-      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
-      "context": "State what specific item you wish to purchase."
+      "english": "It is very hot outside.",
+      "arabic": "الجو حار جداً في الخارج.",
+      "pronunciation": "al-jaww haar jiddan fil kharij.",
+      "context": "Say this when the temperature is high and it feels very warm."
     },
     {
-      "english": "Do you have this in a different size?",
-      "arabic": "هل لديكم هذا بمقاس مختلف؟",
-      "pronunciation": "Hal ladaykum hatha bi-maqaas mukhtalif?",
-      "context": "Inquire about availability in other sizes if the current one doesn't fit."
+      "english": "It is cold and it is snowing.",
+      "arabic": "الجو بارد ويتساقط الثلج.",
+      "pronunciation": "al-jaww baarid wa yatasāqat al-thalj.",
+      "context": "Use this to describe a cold day with snowfall."
     },
     {
-      "english": "Can I try this on?",
-      "arabic": "هل يمكنني تجربته؟",
-      "pronunciation": "Hal yumkinuni tajribatuh?",
-      "context": "Ask permission to try on clothing before purchasing."
+      "english": "It looks like it will rain soon.",
+      "arabic": "يبدو أنه ستمطر قريباً.",
+      "pronunciation": "yabdu annahu satumtir qareeban.",
+      "context": "This phrase is useful when you observe signs of impending rain."
     },
     {
-      "english": "I am just looking, thank you.",
-      "arabic": "أنا فقط أتفرج، شكراً لك.",
-      "pronunciation": "Ana faqat atafarraj, shukran lak.",
-      "context": "Politely decline assistance if you are not ready to buy yet."
+      "english": "The wind is very strong today.",
+      "arabic": "الرياح قوية جداً اليوم.",
+      "pronunciation": "al-riyah qawiyyah jiddan al-yawm.",
+      "context": "Utter this when there is a powerful breeze or gale."
     }
   ],
   "total": 5
