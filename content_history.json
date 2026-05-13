@@ -171,13 +171,13 @@
     "hello, how are you doing today?",
     "excuse me, where is the nearest restroom?",
     "i would like to order one cup of coffee.",
-    "i don't understand what you are saying."
+    "i don't understand what you are saying.",
+    "good morning, how are you today?",
+    "hello, peace be upon you.",
+    "good evening, i hope you are well.",
+    "goodbye, may you be in god's protection."
   ],
   "used_categories": [
-    {
-      "category": "الأرقام والوقت",
-      "timestamp": "2026-04-27T15:27:43.309411"
-    },
     {
       "category": "العواطف والمشاعر",
       "timestamp": "2026-04-27T22:08:50.893825"
@@ -373,6 +373,10 @@
     {
       "category": "الهوايات والأنشطة",
       "timestamp": "2026-05-13T10:09:17.489989"
+    },
+    {
+      "category": "التحيات اليومية",
+      "timestamp": "2026-05-13T11:52:51.282071"
     }
   ],
   "phrase_hashes": [
@@ -547,6 +551,10 @@
     "57269a02966303042386464415c70324",
     "467aad99a1aca1502eec3d6e0b5a9091",
     "cc8d31dbf97d6fef4ea00fa999bb485f",
-    "88e3fb06b90d0b1d3f11a019ef6a56dd"
+    "88e3fb06b90d0b1d3f11a019ef6a56dd",
+    "0e639be2ac3c96890290c67b6b12184e",
+    "6a08969f5cae0f42329839b02f79263a",
+    "8cb3aa5824159e8bbfa69b4d22d46ae2",
+    "5538598d3993da884151da1ee2779e4e"
   ]
 }

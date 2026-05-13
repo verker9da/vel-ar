@@ -1,35 +1,35 @@
 {
-  "category": "الهوايات والأنشطة",
+  "category": "التحيات اليومية",
   "phrases": [
     {
-      "english": "I enjoy reading books in my free time.",
-      "arabic": "أنا أستمتع بقراءة الكتب في وقت فراغي.",
-      "pronunciation": "Ana astamti' bi qira'at al-kutub fi waqt faraghi.",
-      "context": "Use this to talk about your favorite hobby."
+      "english": "Good morning, how are you today?",
+      "arabic": "صباح الخير، كيف حالك اليوم؟",
+      "pronunciation": "Sabah al-khair, kayfa haluk al-yawm?",
+      "context": "Used to greet someone in the morning."
     },
     {
-      "english": "My favorite hobby is playing football with my friends.",
-      "arabic": "هوايتي المفضلة هي لعب كرة القدم مع أصدقائي.",
-      "pronunciation": "Hiwayti al-mufaddalah hiya la'ib kurat al-qadam ma'a asdiqa'i.",
-      "context": "Share your preferred leisure activity."
+      "english": "Hello, peace be upon you.",
+      "arabic": "مرحباً، السلام عليكم.",
+      "pronunciation": "Marhaban, as-salamu alaykum.",
+      "context": "A very common and respectful greeting used at any time."
     },
     {
-      "english": "I like listening to music, especially Arabic music.",
-      "arabic": "أحب الاستماع إلى الموسيقى، وخاصة الموسيقى العربية.",
-      "pronunciation": "Uhibbu al-istima' ila al-musiqa, wa khassatan al-musiqa al-'arabiyyah.",
-      "context": "Express your enjoyment of a specific type of music."
+      "english": "Good evening, I hope you are well.",
+      "arabic": "مساء الخير، أتمنى أن تكون بخير.",
+      "pronunciation": "Masa' al-khair, atamanna an takun bikhair.",
+      "context": "Used to greet someone in the evening."
     },
     {
-      "english": "I love to travel and explore new places.",
-      "arabic": "أحب السفر واستكشاف الأماكن الجديدة.",
-      "pronunciation": "Uhibbu as-safar wa istikshaf al-amakin al-jadidah.",
-      "context": "Talk about your passion for exploring different locations."
+      "english": "Goodbye, may you be in God's protection.",
+      "arabic": "مع السلامة، في أمان الله.",
+      "pronunciation": "Ma'a as-salama, fi aman Allah.",
+      "context": "A common and warm way to say goodbye."
     },
     {
-      "english": "I spend my weekends hiking in the mountains.",
-      "arabic": "أقضي عطلة نهاية الأسبوع في المشي لمسافات طويلة في الجبال.",
-      "pronunciation": "Aqdi 'utlat nihayat al-usbu' fi al-mashi li masafat tawilah fi al-jibal.",
-      "context": "Describe how you spend your leisure time outdoors."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude after someone has assisted you."
     }
   ],
   "total": 5
