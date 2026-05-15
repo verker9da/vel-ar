@@ -1,35 +1,35 @@
 {
-  "category": "الحب",
+  "category": "الاتجاهات",
   "phrases": [
     {
-      "english": "I love you very much.",
-      "arabic": "أحبك كثيراً.",
-      "pronunciation": "Uhibbuka katheeran.",
-      "context": "This is a strong expression of love for a romantic partner or close family member."
+      "english": "Where is the nearest train station, please?",
+      "arabic": "أين أقرب محطة قطار من فضلك؟",
+      "pronunciation": "Ayna aqrab mahattat qitar min fadlak?",
+      "context": "Use this when you need to find the closest train station."
     },
     {
-      "english": "You are very beautiful.",
-      "arabic": "أنتِ جميلة جداً.",
-      "pronunciation": "Anti jameela jiddan.",
-      "context": "Use this to compliment a woman's appearance sincerely."
+      "english": "How do I get to the city center?",
+      "arabic": "كيف أصل إلى وسط المدينة؟",
+      "pronunciation": "Kayfa aṣil ilā wasṭ al-madīnah?",
+      "context": "Ask this if you are unsure how to reach the central part of the city."
     },
     {
-      "english": "My heart beats for you.",
-      "arabic": "قلبي ينبض لك.",
-      "pronunciation": "Qalbi yanbidhu lak.",
-      "context": "A poetic and romantic way to express deep affection."
+      "english": "Can you show me on the map?",
+      "arabic": "هل يمكنك أن تريني على الخريطة؟",
+      "pronunciation": "Hal yumkinuka an turīnī 'ala al-kharīṭah?",
+      "context": "Request this when you want a visual guide to a location."
     },
     {
-      "english": "I miss you a lot.",
-      "arabic": "أفتقدك كثيراً.",
-      "pronunciation": "Aftaqiduka katheeran.",
-      "context": "Use this when you haven't seen someone you care about in a while."
+      "english": "Turn left at the next intersection.",
+      "arabic": "انعطف يسارًا عند التقاطع التالي.",
+      "pronunciation": "In'aṭif yasāran 'inda al-taqāṭu' al-tālī.",
+      "context": "This is a common direction given by locals or navigation apps."
     },
     {
-      "english": "You are my everything.",
-      "arabic": "أنت كل شيء لي.",
-      "pronunciation": "Anta kullu shay'in li.",
-      "context": "This phrase conveys that the person is the most important thing in your life."
+      "english": "Is it far from here?",
+      "arabic": "هل هو بعيد من هنا؟",
+      "pronunciation": "Hal huwa ba'īd min hunā?",
+      "context": "Inquire about the distance to a destination you are heading towards."
     }
   ],
   "total": 5
