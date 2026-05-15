@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "الحب",
   "phrases": [
     {
-      "english": "Hello, how are you doing today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
-      "context": "A polite greeting to start any conversation."
+      "english": "I love you very much.",
+      "arabic": "أحبك كثيراً.",
+      "pronunciation": "Uhibbuka katheeran.",
+      "context": "This is a strong expression of love for a romantic partner or close family member."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatika.",
-      "context": "Expressing gratitude when someone has assisted you."
+      "english": "You are very beautiful.",
+      "arabic": "أنتِ جميلة جداً.",
+      "pronunciation": "Anti jameela jiddan.",
+      "context": "Use this to compliment a woman's appearance sincerely."
     },
     {
-      "english": "Excuse me, where is the nearest restroom?",
-      "arabic": "عفواً، أين أقرب حمام؟",
-      "pronunciation": "'Afwan, ayna aqrab hammam?",
-      "context": "Asking for directions to a necessary facility."
+      "english": "My heart beats for you.",
+      "arabic": "قلبي ينبض لك.",
+      "pronunciation": "Qalbi yanbidhu lak.",
+      "context": "A poetic and romantic way to express deep affection."
     },
     {
-      "english": "I would like to order one cup of coffee.",
-      "arabic": "أرغب في طلب كوب واحد من القهوة.",
-      "pronunciation": "Arghabu fi talabi koobin wahidin min al-qahwah.",
-      "context": "Useful for ordering food or drinks in a restaurant or cafe."
+      "english": "I miss you a lot.",
+      "arabic": "أفتقدك كثيراً.",
+      "pronunciation": "Aftaqiduka katheeran.",
+      "context": "Use this when you haven't seen someone you care about in a while."
     },
     {
-      "english": "I don't understand what you are saying.",
-      "arabic": "أنا لا أفهم ما تقوله.",
-      "pronunciation": "Ana la afhamu ma taquluhu.",
-      "context": "To politely indicate a lack of comprehension."
+      "english": "You are my everything.",
+      "arabic": "أنت كل شيء لي.",
+      "pronunciation": "Anta kullu shay'in li.",
+      "context": "This phrase conveys that the person is the most important thing in your life."
     }
   ],
   "total": 5
