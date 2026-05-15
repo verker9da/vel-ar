@@ -1,35 +1,35 @@
 {
-  "category": "الطعام والطعام",
+  "category": "العمل والأعمال",
   "phrases": [
     {
-      "english": "I would like to order a falafel sandwich, please.",
-      "arabic": "أود أن أطلب سندويتش فلافل من فضلك.",
-      "pronunciation": "Awad an atlub sandwich falafel min fadlak.",
-      "context": "Use this when ordering food at a restaurant or cafe."
+      "english": "I am looking for a new job opportunity.",
+      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
+      "pronunciation": "Ana abḥath 'an furṣa 'amal jadīdah.",
+      "context": "Use this when you are actively seeking employment."
     },
     {
-      "english": "This food is very delicious, thank you.",
-      "arabic": "هذا الطعام لذيذ جداً، شكراً لك.",
-      "pronunciation": "Hatha al-ta'am latheeth jiddan, shukran lak.",
-      "context": "Say this to compliment the cook or server on a meal."
+      "english": "Can you please send me the company's annual report?",
+      "arabic": "هل يمكنك من فضلك إرسال التقرير السنوي للشركة لي؟",
+      "pronunciation": "Hal yumkinuka min faḍlik irsāl al-taqrīr al-sanawī lil-sharika lī?",
+      "context": "This is useful for requesting important business documents."
     },
     {
-      "english": "Can I have the bill, please?",
-      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
-      "pronunciation": "Hal yumkinuni al-husool 'ala al-fatoorah, min fadlak?",
-      "context": "Use this when you are ready to pay after eating."
+      "english": "I need to schedule a meeting with the marketing team.",
+      "arabic": "أحتاج إلى تحديد موعد اجتماع مع فريق التسويق.",
+      "pronunciation": "Aḥtāju ilā taḥdīd maw'id ijtima' ma' farīq al-taswīq.",
+      "context": "Say this when you want to arrange a group discussion."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "أنا حساس من الفول السوداني.",
-      "pronunciation": "Ana hassas min al-fool al-soodani.",
-      "context": "Inform your server about any food allergies to ensure safety."
+      "english": "What is your company's main product?",
+      "arabic": "ما هو المنتج الرئيسي لشركتكم؟",
+      "pronunciation": "Mā huwa al-muntaj al-ra'īsī li-sharikatukum?",
+      "context": "Ask this to inquire about their core business offerings."
     },
     {
-      "english": "Where is the nearest supermarket?",
-      "arabic": "أين السوبر ماركت الأقرب؟",
-      "pronunciation": "Ayna al-supermarket al-aqrab?",
-      "context": "Ask this when you need to buy groceries or food items."
+      "english": "I am available for a phone interview tomorrow.",
+      "arabic": "أنا متاح لإجراء مقابلة هاتفية غدًا.",
+      "pronunciation": "Ana mutāḥ li-ijrā' muqābalah hātifiyyah ghadan.",
+      "context": "Use this to confirm your availability for a job interview."
     }
   ],
   "total": 5
