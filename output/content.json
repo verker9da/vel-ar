@@ -1,35 +1,35 @@
 {
-  "category": "العبارات الشائعة",
+  "category": "الطقس",
   "phrases": [
     {
-      "english": "Hello, how are you doing today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
-      "context": "A standard and polite greeting to initiate a conversation."
+      "english": "What is the weather like today?",
+      "arabic": "كيف حال الطقس اليوم؟",
+      "pronunciation": "kayf hal al-taqs al-yawm?",
+      "context": "Use this when you want to inquire about the current weather conditions."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً لك على مساعدتك.",
-      "pronunciation": "Shukran jazeelan laka 'ala musa'adatika.",
-      "context": "Expressing gratitude after someone has assisted you."
+      "english": "It is very hot outside.",
+      "arabic": "الجو حار جداً في الخارج.",
+      "pronunciation": "al-jaww haar jiddan fil kharij.",
+      "context": "Say this when the temperature is high and it feels very warm."
     },
     {
-      "english": "I don't understand what you mean.",
-      "arabic": "أنا لا أفهم ما تقصده.",
-      "pronunciation": "Ana la afham ma taqsuduhu.",
-      "context": "Used when you are unable to comprehend someone's statement."
+      "english": "It is cold and it is snowing.",
+      "arabic": "الجو بارد ويتساقط الثلج.",
+      "pronunciation": "al-jaww baarid wa yatasāqat al-thalj.",
+      "context": "Use this to describe a cold day with snowfall."
     },
     {
-      "english": "Can you please repeat that for me?",
-      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
-      "pronunciation": "Hal yumkinuka tikrar dhalika li min fadlik?",
-      "context": "Requesting someone to say something again because you did not hear or understand."
+      "english": "It looks like it will rain soon.",
+      "arabic": "يبدو أنه ستمطر قريباً.",
+      "pronunciation": "yabdu annahu satumtir qareeban.",
+      "context": "This phrase is useful when you observe signs of impending rain."
     },
     {
-      "english": "Excuse me, where is the bathroom?",
-      "arabic": "عفواً، أين الحمام؟",
-      "pronunciation": "'Afwan, ayna al-hammam?",
-      "context": "A polite way to ask for directions to a restroom in a public place."
+      "english": "The wind is very strong today.",
+      "arabic": "الرياح قوية جداً اليوم.",
+      "pronunciation": "al-riyah qawiyyah jiddan al-yawm.",
+      "context": "Utter this when there is a powerful breeze or gale."
     }
   ],
   "total": 5
