@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "الحيوانات",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this to ask the price of an item you are interested in buying."
+      "english": "I have a cat and a dog at home.",
+      "arabic": "لدي قطة وكلب في المنزل.",
+      "pronunciation": "Ladai qittah wa kalb fil manzil.",
+      "context": "Use this to tell someone about your pets."
     },
     {
-      "english": "I would like to buy this shirt.",
-      "arabic": "أريد شراء هذه القميص.",
-      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
-      "context": "State what specific item you wish to purchase."
+      "english": "The bird is singing beautifully outside.",
+      "arabic": "العصفور يغني بشكل جميل في الخارج.",
+      "pronunciation": "Al-'usfoor yughanni bishakl jameel fil kharij.",
+      "context": "Say this when you hear a bird singing."
     },
     {
-      "english": "Do you have this in a different size?",
-      "arabic": "هل لديكم هذا بمقاس مختلف؟",
-      "pronunciation": "Hal ladaykum hatha bi-maqaas mukhtalif?",
-      "context": "Inquire about availability in other sizes if the current one doesn't fit."
+      "english": "I saw a rabbit in the park yesterday.",
+      "arabic": "رأيت أرنباً في الحديقة أمس.",
+      "pronunciation": "Ra'aitu arnanban fil hadeeqah ams.",
+      "context": "Use this to describe an animal sighting."
     },
     {
-      "english": "Can I try this on?",
-      "arabic": "هل يمكنني تجربته؟",
-      "pronunciation": "Hal yumkinuni tajribatuh?",
-      "context": "Ask permission to try on clothing before purchasing."
+      "english": "My neighbor has a very loud horse.",
+      "arabic": "جاري لديه حصان صاخب جداً.",
+      "pronunciation": "Jaree ladaihisan sakhib jiddan.",
+      "context": "Talk about a neighbor's animal."
     },
     {
-      "english": "I am just looking, thank you.",
-      "arabic": "أنا فقط أتفرج، شكراً لك.",
-      "pronunciation": "Ana faqat atafarraj, shukran lak.",
-      "context": "Politely decline assistance if you are not ready to buy yet."
+      "english": "I am afraid of snakes.",
+      "arabic": "أنا أخاف من الثعابين.",
+      "pronunciation": "Ana akhaf min ath-tha'aabeen.",
+      "context": "Express your fear of a specific animal."
     }
   ],
   "total": 5
