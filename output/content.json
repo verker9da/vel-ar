@@ -1,35 +1,35 @@
 {
-  "category": "الأرقام والوقت",
+  "category": "العمل والأعمال",
   "phrases": [
     {
-      "english": "What time is it right now?",
-      "arabic": "كم الساعة الآن؟",
-      "pronunciation": "Kam al-saa'ah al-aan?",
-      "context": "Use this to ask for the current time in any situation."
+      "english": "I am looking for a new job opportunity.",
+      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
+      "pronunciation": "Ana abḥath 'an furṣa 'amal jadīdah.",
+      "context": "Use this when you are actively seeking employment."
     },
     {
-      "english": "The meeting is at three o'clock in the afternoon.",
-      "arabic": "الاجتماع في الساعة الثالثة بعد الظهر.",
-      "pronunciation": "Al-ijtimaa' fi al-saa'ah al-thaalithah ba'd al-dhuhr.",
-      "context": "This phrase is useful for stating scheduled appointments or events."
+      "english": "Can you please send me the company's annual report?",
+      "arabic": "هل يمكنك من فضلك إرسال التقرير السنوي للشركة لي؟",
+      "pronunciation": "Hal yumkinuka min faḍlik irsāl al-taqrīr al-sanawī lil-sharika lī?",
+      "context": "This is useful for requesting important business documents."
     },
     {
-      "english": "I need to leave at seven thirty in the morning.",
-      "arabic": "أحتاج أن أغادر في الساعة السابعة والنصف صباحاً.",
-      "pronunciation": "Ahtaaj an ughaadir fi al-saa'ah al-saabi'ah wal-nisf sabaahan.",
-      "context": "Use this to inform someone about your departure time."
+      "english": "I need to schedule a meeting with the marketing team.",
+      "arabic": "أحتاج إلى تحديد موعد اجتماع مع فريق التسويق.",
+      "pronunciation": "Aḥtāju ilā taḥdīd maw'id ijtima' ma' farīq al-taswīq.",
+      "context": "Say this when you want to arrange a group discussion."
     },
     {
-      "english": "My birthday is on the fifth of June.",
-      "arabic": "عيد ميلادي في الخامس من يونيو.",
-      "pronunciation": "Eid meelaadi fi al-khaamis min Yunyuu.",
-      "context": "This is how you state your date of birth or any date."
+      "english": "What is your company's main product?",
+      "arabic": "ما هو المنتج الرئيسي لشركتكم؟",
+      "pronunciation": "Mā huwa al-muntaj al-ra'īsī li-sharikatukum?",
+      "context": "Ask this to inquire about their core business offerings."
     },
     {
-      "english": "There are twenty-five students in the class.",
-      "arabic": "يوجد خمسة وعشرون طالباً في الصف.",
-      "pronunciation": "Yujad khamsah wa 'ishrun taaliban fi al-saff.",
-      "context": "Use this to state a specific quantity or number of people."
+      "english": "I am available for a phone interview tomorrow.",
+      "arabic": "أنا متاح لإجراء مقابلة هاتفية غدًا.",
+      "pronunciation": "Ana mutāḥ li-ijrā' muqābalah hātifiyyah ghadan.",
+      "context": "Use this to confirm your availability for a job interview."
     }
   ],
   "total": 5
