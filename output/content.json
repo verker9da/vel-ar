@@ -1,35 +1,35 @@
 {
-  "category": "الهوايات والأنشطة",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "I enjoy reading books in my free time.",
-      "arabic": "أنا أستمتع بقراءة الكتب في وقت فراغي.",
-      "pronunciation": "Ana astamti' bi qira'at al-kutub fi waqt faraghi.",
-      "context": "Use this to talk about your favorite hobby."
+      "english": "My mother is a doctor and she is very kind.",
+      "arabic": "أمي طبيبة وهي لطيفة جدًا.",
+      "pronunciation": "Ummi tabeebah wa hiya lateefah jiddan.",
+      "context": "Use this to describe your mother's profession and personality."
     },
     {
-      "english": "My favorite hobby is playing football with my friends.",
-      "arabic": "هوايتي المفضلة هي لعب كرة القدم مع أصدقائي.",
-      "pronunciation": "Hiwayti al-mufaddalah hiya la'ib kurat al-qadam ma'a asdiqa'i.",
-      "context": "Share your preferred leisure activity."
+      "english": "My father works in a bank and he is very smart.",
+      "arabic": "أبي يعمل في بنك وهو ذكي جدًا.",
+      "pronunciation": "Abi ya'mal fi bank wa huwa zakiyy jiddan.",
+      "context": "Use this to talk about your father's job and intelligence."
     },
     {
-      "english": "I like listening to music, especially Arabic music.",
-      "arabic": "أحب الاستماع إلى الموسيقى، وخاصة الموسيقى العربية.",
-      "pronunciation": "Uhibbu al-istima' ila al-musiqa, wa khassatan al-musiqa al-'arabiyyah.",
-      "context": "Express your enjoyment of a specific type of music."
+      "english": "I have one brother and two sisters, and we are very close.",
+      "arabic": "لدي أخ واحد وأختان، ونحن مقربون جدًا.",
+      "pronunciation": "Ladaiy akh wahid wa ukhtan, wa nahnu muqarriboon jiddan.",
+      "context": "Use this to explain your sibling situation and family bond."
     },
     {
-      "english": "I love to travel and explore new places.",
-      "arabic": "أحب السفر واستكشاف الأماكن الجديدة.",
-      "pronunciation": "Uhibbu as-safar wa istikshaf al-amakin al-jadidah.",
-      "context": "Talk about your passion for exploring different locations."
+      "english": "My grandmother loves to cook traditional food.",
+      "arabic": "جدتي تحب طهي الطعام التقليدي.",
+      "pronunciation": "Jaddati tuhibbu tahiy al-ta'am al-taqlidiyy.",
+      "context": "Use this to share a hobby or skill of your grandmother."
     },
     {
-      "english": "I spend my weekends hiking in the mountains.",
-      "arabic": "أقضي عطلة نهاية الأسبوع في المشي لمسافات طويلة في الجبال.",
-      "pronunciation": "Aqdi 'utlat nihayat al-usbu' fi al-mashi li masafat tawilah fi al-jibal.",
-      "context": "Describe how you spend your leisure time outdoors."
+      "english": "My cousin is getting married next month.",
+      "arabic": "ابن عمي سيتزوج الشهر القادم.",
+      "pronunciation": "Ibn 'ammi sayatazawwaj al-shahr al-qadim.",
+      "context": "Use this to share news about a family member's upcoming event."
     }
   ],
   "total": 5
