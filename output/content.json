@@ -1,35 +1,35 @@
 {
-  "category": "الاتجاهات",
+  "category": "أساسيات السفر",
   "phrases": [
     {
-      "english": "Where is the nearest train station, please?",
-      "arabic": "أين أقرب محطة قطار من فضلك؟",
-      "pronunciation": "Ayna aqrab mahattat qitar min fadlak?",
-      "context": "Use this when you need to find the closest train station."
+      "english": "Where is the nearest restroom?",
+      "arabic": "أين أقرب حمام؟",
+      "pronunciation": "Ayna aqrab hammam?",
+      "context": "Use this when you need to find a bathroom urgently."
     },
     {
-      "english": "How do I get to the city center?",
-      "arabic": "كيف أصل إلى وسط المدينة؟",
-      "pronunciation": "Kayfa aṣil ilā wasṭ al-madīnah?",
-      "context": "Ask this if you are unsure how to reach the central part of the city."
+      "english": "How much does this cost?",
+      "arabic": "بكم هذا؟",
+      "pronunciation": "Bikam hatha?",
+      "context": "Ask this when you want to know the price of an item."
     },
     {
-      "english": "Can you show me on the map?",
-      "arabic": "هل يمكنك أن تريني على الخريطة؟",
-      "pronunciation": "Hal yumkinuka an turīnī 'ala al-kharīṭah?",
-      "context": "Request this when you want a visual guide to a location."
+      "english": "I would like a cup of coffee, please.",
+      "arabic": "أريد كوب قهوة من فضلك.",
+      "pronunciation": "Ureed koob qahwa min fadlak.",
+      "context": "Use this when ordering a drink at a cafe."
     },
     {
-      "english": "Turn left at the next intersection.",
-      "arabic": "انعطف يسارًا عند التقاطع التالي.",
-      "pronunciation": "In'aṭif yasāran 'inda al-taqāṭu' al-tālī.",
-      "context": "This is a common direction given by locals or navigation apps."
+      "english": "Can you help me, please?",
+      "arabic": "هل يمكنك مساعدتي من فضلك؟",
+      "pronunciation": "Hal yumkinuka musa'adati min fadlak?",
+      "context": "Say this if you need assistance from someone."
     },
     {
-      "english": "Is it far from here?",
-      "arabic": "هل هو بعيد من هنا؟",
-      "pronunciation": "Hal huwa ba'īd min hunā?",
-      "context": "Inquire about the distance to a destination you are heading towards."
+      "english": "I don't understand.",
+      "arabic": "أنا لا أفهم.",
+      "pronunciation": "Ana la afham.",
+      "context": "Use this when you cannot comprehend what someone is saying."
     }
   ],
   "total": 5
