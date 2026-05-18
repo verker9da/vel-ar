@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "العمل والأعمال",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this to ask the price of an item you are interested in buying."
+      "english": "I am looking for a new job opportunity.",
+      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
+      "pronunciation": "Ana abḥath 'an furṣa 'amal jadīdah.",
+      "context": "Use this when you are actively seeking employment."
     },
     {
-      "english": "I would like to buy this shirt.",
-      "arabic": "أريد شراء هذه القميص.",
-      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
-      "context": "State what specific item you wish to purchase."
+      "english": "Can you please send me the company's annual report?",
+      "arabic": "هل يمكنك من فضلك إرسال التقرير السنوي للشركة لي؟",
+      "pronunciation": "Hal yumkinuka min faḍlik irsāl al-taqrīr al-sanawī lil-sharika lī?",
+      "context": "This is useful for requesting important business documents."
     },
     {
-      "english": "Do you have this in a different size?",
-      "arabic": "هل لديكم هذا بمقاس مختلف؟",
-      "pronunciation": "Hal ladaykum hatha bi-maqaas mukhtalif?",
-      "context": "Inquire about availability in other sizes if the current one doesn't fit."
+      "english": "I need to schedule a meeting with the marketing team.",
+      "arabic": "أحتاج إلى تحديد موعد اجتماع مع فريق التسويق.",
+      "pronunciation": "Aḥtāju ilā taḥdīd maw'id ijtima' ma' farīq al-taswīq.",
+      "context": "Say this when you want to arrange a group discussion."
     },
     {
-      "english": "Can I try this on?",
-      "arabic": "هل يمكنني تجربته؟",
-      "pronunciation": "Hal yumkinuni tajribatuh?",
-      "context": "Ask permission to try on clothing before purchasing."
+      "english": "What is your company's main product?",
+      "arabic": "ما هو المنتج الرئيسي لشركتكم؟",
+      "pronunciation": "Mā huwa al-muntaj al-ra'īsī li-sharikatukum?",
+      "context": "Ask this to inquire about their core business offerings."
     },
     {
-      "english": "I am just looking, thank you.",
-      "arabic": "أنا فقط أتفرج، شكراً لك.",
-      "pronunciation": "Ana faqat atafarraj, shukran lak.",
-      "context": "Politely decline assistance if you are not ready to buy yet."
+      "english": "I am available for a phone interview tomorrow.",
+      "arabic": "أنا متاح لإجراء مقابلة هاتفية غدًا.",
+      "pronunciation": "Ana mutāḥ li-ijrā' muqābalah hātifiyyah ghadan.",
+      "context": "Use this to confirm your availability for a job interview."
     }
   ],
   "total": 5
