@@ -1,35 +1,35 @@
 {
-  "category": "العائلة والعلاقات",
+  "category": "العواطف والمشاعر",
   "phrases": [
     {
-      "english": "My mother is a doctor and she is very kind.",
-      "arabic": "أمي طبيبة وهي لطيفة جدًا.",
-      "pronunciation": "Ummi tabeebah wa hiya lateefah jiddan.",
-      "context": "Use this to describe your mother's profession and personality."
+      "english": "I am very happy today.",
+      "arabic": "أنا سعيد جدًا اليوم.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm.",
+      "context": "Use this when you feel joyful or pleased."
     },
     {
-      "english": "My father works in a bank and he is very smart.",
-      "arabic": "أبي يعمل في بنك وهو ذكي جدًا.",
-      "pronunciation": "Abi ya'mal fi bank wa huwa zakiyy jiddan.",
-      "context": "Use this to talk about your father's job and intelligence."
+      "english": "I feel a little sad.",
+      "arabic": "أشعر ببعض الحزن.",
+      "pronunciation": "Ash'ur bi-ba'd al-huzn.",
+      "context": "Use this when you are experiencing a mild sense of unhappiness."
     },
     {
-      "english": "I have one brother and two sisters, and we are very close.",
-      "arabic": "لدي أخ واحد وأختان، ونحن مقربون جدًا.",
-      "pronunciation": "Ladaiy akh wahid wa ukhtan, wa nahnu muqarriboon jiddan.",
-      "context": "Use this to explain your sibling situation and family bond."
+      "english": "I am angry because of the delay.",
+      "arabic": "أنا غاضب بسبب التأخير.",
+      "pronunciation": "Ana ghadib bi-sabab at-ta'kheer.",
+      "context": "Use this to express frustration or annoyance."
     },
     {
-      "english": "My grandmother loves to cook traditional food.",
-      "arabic": "جدتي تحب طهي الطعام التقليدي.",
-      "pronunciation": "Jaddati tuhibbu tahiy al-ta'am al-taqlidiyy.",
-      "context": "Use this to share a hobby or skill of your grandmother."
+      "english": "She is very excited about the trip.",
+      "arabic": "هي متحمسة جدًا للرحلة.",
+      "pronunciation": "Hiya mutahammisa jiddan lir-rihla.",
+      "context": "Use this to describe someone's enthusiasm for an event."
     },
     {
-      "english": "My cousin is getting married next month.",
-      "arabic": "ابن عمي سيتزوج الشهر القادم.",
-      "pronunciation": "Ibn 'ammi sayatazawwaj al-shahr al-qadim.",
-      "context": "Use this to share news about a family member's upcoming event."
+      "english": "He is afraid of spiders.",
+      "arabic": "هو يخاف من العناكب.",
+      "pronunciation": "Huwa yakhaf min al-'anakeb.",
+      "context": "Use this to state someone's phobia or fear."
     }
   ],
   "total": 5
