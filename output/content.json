@@ -1,35 +1,35 @@
 {
-  "category": "العواطف والمشاعر",
+  "category": "الاتجاهات",
   "phrases": [
     {
-      "english": "I am very happy today.",
-      "arabic": "أنا سعيد جدًا اليوم.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm.",
-      "context": "Use this when you feel joyful or pleased."
+      "english": "Where is the nearest train station, please?",
+      "arabic": "أين أقرب محطة قطار من فضلك؟",
+      "pronunciation": "Ayna aqrab mahattat qitar min fadlak?",
+      "context": "Use this when you need to find the closest train station."
     },
     {
-      "english": "I feel a little sad.",
-      "arabic": "أشعر ببعض الحزن.",
-      "pronunciation": "Ash'ur bi-ba'd al-huzn.",
-      "context": "Use this when you are experiencing a mild sense of unhappiness."
+      "english": "How do I get to the city center?",
+      "arabic": "كيف أصل إلى وسط المدينة؟",
+      "pronunciation": "Kayfa aṣil ilā wasṭ al-madīnah?",
+      "context": "Ask this if you are unsure how to reach the central part of the city."
     },
     {
-      "english": "I am angry because of the delay.",
-      "arabic": "أنا غاضب بسبب التأخير.",
-      "pronunciation": "Ana ghadib bi-sabab at-ta'kheer.",
-      "context": "Use this to express frustration or annoyance."
+      "english": "Can you show me on the map?",
+      "arabic": "هل يمكنك أن تريني على الخريطة؟",
+      "pronunciation": "Hal yumkinuka an turīnī 'ala al-kharīṭah?",
+      "context": "Request this when you want a visual guide to a location."
     },
     {
-      "english": "She is very excited about the trip.",
-      "arabic": "هي متحمسة جدًا للرحلة.",
-      "pronunciation": "Hiya mutahammisa jiddan lir-rihla.",
-      "context": "Use this to describe someone's enthusiasm for an event."
+      "english": "Turn left at the next intersection.",
+      "arabic": "انعطف يسارًا عند التقاطع التالي.",
+      "pronunciation": "In'aṭif yasāran 'inda al-taqāṭu' al-tālī.",
+      "context": "This is a common direction given by locals or navigation apps."
     },
     {
-      "english": "He is afraid of spiders.",
-      "arabic": "هو يخاف من العناكب.",
-      "pronunciation": "Huwa yakhaf min al-'anakeb.",
-      "context": "Use this to state someone's phobia or fear."
+      "english": "Is it far from here?",
+      "arabic": "هل هو بعيد من هنا؟",
+      "pronunciation": "Hal huwa ba'īd min hunā?",
+      "context": "Inquire about the distance to a destination you are heading towards."
     }
   ],
   "total": 5
