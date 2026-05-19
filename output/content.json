@@ -1,35 +1,35 @@
 {
-  "category": "الدافع",
+  "category": "الاتجاهات",
   "phrases": [
     {
-      "english": "I want to learn Arabic because it is the language of the Quran.",
-      "arabic": "أريد أن أتعلم العربية لأنها لغة القرآن.",
-      "pronunciation": "Ureed an ata'allam al-'arabiyya li'annaha lughat al-Qur'an.",
-      "context": "To state your primary motivation for learning Arabic."
+      "english": "Where is the nearest train station, please?",
+      "arabic": "أين أقرب محطة قطار من فضلك؟",
+      "pronunciation": "Ayna aqrab mahattat qitar min fadlak?",
+      "context": "Use this when you need to find the closest train station."
     },
     {
-      "english": "I am motivated to practice speaking with native speakers.",
-      "arabic": "أنا متحمس لممارسة التحدث مع الناطقين بها.",
-      "pronunciation": "Ana mutahammis limumarasat at-tahadduth ma'a an-natiqeen biha.",
-      "context": "To express your eagerness to engage in conversation."
+      "english": "How do I get to the city center?",
+      "arabic": "كيف أصل إلى وسط المدينة؟",
+      "pronunciation": "Kayfa aṣil ilā wasṭ al-madīnah?",
+      "context": "Ask this if you are unsure how to reach the central part of the city."
     },
     {
-      "english": "This is a great opportunity to improve my Arabic skills.",
-      "arabic": "هذه فرصة رائعة لتحسين مهاراتي في اللغة العربية.",
-      "pronunciation": "Hadhihi fursa raa'i'a litahseen maharati fil-lugha al-'arabiyya.",
-      "context": "To acknowledge a beneficial situation for language development."
+      "english": "Can you show me on the map?",
+      "arabic": "هل يمكنك أن تريني على الخريطة؟",
+      "pronunciation": "Hal yumkinuka an turīnī 'ala al-kharīṭah?",
+      "context": "Request this when you want a visual guide to a location."
     },
     {
-      "english": "I am determined to become fluent in Arabic.",
-      "arabic": "أنا مصمم على أن أصبح طليقًا في اللغة العربية.",
-      "pronunciation": "Ana musammam 'ala an usbih taliiqan fil-lugha al-'arabiyya.",
-      "context": "To declare your strong resolve to achieve fluency."
+      "english": "Turn left at the next intersection.",
+      "arabic": "انعطف يسارًا عند التقاطع التالي.",
+      "pronunciation": "In'aṭif yasāran 'inda al-taqāṭu' al-tālī.",
+      "context": "This is a common direction given by locals or navigation apps."
     },
     {
-      "english": "I find learning Arabic very rewarding.",
-      "arabic": "أجد تعلم اللغة العربية مجزيًا للغاية.",
-      "pronunciation": "Ajid ta'allum al-lugha al-'arabiyya mujziyan lil-ghaya.",
-      "context": "To share your positive feelings about the learning process."
+      "english": "Is it far from here?",
+      "arabic": "هل هو بعيد من هنا؟",
+      "pronunciation": "Hal huwa ba'īd min hunā?",
+      "context": "Inquire about the distance to a destination you are heading towards."
     }
   ],
   "total": 5
