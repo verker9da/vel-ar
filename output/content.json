@@ -1,35 +1,35 @@
 {
-  "category": "الحكمة",
+  "category": "أساسيات السفر",
   "phrases": [
     {
-      "english": "Patience is the key to relief.",
-      "arabic": "الصبر مفتاح الفرج.",
-      "pronunciation": "As-sabru miftaah al-faraj.",
-      "context": "Use this when encouraging someone facing a difficult situation."
+      "english": "Where is the nearest restroom?",
+      "arabic": "أين أقرب حمام؟",
+      "pronunciation": "Ayna aqrab hammam?",
+      "context": "Use this when you need to find a bathroom urgently."
     },
     {
-      "english": "Learn from yesterday, live for today, hope for tomorrow.",
-      "arabic": "تعلم من الأمس، عش لليوم، أمل في الغد.",
-      "pronunciation": "Ta'allam min al-amsi, 'ish lil-yawm, amal fil-ghad.",
-      "context": "This is a motivational phrase about embracing life's journey."
+      "english": "How much does this cost?",
+      "arabic": "بكم هذا؟",
+      "pronunciation": "Bikam hatha?",
+      "context": "Ask this when you want to know the price of an item."
     },
     {
-      "english": "A little bit of knowledge is a dangerous thing.",
-      "arabic": "قليل العلم خطر.",
-      "pronunciation": "Qaleel al-'ilm khatar.",
-      "context": "Said when someone thinks they know a lot but actually knows very little."
+      "english": "I would like a cup of coffee, please.",
+      "arabic": "أريد كوب قهوة من فضلك.",
+      "pronunciation": "Ureed koob qahwa min fadlak.",
+      "context": "Use this when ordering a drink at a cafe."
     },
     {
-      "english": "The pen is mightier than the sword.",
-      "arabic": "القلم أقوى من السيف.",
-      "pronunciation": "Al-qalamu aqwaa min as-saif.",
-      "context": "This phrase highlights the power of communication over violence."
+      "english": "Can you help me, please?",
+      "arabic": "هل يمكنك مساعدتي من فضلك؟",
+      "pronunciation": "Hal yumkinuka musa'adati min fadlak?",
+      "context": "Say this if you need assistance from someone."
     },
     {
-      "english": "Every cloud has a silver lining.",
-      "arabic": "لكل محنة منحة.",
-      "pronunciation": "Li-kulli mihnah min'hah.",
-      "context": "Use this to remind someone that good can come from bad situations."
+      "english": "I don't understand.",
+      "arabic": "أنا لا أفهم.",
+      "pronunciation": "Ana la afham.",
+      "context": "Use this when you cannot comprehend what someone is saying."
     }
   ],
   "total": 5
