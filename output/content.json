@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "الطقس",
   "phrases": [
     {
-      "english": "Hello, how are you doing today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
-      "context": "A polite greeting to start any conversation."
+      "english": "What is the weather like today?",
+      "arabic": "كيف حال الطقس اليوم؟",
+      "pronunciation": "kayf hal al-taqs al-yawm?",
+      "context": "Use this when you want to inquire about the current weather conditions."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatika.",
-      "context": "Expressing gratitude when someone has assisted you."
+      "english": "It is very hot outside.",
+      "arabic": "الجو حار جداً في الخارج.",
+      "pronunciation": "al-jaww haar jiddan fil kharij.",
+      "context": "Say this when the temperature is high and it feels very warm."
     },
     {
-      "english": "Excuse me, where is the nearest restroom?",
-      "arabic": "عفواً، أين أقرب حمام؟",
-      "pronunciation": "'Afwan, ayna aqrab hammam?",
-      "context": "Asking for directions to a necessary facility."
+      "english": "It is cold and it is snowing.",
+      "arabic": "الجو بارد ويتساقط الثلج.",
+      "pronunciation": "al-jaww baarid wa yatasāqat al-thalj.",
+      "context": "Use this to describe a cold day with snowfall."
     },
     {
-      "english": "I would like to order one cup of coffee.",
-      "arabic": "أرغب في طلب كوب واحد من القهوة.",
-      "pronunciation": "Arghabu fi talabi koobin wahidin min al-qahwah.",
-      "context": "Useful for ordering food or drinks in a restaurant or cafe."
+      "english": "It looks like it will rain soon.",
+      "arabic": "يبدو أنه ستمطر قريباً.",
+      "pronunciation": "yabdu annahu satumtir qareeban.",
+      "context": "This phrase is useful when you observe signs of impending rain."
     },
     {
-      "english": "I don't understand what you are saying.",
-      "arabic": "أنا لا أفهم ما تقوله.",
-      "pronunciation": "Ana la afhamu ma taquluhu.",
-      "context": "To politely indicate a lack of comprehension."
+      "english": "The wind is very strong today.",
+      "arabic": "الرياح قوية جداً اليوم.",
+      "pronunciation": "al-riyah qawiyyah jiddan al-yawm.",
+      "context": "Utter this when there is a powerful breeze or gale."
     }
   ],
   "total": 5
