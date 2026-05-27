@@ -181,13 +181,11 @@
     "i feel very tired today.",
     "my head hurts a lot.",
     "i need to drink more water.",
-    "i want to eat something healthy."
+    "i want to eat something healthy.",
+    "how do i get to the central market?",
+    "turn left at the next corner, please."
   ],
   "used_categories": [
-    {
-      "category": "الاتجاهات",
-      "timestamp": "2026-05-13T08:21:43.207498"
-    },
     {
       "category": "الهوايات والأنشطة",
       "timestamp": "2026-05-13T10:09:17.489989"
@@ -383,6 +381,10 @@
     {
       "category": "الصحة والجسد",
       "timestamp": "2026-05-27T22:57:44.007300"
+    },
+    {
+      "category": "الاتجاهات",
+      "timestamp": "2026-05-27T23:07:22.870328"
     }
   ],
   "phrase_hashes": [
@@ -567,6 +569,8 @@
     "160b3fafff1376ad26d4c0e7825e7980",
     "03de80e13dcff0c9af8c784f6b630677",
     "4cc120658b17e4d0de91bf1856ae974e",
-    "3b2e033692b40407b4a1e8f59e2d6c8c"
+    "3b2e033692b40407b4a1e8f59e2d6c8c",
+    "c7e0e35b5c83c891ec8ad4cdf5f19e5d",
+    "87b4ff5cd2bdbefb16bd2b7ae7bc9dcd"
   ]
 }
