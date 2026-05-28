@@ -199,13 +199,12 @@
     "patience is the key to success.",
     "there is no power and no strength except with god.",
     "everything happens for a reason.",
-    "seek knowledge from the cradle to the grave."
+    "seek knowledge from the cradle to the grave.",
+    "hello, it's nice to meet you.",
+    "good afternoon, i hope you are well.",
+    "goodbye, see you later."
   ],
   "used_categories": [
-    {
-      "category": "الصحة والجسد",
-      "timestamp": "2026-05-14T08:09:02.199970"
-    },
     {
       "category": "السعادة",
       "timestamp": "2026-05-14T09:53:59.071000"
@@ -401,6 +400,10 @@
     {
       "category": "الحكمة",
       "timestamp": "2026-05-28T21:05:15.461991"
+    },
+    {
+      "category": "التحيات اليومية",
+      "timestamp": "2026-05-28T23:06:29.777321"
     }
   ],
   "phrase_hashes": [
@@ -603,6 +606,9 @@
     "7d4e803fa6c48e609a364ad26dbde57a",
     "a61d32d2ceb8097be3d2ba0f06b0176f",
     "fedfbbce470f4a14fadc201210dff1ce",
-    "835a66ac36937d9aea62f4bada24a2c1"
+    "835a66ac36937d9aea62f4bada24a2c1",
+    "b77d7a5ad949541858239e522139fc6d",
+    "efec8cf49954f0a6833604e3de2bc11c",
+    "aeccad4039160d41df0a60a41f98972c"
   ]
 }
