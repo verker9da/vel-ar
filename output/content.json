@@ -1,35 +1,35 @@
 {
-  "category": "العواطف والمشاعر",
+  "category": "الحكمة",
   "phrases": [
     {
-      "english": "I am very happy today because the weather is beautiful.",
-      "arabic": "أنا سعيد جداً اليوم لأن الجو جميل.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-jaw jameel.",
-      "context": "Use this when expressing joy about something positive in your life."
+      "english": "Patience is the key to success.",
+      "arabic": "الصبر مفتاح الفرج.",
+      "pronunciation": "As-sabru miftaahu al-faraj.",
+      "context": "Use this when encouraging someone to persevere through a difficult situation."
     },
     {
-      "english": "He looks sad because he lost his keys.",
-      "arabic": "يبدو حزيناً لأنه فقد مفاتيحه.",
-      "pronunciation": "Yabdoo hazeenan li'annahu faqada mafateehahu.",
-      "context": "Use this to describe someone else's apparent sadness."
+      "english": "There is no power and no strength except with God.",
+      "arabic": "لا حول ولا قوة إلا بالله.",
+      "pronunciation": "La hawla wa la quwwata illa billah.",
+      "context": "Say this when facing a challenge that feels overwhelming or beyond your control."
     },
     {
-      "english": "She is angry because the train is late.",
-      "arabic": "هي غاضبة لأن القطار متأخر.",
-      "pronunciation": "Hiya ghadibah li'anna al-qitar muta'akhkhir.",
-      "context": "Use this to explain why someone is feeling anger."
+      "english": "Everything happens for a reason.",
+      "arabic": "كل شيء يحدث لسبب.",
+      "pronunciation": "Kullu shay'in yahduthu li sabab.",
+      "context": "Use this to find comfort and meaning after an unexpected or unfortunate event."
     },
     {
-      "english": "I feel tired after a long day at work.",
-      "arabic": "أشعر بالتعب بعد يوم طويل في العمل.",
-      "pronunciation": "Ash'ur bil-ta'ab ba'da yawm taweel fil-'amal.",
-      "context": "Use this to describe your own feeling of fatigue."
+      "english": "Seek knowledge from the cradle to the grave.",
+      "arabic": "اطلبوا العلم من المهد إلى اللحد.",
+      "pronunciation": "Utlubu al-'ilma min al-mahd ila al-lahd.",
+      "context": "This phrase emphasizes the lifelong importance of learning and education."
     },
     {
-      "english": "Are you excited about your upcoming trip to Egypt?",
-      "arabic": "هل أنت متحمس لرحلتك القادمة إلى مصر؟",
-      "pronunciation": "Hal anta mutahammis li-rihlatik al-qadimah ila Misr?",
-      "context": "Use this to inquire about someone's anticipation for an event."
+      "english": "Actions speak louder than words.",
+      "arabic": "الأفعال أبلغ من الأقوال.",
+      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
+      "context": "Use this to highlight the importance of deeds over mere promises or talk."
     }
   ],
   "total": 5

@@ -195,13 +195,13 @@
     "he looks sad because he lost his keys.",
     "she is angry because the train is late.",
     "i feel tired after a long day at work.",
-    "are you excited about your upcoming trip to egypt?"
+    "are you excited about your upcoming trip to egypt?",
+    "patience is the key to success.",
+    "there is no power and no strength except with god.",
+    "everything happens for a reason.",
+    "seek knowledge from the cradle to the grave."
   ],
   "used_categories": [
-    {
-      "category": "الحكمة",
-      "timestamp": "2026-05-13T22:50:09.144463"
-    },
     {
       "category": "الصحة والجسد",
       "timestamp": "2026-05-14T08:09:02.199970"
@@ -397,6 +397,10 @@
     {
       "category": "العواطف والمشاعر",
       "timestamp": "2026-05-28T18:29:36.232096"
+    },
+    {
+      "category": "الحكمة",
+      "timestamp": "2026-05-28T21:05:15.461991"
     }
   ],
   "phrase_hashes": [
@@ -595,6 +599,10 @@
     "a4b2fed89eca738772aa64f6cf0964c5",
     "694063ca0dd4885ed12d58159ac692e3",
     "c0ebb55cc6943db006bd9b30afb466b5",
-    "b4ef339366a9e564924494c613991bd9"
+    "b4ef339366a9e564924494c613991bd9",
+    "7d4e803fa6c48e609a364ad26dbde57a",
+    "a61d32d2ceb8097be3d2ba0f06b0176f",
+    "fedfbbce470f4a14fadc201210dff1ce",
+    "835a66ac36937d9aea62f4bada24a2c1"
   ]
 }
