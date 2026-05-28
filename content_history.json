@@ -191,13 +191,13 @@
     "my father works in a bank.",
     "i have one sister and two brothers.",
     "this is my husband.",
-    "my children are very smart."
+    "my children are very smart.",
+    "he looks sad because he lost his keys.",
+    "she is angry because the train is late.",
+    "i feel tired after a long day at work.",
+    "are you excited about your upcoming trip to egypt?"
   ],
   "used_categories": [
-    {
-      "category": "الطقس",
-      "timestamp": "2026-05-13T21:12:30.718076"
-    },
     {
       "category": "الحكمة",
       "timestamp": "2026-05-13T22:50:09.144463"
@@ -393,6 +393,10 @@
     {
       "category": "العائلة والعلاقات",
       "timestamp": "2026-05-28T16:53:21.960269"
+    },
+    {
+      "category": "العواطف والمشاعر",
+      "timestamp": "2026-05-28T18:29:36.232096"
     }
   ],
   "phrase_hashes": [
@@ -587,6 +591,10 @@
     "9b9a93923a367e54929f0fabc91cb225",
     "e6208083b25857bd7094544bdc642aeb",
     "e72c3f42d86f01ab7c71a5b6ce3ed658",
-    "f971084ad7a340b370a5a8ec06281aab"
+    "f971084ad7a340b370a5a8ec06281aab",
+    "a4b2fed89eca738772aa64f6cf0964c5",
+    "694063ca0dd4885ed12d58159ac692e3",
+    "c0ebb55cc6943db006bd9b30afb466b5",
+    "b4ef339366a9e564924494c613991bd9"
   ]
 }
