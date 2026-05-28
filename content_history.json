@@ -183,13 +183,12 @@
     "i need to drink more water.",
     "i want to eat something healthy.",
     "how do i get to the central market?",
-    "turn left at the next corner, please."
+    "turn left at the next corner, please.",
+    "i love to travel to new places and explore different cultures.",
+    "on weekends, i usually go hiking in the mountains.",
+    "i spend my evenings learning to play the guitar."
   ],
   "used_categories": [
-    {
-      "category": "الهوايات والأنشطة",
-      "timestamp": "2026-05-13T10:09:17.489989"
-    },
     {
       "category": "التحيات اليومية",
       "timestamp": "2026-05-13T11:52:51.282071"
@@ -385,6 +384,10 @@
     {
       "category": "الاتجاهات",
       "timestamp": "2026-05-27T23:07:22.870328"
+    },
+    {
+      "category": "الهوايات والأنشطة",
+      "timestamp": "2026-05-28T05:02:03.155939"
     }
   ],
   "phrase_hashes": [
@@ -571,6 +574,9 @@
     "4cc120658b17e4d0de91bf1856ae974e",
     "3b2e033692b40407b4a1e8f59e2d6c8c",
     "c7e0e35b5c83c891ec8ad4cdf5f19e5d",
-    "87b4ff5cd2bdbefb16bd2b7ae7bc9dcd"
+    "87b4ff5cd2bdbefb16bd2b7ae7bc9dcd",
+    "9aa1c5db7f83d3c05b502bc59275adca",
+    "560f8ddcf39d5e96da9e8681a25940fd",
+    "f7f6ca8b65e0c10e2c1e3f5ae4508e22"
   ]
 }
