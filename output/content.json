@@ -1,35 +1,35 @@
 {
-  "category": "العبارات الشائعة",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "Hello, how are you today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
-      "context": "A standard greeting to start a conversation."
+      "english": "My mother is a doctor.",
+      "arabic": "أمي طبيبة.",
+      "pronunciation": "Ummi tabeeba.",
+      "context": "Use this to describe your mother's profession."
     },
     {
-      "english": "I would like a cup of coffee, please.",
-      "arabic": "أريد كوباً من القهوة، من فضلك.",
-      "pronunciation": "Ureedu kooban min al-qahwah, min fadlik.",
-      "context": "Used when ordering at a cafe or restaurant."
+      "english": "My father works in a bank.",
+      "arabic": "أبي يعمل في البنك.",
+      "pronunciation": "Abi ya'mal fil bank.",
+      "context": "Use this to describe your father's place of work."
     },
     {
-      "english": "Excuse me, where is the bathroom?",
-      "arabic": "عفواً، أين الحمام؟",
-      "pronunciation": "Afwan, ayna al-hammam?",
-      "context": "Essential for asking directions to a restroom."
+      "english": "I have one sister and two brothers.",
+      "arabic": "لدي أخت واحدة وأخوان اثنان.",
+      "pronunciation": "Ladai ukht wahida wa akhwan ithnan.",
+      "context": "Use this to state the number of siblings you have."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Expressing gratitude after receiving assistance."
+      "english": "This is my husband.",
+      "arabic": "هذا زوجي.",
+      "pronunciation": "Hatha zawji.",
+      "context": "Use this when introducing your husband to someone."
     },
     {
-      "english": "I don't understand what you are saying.",
-      "arabic": "أنا لا أفهم ما تقوله.",
-      "pronunciation": "Ana la afham ma taqooluh.",
-      "context": "Used when you need clarification or don't comprehend."
+      "english": "My children are very smart.",
+      "arabic": "أطفالي أذكياء جداً.",
+      "pronunciation": "Atfali athkiya' jiddan.",
+      "context": "Use this to express pride in your children's intelligence."
     }
   ],
   "total": 5

@@ -186,13 +186,14 @@
     "turn left at the next corner, please.",
     "i love to travel to new places and explore different cultures.",
     "on weekends, i usually go hiking in the mountains.",
-    "i spend my evenings learning to play the guitar."
+    "i spend my evenings learning to play the guitar.",
+    "my mother is a doctor.",
+    "my father works in a bank.",
+    "i have one sister and two brothers.",
+    "this is my husband.",
+    "my children are very smart."
   ],
   "used_categories": [
-    {
-      "category": "التسوق",
-      "timestamp": "2026-05-13T19:25:22.104418"
-    },
     {
       "category": "الطقس",
       "timestamp": "2026-05-13T21:12:30.718076"
@@ -388,6 +389,10 @@
     {
       "category": "العبارات الشائعة",
       "timestamp": "2026-05-28T07:52:09.419341"
+    },
+    {
+      "category": "العائلة والعلاقات",
+      "timestamp": "2026-05-28T16:53:21.960269"
     }
   ],
   "phrase_hashes": [
@@ -577,6 +582,11 @@
     "87b4ff5cd2bdbefb16bd2b7ae7bc9dcd",
     "9aa1c5db7f83d3c05b502bc59275adca",
     "560f8ddcf39d5e96da9e8681a25940fd",
-    "f7f6ca8b65e0c10e2c1e3f5ae4508e22"
+    "f7f6ca8b65e0c10e2c1e3f5ae4508e22",
+    "521c4a366f5543be9a01591224ece04c",
+    "9b9a93923a367e54929f0fabc91cb225",
+    "e6208083b25857bd7094544bdc642aeb",
+    "e72c3f42d86f01ab7c71a5b6ce3ed658",
+    "f971084ad7a340b370a5a8ec06281aab"
   ]
 }
