@@ -202,13 +202,14 @@
     "seek knowledge from the cradle to the grave.",
     "hello, it's nice to meet you.",
     "good afternoon, i hope you are well.",
-    "goodbye, see you later."
+    "goodbye, see you later.",
+    "i need to finish this report by tomorrow.",
+    "can you please send me the meeting agenda?",
+    "i have a business meeting at ten o'clock.",
+    "where is the nearest post office?",
+    "i would like to book a flight to dubai."
   ],
   "used_categories": [
-    {
-      "category": "السعادة",
-      "timestamp": "2026-05-14T09:53:59.071000"
-    },
     {
       "category": "الطعام والطعام",
       "timestamp": "2026-05-14T11:27:03.946038"
@@ -404,6 +405,10 @@
     {
       "category": "التحيات اليومية",
       "timestamp": "2026-05-28T23:06:29.777321"
+    },
+    {
+      "category": "العمل والأعمال",
+      "timestamp": "2026-05-29T05:03:14.852510"
     }
   ],
   "phrase_hashes": [
@@ -609,6 +614,11 @@
     "835a66ac36937d9aea62f4bada24a2c1",
     "b77d7a5ad949541858239e522139fc6d",
     "efec8cf49954f0a6833604e3de2bc11c",
-    "aeccad4039160d41df0a60a41f98972c"
+    "aeccad4039160d41df0a60a41f98972c",
+    "1e94eb8d505f26599d798736a8e24e15",
+    "947dc9a1116b35efba376a4c5bc6b9d6",
+    "4909d254fc27bfc1389d9e710403f7b9",
+    "fed9cd22d912e1778ee77e97918e9b0a",
+    "005251cd1e56c196e97d902e2004aeb7"
   ]
 }
