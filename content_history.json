@@ -218,13 +218,14 @@
     "i hope it will be sunny tomorrow.",
     "there is a strong wind today.",
     "this meal is delicious, thank you.",
-    "do you have any vegetarian options?"
+    "do you have any vegetarian options?",
+    "i have a playful cat named leo.",
+    "my neighbor owns a very energetic dog.",
+    "i saw a beautiful bird in the garden.",
+    "the children love to feed the ducks at the park.",
+    "be careful, there are many bees around the flowers."
   ],
   "used_categories": [
-    {
-      "category": "السعادة",
-      "timestamp": "2026-05-15T11:35:37.094082"
-    },
     {
       "category": "الطعام والطعام",
       "timestamp": "2026-05-15T18:15:39.114544"
@@ -420,6 +421,10 @@
     {
       "category": "الطعام والطعام",
       "timestamp": "2026-05-30T04:42:17.433537"
+    },
+    {
+      "category": "الحيوانات",
+      "timestamp": "2026-05-30T06:42:27.987454"
     }
   ],
   "phrase_hashes": [
@@ -641,6 +646,11 @@
     "731113a364be8e662aa6711cd64e5db7",
     "6e73417d255b81bda0f411b301d51c91",
     "690df0ceeacb5c23f0a06b0dfb40baa6",
-    "45abedf4ec5282793e84035d08786b71"
+    "45abedf4ec5282793e84035d08786b71",
+    "4292fa2ff9ed94948c934e528f0b320b",
+    "cf34cd1f47263cc264b480baeac3efd7",
+    "9afa8872c70a34942bc82c6e91769928",
+    "93e0d3b8dd9bb9cbc06b80e2f0aa97ff",
+    "95477685dedcf93f2c1052e44a7cd13c"
   ]
 }
