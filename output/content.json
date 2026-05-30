@@ -1,35 +1,35 @@
 {
-  "category": "العائلة والعلاقات",
+  "category": "التحيات اليومية",
   "phrases": [
     {
-      "english": "My mother is a doctor.",
-      "arabic": "أمي طبيبة.",
-      "pronunciation": "Ummi tabeeba.",
-      "context": "Use this to describe your mother's profession."
+      "english": "Good morning, how are you today?",
+      "arabic": "صباح الخير، كيف حالك اليوم؟",
+      "pronunciation": "Sabah al-khayr, kayfa haluka al-yawm?",
+      "context": "Used to greet someone in the morning and inquire about their well-being."
     },
     {
-      "english": "My father works in a bank.",
-      "arabic": "أبي يعمل في البنك.",
-      "pronunciation": "Abi ya'mal fil bank.",
-      "context": "Use this to describe your father's place of work."
+      "english": "Hello, it's nice to meet you.",
+      "arabic": "أهلاً بك، سررت بلقائك.",
+      "pronunciation": "Ahlan bik, surirtu biliqa'ik.",
+      "context": "A polite way to greet someone for the first time."
     },
     {
-      "english": "I have one sister and two brothers.",
-      "arabic": "لدي أخت واحدة وأخوان اثنان.",
-      "pronunciation": "Ladai ukht wahida wa akhwan ithnan.",
-      "context": "Use this to state the number of siblings you have."
+      "english": "Good afternoon, I hope you are well.",
+      "arabic": "مساء الخير، أتمنى أن تكون بخير.",
+      "pronunciation": "Masa' al-khayr, atamanna an takuna bikhayr.",
+      "context": "A polite greeting used in the afternoon or evening."
     },
     {
-      "english": "This is my husband.",
-      "arabic": "هذا زوجي.",
-      "pronunciation": "Hatha zawji.",
-      "context": "Use this when introducing your husband to someone."
+      "english": "Goodbye, see you later.",
+      "arabic": "إلى اللقاء، أراك لاحقاً.",
+      "pronunciation": "Ila al-liqa', arak lahiqan.",
+      "context": "Used when parting ways with someone you expect to see again."
     },
     {
-      "english": "My children are very smart.",
-      "arabic": "أطفالي أذكياء جداً.",
-      "pronunciation": "Atfali athkiya' jiddan.",
-      "context": "Use this to express pride in your children's intelligence."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude for assistance received."
     }
   ],
   "total": 5
