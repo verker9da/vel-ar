@@ -225,13 +225,13 @@
     "the children love to feed the ducks at the park.",
     "be careful, there are many bees around the flowers.",
     "you are so beautiful.",
-    "our love is eternal."
+    "our love is eternal.",
+    "this makes me feel peaceful.",
+    "i am content with my life.",
+    "everything is going well, thank god.",
+    "i feel a deep sense of joy."
   ],
   "used_categories": [
-    {
-      "category": "أساسيات السفر",
-      "timestamp": "2026-05-16T07:34:37.126098"
-    },
     {
       "category": "التحيات اليومية",
       "timestamp": "2026-05-16T09:17:38.089361"
@@ -427,6 +427,10 @@
     {
       "category": "الاتجاهات",
       "timestamp": "2026-05-30T22:45:12.179913"
+    },
+    {
+      "category": "السعادة",
+      "timestamp": "2026-05-31T05:11:48.565014"
     }
   ],
   "phrase_hashes": [
@@ -655,6 +659,10 @@
     "93e0d3b8dd9bb9cbc06b80e2f0aa97ff",
     "95477685dedcf93f2c1052e44a7cd13c",
     "3c209b76953e0ee72d20a90c91cc75f8",
-    "d8d8d91e832f7cfe8403027779f98d8f"
+    "d8d8d91e832f7cfe8403027779f98d8f",
+    "8b3e8a199ea6f0dbda3e902d9c2613ea",
+    "d254cf1d73e8095f47dec21af2c230b3",
+    "1c2c62c24aa548c1b3d377233ae8fc54",
+    "e6c3790df55a6bf71b8c4855439723de"
   ]
 }
