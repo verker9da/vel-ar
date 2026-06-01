@@ -1,35 +1,35 @@
 {
-  "category": "الاتجاهات",
+  "category": "الحب",
   "phrases": [
     {
-      "english": "Excuse me, where is the nearest restroom?",
-      "arabic": "عفواً، أين أقرب حمام؟",
-      "pronunciation": "Afwan, ayna aqrab hammam?",
-      "context": "Use this to find a bathroom when you are out and about."
+      "english": "I love you very much.",
+      "arabic": "أنا أحبك كثيراً.",
+      "pronunciation": "Ana uhibbuka katheeran (to male) / Ana uhibbuki katheeran (to female)",
+      "context": "Used to express deep affection towards someone."
     },
     {
-      "english": "How do I get to the central market?",
-      "arabic": "كيف أصل إلى السوق المركزي؟",
-      "pronunciation": "Kayfa asil ila as-souq al-markazi?",
-      "context": "Ask this when you want directions to a specific location like a market."
+      "english": "You are so beautiful.",
+      "arabic": "أنتِ جميلة جداً.",
+      "pronunciation": "Anti jameela jiddan (to female)",
+      "context": "A compliment used to describe someone's appearance."
     },
     {
-      "english": "Turn left at the next corner, please.",
-      "arabic": "انعطف يساراً عند الزاوية التالية، من فضلك.",
-      "pronunciation": "In'atif yasaran 'ind az-zawiyah at-taliyah, min fadlik.",
-      "context": "This is a common response when someone gives you directions."
+      "english": "My heart belongs to you.",
+      "arabic": "قلبي ملكك.",
+      "pronunciation": "Qalbi milkuk.",
+      "context": "A poetic way to express devotion and deep emotional connection."
     },
     {
-      "english": "Is it far from here?",
-      "arabic": "هل هو بعيد من هنا؟",
-      "pronunciation": "Hal huwa ba'eed min huna?",
-      "context": "Inquire about the distance to a place you are trying to reach."
+      "english": "I miss you a lot.",
+      "arabic": "أفتقدك كثيراً.",
+      "pronunciation": "Aftaqiduka katheeran (to male) / Aftaqiduki katheeran (to female)",
+      "context": "Said when you are not with someone you care about and feel their absence."
     },
     {
-      "english": "Can you show me on the map?",
-      "arabic": "هل يمكنك أن تريني على الخريطة؟",
-      "pronunciation": "Hal yumkinuka an turini 'ala al-khareetah?",
-      "context": "Request visual assistance with directions if you have a map."
+      "english": "Our love is eternal.",
+      "arabic": "حبنا أبدي.",
+      "pronunciation": "Hubbuna abadi.",
+      "context": "Expresses a belief in the lasting nature of a romantic relationship."
     }
   ],
   "total": 5
