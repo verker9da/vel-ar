@@ -1,35 +1,35 @@
 {
-  "category": "السعادة",
+  "category": "الصحة والجسد",
   "phrases": [
     {
-      "english": "I am very happy today.",
-      "arabic": "أنا سعيد جدًا اليوم.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm.",
-      "context": "Use this to express your positive feelings on a particular day."
+      "english": "I feel very tired today.",
+      "arabic": "أشعر بالتعب الشديد اليوم.",
+      "pronunciation": "Ash'uru bil-ta'ab al-shadeed al-yawm.",
+      "context": "Use this when you are feeling exhausted."
     },
     {
-      "english": "This makes me feel peaceful.",
-      "arabic": "هذا يجعلني أشعر بالسلام.",
-      "pronunciation": "Hatha yaj'aluni ash'ur bil-salam.",
-      "context": "Use this when something brings you a sense of calm and tranquility."
+      "english": "My head hurts a lot.",
+      "arabic": "رأسي يؤلمني كثيراً.",
+      "pronunciation": "Ra'si yu'limuni katheeran.",
+      "context": "Say this when experiencing a strong headache."
     },
     {
-      "english": "I am content with my life.",
-      "arabic": "أنا راضٍ عن حياتي.",
-      "pronunciation": "Ana radi 'an hayati.",
-      "context": "Use this to express satisfaction and acceptance of your current situation."
+      "english": "I need to drink more water.",
+      "arabic": "أحتاج لشرب المزيد من الماء.",
+      "pronunciation": "Ahtaju lishurb al-mazeed min al-maa'.",
+      "context": "Use this to express a need for hydration."
     },
     {
-      "english": "Everything is going well, thank God.",
-      "arabic": "كل شيء على ما يرام، الحمد لله.",
-      "pronunciation": "Kullu shay'in 'ala ma yuram, al-hamdulillah.",
-      "context": "Use this to express that things are proceeding favorably and to show gratitude."
+      "english": "I am allergic to cats.",
+      "arabic": "أنا لدي حساسية من القطط.",
+      "pronunciation": "Ana ladaiya hasasiyah min al-qitat.",
+      "context": "Inform someone about a specific allergy."
     },
     {
-      "english": "I feel a deep sense of joy.",
-      "arabic": "أشعر بفرح عميق.",
-      "pronunciation": "Ash'ur bi-farahin 'ameeq.",
-      "context": "Use this to describe a profound and intense feeling of happiness."
+      "english": "I want to eat something healthy.",
+      "arabic": "أريد أن آكل شيئاً صحياً.",
+      "pronunciation": "Ureed an aakul shay'an sihiyan.",
+      "context": "Use this when you are looking for nutritious food."
     }
   ],
   "total": 5
