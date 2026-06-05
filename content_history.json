@@ -235,13 +235,14 @@
     "the sky is very clear and white today.",
     "she has long, black hair.",
     "this green apple looks very fresh.",
-    "i don't understand this word at all."
+    "i don't understand this word at all.",
+    "what time is it?",
+    "it is three o'clock.",
+    "i need five apples, please.",
+    "my phone number is nine eight seven six five four three two one zero.",
+    "the meeting is at ten thirty in the morning."
   ],
   "used_categories": [
-    {
-      "category": "الحكمة",
-      "timestamp": "2026-05-28T21:05:15.461991"
-    },
     {
       "category": "التحيات اليومية",
       "timestamp": "2026-05-28T23:06:29.777321"
@@ -437,6 +438,10 @@
     {
       "category": "الطقس",
       "timestamp": "2026-06-05T20:47:08.709878"
+    },
+    {
+      "category": "الأرقام والوقت",
+      "timestamp": "2026-06-05T22:55:47.365015"
     }
   ],
   "phrase_hashes": [
@@ -675,6 +680,11 @@
     "f0db8d7ea85b8b443d01c26162dc6a52",
     "edf2fe62917fcba7b41470260ec10c81",
     "749705f0af48f58b42e0d37cc0441352",
-    "b903cfdcdb8d8990ed9408e81faa6648"
+    "b903cfdcdb8d8990ed9408e81faa6648",
+    "a3d9a2f1f079e040d6c66651b70eb435",
+    "a5bc9527165f37066e25074fc1987f3b",
+    "3f23ee45d07352922fb926d12794808e",
+    "92db2ead039c356e20d1e18afa13ce11",
+    "b851059f8d8370b712a6cf558d6ae19d"
   ]
 }
