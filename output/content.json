@@ -1,35 +1,35 @@
 {
-  "category": "العبارات الشائعة",
+  "category": "التحيات اليومية",
   "phrases": [
     {
-      "english": "Hello, how are you today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
-      "context": "A standard greeting to start a conversation."
+      "english": "Good morning, how are you today?",
+      "arabic": "صباح الخير، كيف حالك اليوم؟",
+      "pronunciation": "Sabah al-khayr, kayfa haluka al-yawm?",
+      "context": "Used to greet someone in the morning and inquire about their well-being."
     },
     {
-      "english": "I would like a cup of coffee, please.",
-      "arabic": "أريد كوباً من القهوة، من فضلك.",
-      "pronunciation": "Ureedu kooban min al-qahwah, min fadlik.",
-      "context": "Used when ordering at a cafe or restaurant."
+      "english": "Hello, it's nice to meet you.",
+      "arabic": "أهلاً بك، سررت بلقائك.",
+      "pronunciation": "Ahlan bik, surirtu biliqa'ik.",
+      "context": "A polite way to greet someone for the first time."
     },
     {
-      "english": "Excuse me, where is the bathroom?",
-      "arabic": "عفواً، أين الحمام؟",
-      "pronunciation": "Afwan, ayna al-hammam?",
-      "context": "Essential for asking directions to a restroom."
+      "english": "Good afternoon, I hope you are well.",
+      "arabic": "مساء الخير، أتمنى أن تكون بخير.",
+      "pronunciation": "Masa' al-khayr, atamanna an takuna bikhayr.",
+      "context": "A polite greeting used in the afternoon or evening."
+    },
+    {
+      "english": "Goodbye, see you later.",
+      "arabic": "إلى اللقاء، أراك لاحقاً.",
+      "pronunciation": "Ila al-liqa', arak lahiqan.",
+      "context": "Used when parting ways with someone you expect to see again."
     },
     {
       "english": "Thank you very much for your help.",
       "arabic": "شكراً جزيلاً على مساعدتك.",
       "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Expressing gratitude after receiving assistance."
-    },
-    {
-      "english": "I don't understand what you are saying.",
-      "arabic": "أنا لا أفهم ما تقوله.",
-      "pronunciation": "Ana la afham ma taqooluh.",
-      "context": "Used when you need clarification or don't comprehend."
+      "context": "Expressing gratitude for assistance received."
     }
   ],
   "total": 5
