@@ -1,35 +1,35 @@
 {
-  "category": "الاتجاهات",
+  "category": "الصحة والجسد",
   "phrases": [
     {
-      "english": "Excuse me, where is the nearest restroom?",
-      "arabic": "عفواً، أين أقرب حمام؟",
-      "pronunciation": "Afwan, ayna aqrab hammam?",
-      "context": "Use this to find a bathroom when you are out and about."
+      "english": "I feel very tired today.",
+      "arabic": "أشعر بالتعب الشديد اليوم.",
+      "pronunciation": "Ash'uru bil-ta'ab al-shadeed al-yawm.",
+      "context": "Use this when you are feeling exhausted."
     },
     {
-      "english": "How do I get to the central market?",
-      "arabic": "كيف أصل إلى السوق المركزي؟",
-      "pronunciation": "Kayfa asil ila as-souq al-markazi?",
-      "context": "Ask this when you want directions to a specific location like a market."
+      "english": "My head hurts a lot.",
+      "arabic": "رأسي يؤلمني كثيراً.",
+      "pronunciation": "Ra'si yu'limuni katheeran.",
+      "context": "Say this when experiencing a strong headache."
     },
     {
-      "english": "Turn left at the next corner, please.",
-      "arabic": "انعطف يساراً عند الزاوية التالية، من فضلك.",
-      "pronunciation": "In'atif yasaran 'ind az-zawiyah at-taliyah, min fadlik.",
-      "context": "This is a common response when someone gives you directions."
+      "english": "I need to drink more water.",
+      "arabic": "أحتاج لشرب المزيد من الماء.",
+      "pronunciation": "Ahtaju lishurb al-mazeed min al-maa'.",
+      "context": "Use this to express a need for hydration."
     },
     {
-      "english": "Is it far from here?",
-      "arabic": "هل هو بعيد من هنا؟",
-      "pronunciation": "Hal huwa ba'eed min huna?",
-      "context": "Inquire about the distance to a place you are trying to reach."
+      "english": "I am allergic to cats.",
+      "arabic": "أنا لدي حساسية من القطط.",
+      "pronunciation": "Ana ladaiya hasasiyah min al-qitat.",
+      "context": "Inform someone about a specific allergy."
     },
     {
-      "english": "Can you show me on the map?",
-      "arabic": "هل يمكنك أن تريني على الخريطة؟",
-      "pronunciation": "Hal yumkinuka an turini 'ala al-khareetah?",
-      "context": "Request visual assistance with directions if you have a map."
+      "english": "I want to eat something healthy.",
+      "arabic": "أريد أن آكل شيئاً صحياً.",
+      "pronunciation": "Ureed an aakul shay'an sihiyan.",
+      "context": "Use this when you are looking for nutritious food."
     }
   ],
   "total": 5
