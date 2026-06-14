@@ -1,35 +1,35 @@
 {
-  "category": "التحيات اليومية",
+  "category": "العمل والأعمال",
   "phrases": [
     {
-      "english": "Good morning, how are you today?",
-      "arabic": "صباح الخير، كيف حالك اليوم؟",
-      "pronunciation": "Sabah al-khayr, kayfa haluka al-yawm?",
-      "context": "Used to greet someone in the morning and inquire about their well-being."
+      "english": "I need to finish this report by tomorrow.",
+      "arabic": "أحتاج إلى إنهاء هذا التقرير بحلول الغد.",
+      "pronunciation": "Ahtaj ila inhā' hādhā al-taqrīr biḥulūl al-ghad.",
+      "context": "Use this when discussing deadlines for work tasks."
     },
     {
-      "english": "Hello, it's nice to meet you.",
-      "arabic": "أهلاً بك، سررت بلقائك.",
-      "pronunciation": "Ahlan bik, surirtu biliqa'ik.",
-      "context": "A polite way to greet someone for the first time."
+      "english": "Can you please send me the meeting agenda?",
+      "arabic": "هل يمكنك فضلاً إرسال جدول أعمال الاجتماع إلي؟",
+      "pronunciation": "Hal yumkinuka faḍlan irsāl jadwal aʿmāl al-ijtimāʿ ilayya?",
+      "context": "Ask for information needed before a meeting."
     },
     {
-      "english": "Good afternoon, I hope you are well.",
-      "arabic": "مساء الخير، أتمنى أن تكون بخير.",
-      "pronunciation": "Masa' al-khayr, atamanna an takuna bikhayr.",
-      "context": "A polite greeting used in the afternoon or evening."
+      "english": "I have a business meeting at ten o'clock.",
+      "arabic": "لدي اجتماع عمل في تمام الساعة العاشرة.",
+      "pronunciation": "Ladaiy ijtimāʿ ʿamal fī tamām al-sāʿah al-ʿāshirah.",
+      "context": "Inform someone about your scheduled work appointments."
     },
     {
-      "english": "Goodbye, see you later.",
-      "arabic": "إلى اللقاء، أراك لاحقاً.",
-      "pronunciation": "Ila al-liqa', arak lahiqan.",
-      "context": "Used when parting ways with someone you expect to see again."
+      "english": "Where is the nearest post office?",
+      "arabic": "أين أقرب مكتب بريد؟",
+      "pronunciation": "Aina aqrab maktab barīd?",
+      "context": "Ask for directions to a common business-related service."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Expressing gratitude for assistance received."
+      "english": "I would like to book a flight to Dubai.",
+      "arabic": "أود حجز رحلة طيران إلى دبي.",
+      "pronunciation": "Awad ḥajz riḥlat ṭayarān ilā Dubay.",
+      "context": "Use this when arranging business travel."
     }
   ],
   "total": 5
