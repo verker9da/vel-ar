@@ -1,35 +1,35 @@
 {
-  "category": "الصحة والجسد",
+  "category": "النجاح",
   "phrases": [
     {
-      "english": "I feel very tired today.",
-      "arabic": "أشعر بالتعب الشديد اليوم.",
-      "pronunciation": "Ash'uru bil-ta'ab al-shadeed al-yawm.",
-      "context": "Use this when you are feeling exhausted."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Use this to express gratitude after someone assists you."
     },
     {
-      "english": "My head hurts a lot.",
-      "arabic": "رأسي يؤلمني كثيراً.",
-      "pronunciation": "Ra'si yu'limuni katheeran.",
-      "context": "Say this when experiencing a strong headache."
+      "english": "Can you please repeat that for me?",
+      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
+      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
+      "context": "Employ this when you didn't understand something and need it said again."
     },
     {
-      "english": "I need to drink more water.",
-      "arabic": "أحتاج لشرب المزيد من الماء.",
-      "pronunciation": "Ahtaju lishurb al-mazeed min al-maa'.",
-      "context": "Use this to express a need for hydration."
+      "english": "I would like to order a cup of coffee.",
+      "arabic": "أود أن أطلب كوباً من القهوة.",
+      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
+      "context": "Use this common phrase when ordering drinks at a café."
     },
     {
-      "english": "I am allergic to cats.",
-      "arabic": "أنا لدي حساسية من القطط.",
-      "pronunciation": "Ana ladaiya hasasiyah min al-qitat.",
-      "context": "Inform someone about a specific allergy."
+      "english": "Excuse me, where is the nearest bathroom?",
+      "arabic": "عفواً، أين الحمام الأقرب؟",
+      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
+      "context": "This is a polite way to ask for directions to a restroom."
     },
     {
-      "english": "I want to eat something healthy.",
-      "arabic": "أريد أن آكل شيئاً صحياً.",
-      "pronunciation": "Ureed an aakul shay'an sihiyan.",
-      "context": "Use this when you are looking for nutritious food."
+      "english": "I don't understand this word at all.",
+      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
+      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
+      "context": "Say this when you are completely unable to comprehend a specific term."
     }
   ],
   "total": 5
