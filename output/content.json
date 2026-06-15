@@ -1,35 +1,35 @@
 {
-  "category": "الأرقام والوقت",
+  "category": "العمل والأعمال",
   "phrases": [
     {
-      "english": "What time is it?",
-      "arabic": "كم الساعة الآن؟",
-      "pronunciation": "Kam as-saa'ah al-aan?",
-      "context": "Used to ask for the current time."
+      "english": "I need to finish this report by tomorrow.",
+      "arabic": "أحتاج إلى إنهاء هذا التقرير بحلول الغد.",
+      "pronunciation": "Ahtaj ila inhā' hādhā al-taqrīr biḥulūl al-ghad.",
+      "context": "Use this when discussing deadlines for work tasks."
     },
     {
-      "english": "It is three o'clock.",
-      "arabic": "إنها الساعة الثالثة.",
-      "pronunciation": "Innaha as-saa'ah ath-thaalithah.",
-      "context": "Used to state the current time."
+      "english": "Can you please send me the meeting agenda?",
+      "arabic": "هل يمكنك فضلاً إرسال جدول أعمال الاجتماع إلي؟",
+      "pronunciation": "Hal yumkinuka faḍlan irsāl jadwal aʿmāl al-ijtimāʿ ilayya?",
+      "context": "Ask for information needed before a meeting."
     },
     {
-      "english": "I need five apples, please.",
-      "arabic": "أحتاج خمس تفاحات من فضلك.",
-      "pronunciation": "Ahtaaju khams tuffaahaat min fadlik.",
-      "context": "Used when buying or requesting a specific quantity of items."
+      "english": "I have a business meeting at ten o'clock.",
+      "arabic": "لدي اجتماع عمل في تمام الساعة العاشرة.",
+      "pronunciation": "Ladaiy ijtimāʿ ʿamal fī tamām al-sāʿah al-ʿāshirah.",
+      "context": "Inform someone about your scheduled work appointments."
     },
     {
-      "english": "My phone number is nine eight seven six five four three two one zero.",
-      "arabic": "رقم هاتفي هو تسعة ثمانية سبعة ستة خمسة أربعة ثلاثة اثنان واحد صفر.",
-      "pronunciation": "Raqmu haatifi huwa tis'ah thamaaniyah sab'ah sittah khamsah arba'ah thalaathah ithnaan waahid sifr.",
-      "context": "Used to share your phone number."
+      "english": "Where is the nearest post office?",
+      "arabic": "أين أقرب مكتب بريد؟",
+      "pronunciation": "Aina aqrab maktab barīd?",
+      "context": "Ask for directions to a common business-related service."
     },
     {
-      "english": "The meeting is at ten thirty in the morning.",
-      "arabic": "الاجتماع الساعة العاشرة والنصف صباحاً.",
-      "pronunciation": "Al-ijtimaa' as-saa'ah al-'aashirah wan-nisfa sabahan.",
-      "context": "Used to specify a time for an event."
+      "english": "I would like to book a flight to Dubai.",
+      "arabic": "أود حجز رحلة طيران إلى دبي.",
+      "pronunciation": "Awad ḥajz riḥlat ṭayarān ilā Dubay.",
+      "context": "Use this when arranging business travel."
     }
   ],
   "total": 5
