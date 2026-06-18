@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "الحيوانات",
   "phrases": [
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Use this to express gratitude after someone assists you."
+      "english": "I have a playful cat named Leo.",
+      "arabic": "لدي قطة لعوبة اسمها ليو.",
+      "pronunciation": "Ladai qittatun la'oobah ismuha Leo.",
+      "context": "Use this to introduce your pet cat."
     },
     {
-      "english": "Can you please repeat that for me?",
-      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
-      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
-      "context": "Employ this when you didn't understand something and need it said again."
+      "english": "My neighbor owns a very energetic dog.",
+      "arabic": "جاري يمتلك كلبًا نشيطًا جدًا.",
+      "pronunciation": "Jaree yamtaliku kalban nasheetan jiddan.",
+      "context": "Talk about a friend's or neighbor's dog."
     },
     {
-      "english": "I would like to order a cup of coffee.",
-      "arabic": "أود أن أطلب كوباً من القهوة.",
-      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
-      "context": "Use this common phrase when ordering drinks at a café."
+      "english": "I saw a beautiful bird in the garden.",
+      "arabic": "رأيت طائرًا جميلًا في الحديقة.",
+      "pronunciation": "Ra'aitu taa'iran jameelan fil hadiqah.",
+      "context": "Mention an animal you observed in nature."
     },
     {
-      "english": "Excuse me, where is the nearest bathroom?",
-      "arabic": "عفواً، أين الحمام الأقرب؟",
-      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
-      "context": "This is a polite way to ask for directions to a restroom."
+      "english": "The children love to feed the ducks at the park.",
+      "arabic": "يحب الأطفال إطعام البط في الحديقة.",
+      "pronunciation": "Yuhibbul atfal it'aam al-batt fil hadiqah.",
+      "context": "Describe a common activity involving animals."
     },
     {
-      "english": "I don't understand this word at all.",
-      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
-      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
-      "context": "Say this when you are completely unable to comprehend a specific term."
+      "english": "Be careful, there are many bees around the flowers.",
+      "arabic": "كن حذرًا، هناك الكثير من النحل حول الزهور.",
+      "pronunciation": "Kun hadhiran, hunaaka al-katheer min an-nahli hawl az-zuhour.",
+      "context": "Warn someone about the presence of insects."
     }
   ],
   "total": 5
