@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "التسوق",
   "phrases": [
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Use this to express gratitude after someone assists you."
+      "english": "How much does this cost?",
+      "arabic": "بكم هذا؟",
+      "pronunciation": "Bikam hatha?",
+      "context": "Use this to ask for the price of an item."
     },
     {
-      "english": "Can you please repeat that for me?",
-      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
-      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
-      "context": "Employ this when you didn't understand something and need it said again."
+      "english": "I would like to buy this shirt.",
+      "arabic": "أريد أن أشتري هذه القميص.",
+      "pronunciation": "Ureed an ashtari hathihi al-qamees.",
+      "context": "Use this when you decide to purchase an item."
     },
     {
-      "english": "I would like to order a cup of coffee.",
-      "arabic": "أود أن أطلب كوباً من القهوة.",
-      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
-      "context": "Use this common phrase when ordering drinks at a café."
+      "english": "Do you have this in a different size?",
+      "arabic": "هل لديكم هذا بمقاس مختلف؟",
+      "pronunciation": "Hal ladaykum hatha bimqas mukhtalif?",
+      "context": "Use this when the current size doesn't fit."
     },
     {
-      "english": "Excuse me, where is the nearest bathroom?",
-      "arabic": "عفواً، أين الحمام الأقرب؟",
-      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
-      "context": "This is a polite way to ask for directions to a restroom."
+      "english": "Can I pay with a credit card?",
+      "arabic": "هل يمكنني الدفع ببطاقة ائتمان؟",
+      "pronunciation": "Hal yumkinuni ad-daf' bi-bitaqat i'timan?",
+      "context": "Use this to inquire about payment methods."
     },
     {
-      "english": "I don't understand this word at all.",
-      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
-      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
-      "context": "Say this when you are completely unable to comprehend a specific term."
+      "english": "Thank you for your help.",
+      "arabic": "شكراً لمساعدتك.",
+      "pronunciation": "Shukran limusa'adatik.",
+      "context": "Use this to express gratitude after a transaction."
     }
   ],
   "total": 5
