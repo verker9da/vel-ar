@@ -1,35 +1,35 @@
 {
-  "category": "الألوان والأوصاف",
+  "category": "الطعام والطعام",
   "phrases": [
     {
-      "english": "This shirt is a beautiful blue color.",
-      "arabic": "هذه القميص لونها أزرق جميل.",
-      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
-      "context": "Use this when complimenting someone's clothing."
+      "english": "I would like to order a falafel sandwich, please.",
+      "arabic": "أود أن أطلب ساندويتش فلافل من فضلك.",
+      "pronunciation": "Awood an atlub sandwich falafel min fadlak.",
+      "context": "Use this when ordering food at a restaurant or cafe."
     },
     {
-      "english": "I like the red car parked over there.",
-      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
-      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
-      "context": "Use this to point out a specific item with a color."
+      "english": "This meal is delicious, thank you.",
+      "arabic": "هذه الوجبة لذيذة جداً، شكراً لك.",
+      "pronunciation": "Hadhihi al-wajbah latheethah jiddan, shukran lak.",
+      "context": "Say this to compliment the cook or server on the food."
     },
     {
-      "english": "The sky is very clear and white today.",
-      "arabic": "السماء صافية جداً وبيضاء اليوم.",
-      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
-      "context": "Use this to describe the weather or a natural scene."
+      "english": "Do you have any vegetarian options?",
+      "arabic": "هل لديكم أي خيارات نباتية؟",
+      "pronunciation": "Hal ladaykum ay khiyarat nabatiyyah?",
+      "context": "Ask this if you follow a vegetarian diet."
     },
     {
-      "english": "She has long, black hair.",
-      "arabic": "لديها شعر طويل وأسود.",
-      "pronunciation": "Ladayha sha'r taweel wa aswad.",
-      "context": "Use this to describe a person's physical appearance."
+      "english": "Can I have the bill, please?",
+      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
+      "pronunciation": "Hal yumkinuni al-husool ala al-faturah, min fadlak?",
+      "context": "Use this when you are ready to pay after your meal."
     },
     {
-      "english": "This green apple looks very fresh.",
-      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
-      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
-      "context": "Use this when commenting on the appearance of food."
+      "english": "I am allergic to peanuts.",
+      "arabic": "أنا لدي حساسية من الفول السوداني.",
+      "pronunciation": "Ana laday hassasiyyah min al-foul as-sudani.",
+      "context": "Inform your server about any food allergies you have."
     }
   ],
   "total": 5
