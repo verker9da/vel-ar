@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "الطقس",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this to ask for the price of an item."
+      "english": "What is the weather like today?",
+      "arabic": "كيف حال الطقس اليوم؟",
+      "pronunciation": "Kayfa hal al-taqsu al-yawm?",
+      "context": "Use this to ask about the general weather conditions for the current day."
     },
     {
-      "english": "I would like to buy this shirt.",
-      "arabic": "أريد أن أشتري هذه القميص.",
-      "pronunciation": "Ureed an ashtari hathihi al-qamees.",
-      "context": "Use this when you decide to purchase an item."
+      "english": "It is very hot outside.",
+      "arabic": "الجو حار جداً في الخارج.",
+      "pronunciation": "Al-jawwu harun jiddan fil-kharij.",
+      "context": "Use this when the temperature is uncomfortably high."
     },
     {
-      "english": "Do you have this in a different size?",
-      "arabic": "هل لديكم هذا بمقاس مختلف؟",
-      "pronunciation": "Hal ladaykum hatha bimqas mukhtalif?",
-      "context": "Use this when the current size doesn't fit."
+      "english": "It is raining heavily right now.",
+      "arabic": "إنها تمطر بغزارة الآن.",
+      "pronunciation": "Innaha tumtiru bi-ghazaratin al-aan.",
+      "context": "Use this to describe significant rainfall occurring at the present moment."
     },
     {
-      "english": "Can I pay with a credit card?",
-      "arabic": "هل يمكنني الدفع ببطاقة ائتمان؟",
-      "pronunciation": "Hal yumkinuni ad-daf' bi-bitaqat i'timan?",
-      "context": "Use this to inquire about payment methods."
+      "english": "I hope it will be sunny tomorrow.",
+      "arabic": "آمل أن يكون الجو مشمساً غداً.",
+      "pronunciation": "Aamulu an yakuna al-jawwu mushmisan ghadan.",
+      "context": "Use this to express a wish for clear, sunny weather on the following day."
     },
     {
-      "english": "Thank you for your help.",
-      "arabic": "شكراً لمساعدتك.",
-      "pronunciation": "Shukran limusa'adatik.",
-      "context": "Use this to express gratitude after a transaction."
+      "english": "There is a strong wind today.",
+      "arabic": "هناك رياح قوية اليوم.",
+      "pronunciation": "Hunaka riyahun qawiyyatun al-yawm.",
+      "context": "Use this when the wind is noticeably forceful."
     }
   ],
   "total": 5
