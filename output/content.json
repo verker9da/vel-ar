@@ -1,35 +1,35 @@
 {
-  "category": "الصحة والجسد",
+  "category": "الحب",
   "phrases": [
     {
-      "english": "I feel very tired today.",
-      "arabic": "أشعر بالتعب الشديد اليوم.",
-      "pronunciation": "Ash'uru bil-ta'ab al-shadeed al-yawm.",
-      "context": "Use this when you are feeling exhausted."
+      "english": "I love you very much.",
+      "arabic": "أنا أحبك كثيراً.",
+      "pronunciation": "Ana uhibbuka katheeran (to male) / Ana uhibbuki katheeran (to female)",
+      "context": "Used to express deep affection towards someone."
     },
     {
-      "english": "My head hurts a lot.",
-      "arabic": "رأسي يؤلمني كثيراً.",
-      "pronunciation": "Ra'si yu'limuni katheeran.",
-      "context": "Say this when experiencing a strong headache."
+      "english": "You are so beautiful.",
+      "arabic": "أنتِ جميلة جداً.",
+      "pronunciation": "Anti jameela jiddan (to female)",
+      "context": "A compliment used to describe someone's appearance."
     },
     {
-      "english": "I need to drink more water.",
-      "arabic": "أحتاج لشرب المزيد من الماء.",
-      "pronunciation": "Ahtaju lishurb al-mazeed min al-maa'.",
-      "context": "Use this to express a need for hydration."
+      "english": "My heart belongs to you.",
+      "arabic": "قلبي ملكك.",
+      "pronunciation": "Qalbi milkuk.",
+      "context": "A poetic way to express devotion and deep emotional connection."
     },
     {
-      "english": "I am allergic to cats.",
-      "arabic": "أنا لدي حساسية من القطط.",
-      "pronunciation": "Ana ladaiya hasasiyah min al-qitat.",
-      "context": "Inform someone about a specific allergy."
+      "english": "I miss you a lot.",
+      "arabic": "أفتقدك كثيراً.",
+      "pronunciation": "Aftaqiduka katheeran (to male) / Aftaqiduki katheeran (to female)",
+      "context": "Said when you are not with someone you care about and feel their absence."
     },
     {
-      "english": "I want to eat something healthy.",
-      "arabic": "أريد أن آكل شيئاً صحياً.",
-      "pronunciation": "Ureed an aakul shay'an sihiyan.",
-      "context": "Use this when you are looking for nutritious food."
+      "english": "Our love is eternal.",
+      "arabic": "حبنا أبدي.",
+      "pronunciation": "Hubbuna abadi.",
+      "context": "Expresses a belief in the lasting nature of a romantic relationship."
     }
   ],
   "total": 5
