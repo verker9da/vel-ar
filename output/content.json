@@ -1,35 +1,35 @@
 {
-  "category": "العواطف والمشاعر",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "I am very happy today because the weather is beautiful.",
-      "arabic": "أنا سعيد جداً اليوم لأن الجو جميل.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-jaw jameel.",
-      "context": "Use this when expressing joy about something positive in your life."
+      "english": "My mother is a doctor.",
+      "arabic": "أمي طبيبة.",
+      "pronunciation": "Ummi tabeeba.",
+      "context": "Use this to describe your mother's profession."
     },
     {
-      "english": "He looks sad because he lost his keys.",
-      "arabic": "يبدو حزيناً لأنه فقد مفاتيحه.",
-      "pronunciation": "Yabdoo hazeenan li'annahu faqada mafateehahu.",
-      "context": "Use this to describe someone else's apparent sadness."
+      "english": "My father works in a bank.",
+      "arabic": "أبي يعمل في البنك.",
+      "pronunciation": "Abi ya'mal fil bank.",
+      "context": "Use this to describe your father's place of work."
     },
     {
-      "english": "She is angry because the train is late.",
-      "arabic": "هي غاضبة لأن القطار متأخر.",
-      "pronunciation": "Hiya ghadibah li'anna al-qitar muta'akhkhir.",
-      "context": "Use this to explain why someone is feeling anger."
+      "english": "I have one sister and two brothers.",
+      "arabic": "لدي أخت واحدة وأخوان اثنان.",
+      "pronunciation": "Ladai ukht wahida wa akhwan ithnan.",
+      "context": "Use this to state the number of siblings you have."
     },
     {
-      "english": "I feel tired after a long day at work.",
-      "arabic": "أشعر بالتعب بعد يوم طويل في العمل.",
-      "pronunciation": "Ash'ur bil-ta'ab ba'da yawm taweel fil-'amal.",
-      "context": "Use this to describe your own feeling of fatigue."
+      "english": "This is my husband.",
+      "arabic": "هذا زوجي.",
+      "pronunciation": "Hatha zawji.",
+      "context": "Use this when introducing your husband to someone."
     },
     {
-      "english": "Are you excited about your upcoming trip to Egypt?",
-      "arabic": "هل أنت متحمس لرحلتك القادمة إلى مصر؟",
-      "pronunciation": "Hal anta mutahammis li-rihlatik al-qadimah ila Misr?",
-      "context": "Use this to inquire about someone's anticipation for an event."
+      "english": "My children are very smart.",
+      "arabic": "أطفالي أذكياء جداً.",
+      "pronunciation": "Atfali athkiya' jiddan.",
+      "context": "Use this to express pride in your children's intelligence."
     }
   ],
   "total": 5
