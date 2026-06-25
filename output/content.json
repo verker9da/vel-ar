@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "العواطف والمشاعر",
   "phrases": [
     {
-      "english": "I need to finish this report by tomorrow.",
-      "arabic": "أحتاج إلى إنهاء هذا التقرير بحلول الغد.",
-      "pronunciation": "Ahtaj ila inhā' hādhā al-taqrīr biḥulūl al-ghad.",
-      "context": "Use this when discussing deadlines for work tasks."
+      "english": "I am very happy today because the weather is beautiful.",
+      "arabic": "أنا سعيد جداً اليوم لأن الجو جميل.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-jaw jameel.",
+      "context": "Use this when expressing joy about something positive in your life."
     },
     {
-      "english": "Can you please send me the meeting agenda?",
-      "arabic": "هل يمكنك فضلاً إرسال جدول أعمال الاجتماع إلي؟",
-      "pronunciation": "Hal yumkinuka faḍlan irsāl jadwal aʿmāl al-ijtimāʿ ilayya?",
-      "context": "Ask for information needed before a meeting."
+      "english": "He looks sad because he lost his keys.",
+      "arabic": "يبدو حزيناً لأنه فقد مفاتيحه.",
+      "pronunciation": "Yabdoo hazeenan li'annahu faqada mafateehahu.",
+      "context": "Use this to describe someone else's apparent sadness."
     },
     {
-      "english": "I have a business meeting at ten o'clock.",
-      "arabic": "لدي اجتماع عمل في تمام الساعة العاشرة.",
-      "pronunciation": "Ladaiy ijtimāʿ ʿamal fī tamām al-sāʿah al-ʿāshirah.",
-      "context": "Inform someone about your scheduled work appointments."
+      "english": "She is angry because the train is late.",
+      "arabic": "هي غاضبة لأن القطار متأخر.",
+      "pronunciation": "Hiya ghadibah li'anna al-qitar muta'akhkhir.",
+      "context": "Use this to explain why someone is feeling anger."
     },
     {
-      "english": "Where is the nearest post office?",
-      "arabic": "أين أقرب مكتب بريد؟",
-      "pronunciation": "Aina aqrab maktab barīd?",
-      "context": "Ask for directions to a common business-related service."
+      "english": "I feel tired after a long day at work.",
+      "arabic": "أشعر بالتعب بعد يوم طويل في العمل.",
+      "pronunciation": "Ash'ur bil-ta'ab ba'da yawm taweel fil-'amal.",
+      "context": "Use this to describe your own feeling of fatigue."
     },
     {
-      "english": "I would like to book a flight to Dubai.",
-      "arabic": "أود حجز رحلة طيران إلى دبي.",
-      "pronunciation": "Awad ḥajz riḥlat ṭayarān ilā Dubay.",
-      "context": "Use this when arranging business travel."
+      "english": "Are you excited about your upcoming trip to Egypt?",
+      "arabic": "هل أنت متحمس لرحلتك القادمة إلى مصر؟",
+      "pronunciation": "Hal anta mutahammis li-rihlatik al-qadimah ila Misr?",
+      "context": "Use this to inquire about someone's anticipation for an event."
     }
   ],
   "total": 5
