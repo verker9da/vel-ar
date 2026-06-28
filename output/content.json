@@ -1,35 +1,35 @@
 {
-  "category": "العواطف والمشاعر",
+  "category": "الهوايات والأنشطة",
   "phrases": [
     {
-      "english": "I am very happy today because the weather is beautiful.",
-      "arabic": "أنا سعيد جداً اليوم لأن الجو جميل.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-jaw jameel.",
-      "context": "Use this when expressing joy about something positive in your life."
+      "english": "I enjoy reading books in my free time.",
+      "arabic": "أستمتع بقراءة الكتب في وقت فراغي.",
+      "pronunciation": "Astamti' bi qira'ati al-kutubi fi waqti faraaghi.",
+      "context": "Use this to talk about your hobby of reading."
     },
     {
-      "english": "He looks sad because he lost his keys.",
-      "arabic": "يبدو حزيناً لأنه فقد مفاتيحه.",
-      "pronunciation": "Yabdoo hazeenan li'annahu faqada mafateehahu.",
-      "context": "Use this to describe someone else's apparent sadness."
+      "english": "My favorite hobby is playing football with my friends.",
+      "arabic": "هوايتي المفضلة هي لعب كرة القدم مع أصدقائي.",
+      "pronunciation": "Hawayati al-mufaddalah hiya la'ibu kurati al-qadami ma'a asdiqa'i.",
+      "context": "Share your main hobby, specifically playing football."
     },
     {
-      "english": "She is angry because the train is late.",
-      "arabic": "هي غاضبة لأن القطار متأخر.",
-      "pronunciation": "Hiya ghadibah li'anna al-qitar muta'akhkhir.",
-      "context": "Use this to explain why someone is feeling anger."
+      "english": "I love to travel to new places and explore different cultures.",
+      "arabic": "أحب السفر إلى أماكن جديدة واستكشاف ثقافات مختلفة.",
+      "pronunciation": "Uhibbu as-safara ila amakinin jadidatin wa istikshafi thaqafatin mukhtalifah.",
+      "context": "Describe your passion for travel and cultural exploration."
     },
     {
-      "english": "I feel tired after a long day at work.",
-      "arabic": "أشعر بالتعب بعد يوم طويل في العمل.",
-      "pronunciation": "Ash'ur bil-ta'ab ba'da yawm taweel fil-'amal.",
-      "context": "Use this to describe your own feeling of fatigue."
+      "english": "On weekends, I usually go hiking in the mountains.",
+      "arabic": "في عطلات نهاية الأسبوع، أذهب عادةً للتنزه في الجبال.",
+      "pronunciation": "Fi 'utlati nihayati al-usbu', adhhabu 'aadatan lit-tanazzuhi fil-jibaal.",
+      "context": "Explain your typical weekend activity of hiking."
     },
     {
-      "english": "Are you excited about your upcoming trip to Egypt?",
-      "arabic": "هل أنت متحمس لرحلتك القادمة إلى مصر؟",
-      "pronunciation": "Hal anta mutahammis li-rihlatik al-qadimah ila Misr?",
-      "context": "Use this to inquire about someone's anticipation for an event."
+      "english": "I spend my evenings learning to play the guitar.",
+      "arabic": "أقضي أمسياتي في تعلم العزف على الجيتار.",
+      "pronunciation": "Aqdi umsiyati fi ta'allumi al-'azfi 'ala al-jitaar.",
+      "context": "Talk about your evening hobby of learning the guitar."
     }
   ],
   "total": 5
