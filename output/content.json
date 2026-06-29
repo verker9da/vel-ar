@@ -1,35 +1,35 @@
 {
-  "category": "الحكمة",
+  "category": "النجاح",
   "phrases": [
     {
-      "english": "Patience is the key to success.",
-      "arabic": "الصبر مفتاح الفرج.",
-      "pronunciation": "As-sabru miftaahu al-faraj.",
-      "context": "Use this when encouraging someone to persevere through a difficult situation."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Use this to express gratitude after someone assists you."
     },
     {
-      "english": "There is no power and no strength except with God.",
-      "arabic": "لا حول ولا قوة إلا بالله.",
-      "pronunciation": "La hawla wa la quwwata illa billah.",
-      "context": "Say this when facing a challenge that feels overwhelming or beyond your control."
+      "english": "Can you please repeat that for me?",
+      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
+      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
+      "context": "Employ this when you didn't understand something and need it said again."
     },
     {
-      "english": "Everything happens for a reason.",
-      "arabic": "كل شيء يحدث لسبب.",
-      "pronunciation": "Kullu shay'in yahduthu li sabab.",
-      "context": "Use this to find comfort and meaning after an unexpected or unfortunate event."
+      "english": "I would like to order a cup of coffee.",
+      "arabic": "أود أن أطلب كوباً من القهوة.",
+      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
+      "context": "Use this common phrase when ordering drinks at a café."
     },
     {
-      "english": "Seek knowledge from the cradle to the grave.",
-      "arabic": "اطلبوا العلم من المهد إلى اللحد.",
-      "pronunciation": "Utlubu al-'ilma min al-mahd ila al-lahd.",
-      "context": "This phrase emphasizes the lifelong importance of learning and education."
+      "english": "Excuse me, where is the nearest bathroom?",
+      "arabic": "عفواً، أين الحمام الأقرب؟",
+      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
+      "context": "This is a polite way to ask for directions to a restroom."
     },
     {
-      "english": "Actions speak louder than words.",
-      "arabic": "الأفعال أبلغ من الأقوال.",
-      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
-      "context": "Use this to highlight the importance of deeds over mere promises or talk."
+      "english": "I don't understand this word at all.",
+      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
+      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
+      "context": "Say this when you are completely unable to comprehend a specific term."
     }
   ],
   "total": 5
