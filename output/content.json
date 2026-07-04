@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "الأرقام والوقت",
   "phrases": [
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Use this to express gratitude after someone assists you."
+      "english": "What time is it?",
+      "arabic": "كم الساعة الآن؟",
+      "pronunciation": "Kam as-saa'ah al-aan?",
+      "context": "Used to ask for the current time."
     },
     {
-      "english": "Can you please repeat that for me?",
-      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
-      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
-      "context": "Employ this when you didn't understand something and need it said again."
+      "english": "It is three o'clock.",
+      "arabic": "إنها الساعة الثالثة.",
+      "pronunciation": "Innaha as-saa'ah ath-thaalithah.",
+      "context": "Used to state the current time."
     },
     {
-      "english": "I would like to order a cup of coffee.",
-      "arabic": "أود أن أطلب كوباً من القهوة.",
-      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
-      "context": "Use this common phrase when ordering drinks at a café."
+      "english": "I need five apples, please.",
+      "arabic": "أحتاج خمس تفاحات من فضلك.",
+      "pronunciation": "Ahtaaju khams tuffaahaat min fadlik.",
+      "context": "Used when buying or requesting a specific quantity of items."
     },
     {
-      "english": "Excuse me, where is the nearest bathroom?",
-      "arabic": "عفواً، أين الحمام الأقرب؟",
-      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
-      "context": "This is a polite way to ask for directions to a restroom."
+      "english": "My phone number is nine eight seven six five four three two one zero.",
+      "arabic": "رقم هاتفي هو تسعة ثمانية سبعة ستة خمسة أربعة ثلاثة اثنان واحد صفر.",
+      "pronunciation": "Raqmu haatifi huwa tis'ah thamaaniyah sab'ah sittah khamsah arba'ah thalaathah ithnaan waahid sifr.",
+      "context": "Used to share your phone number."
     },
     {
-      "english": "I don't understand this word at all.",
-      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
-      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
-      "context": "Say this when you are completely unable to comprehend a specific term."
+      "english": "The meeting is at ten thirty in the morning.",
+      "arabic": "الاجتماع الساعة العاشرة والنصف صباحاً.",
+      "pronunciation": "Al-ijtimaa' as-saa'ah al-'aashirah wan-nisfa sabahan.",
+      "context": "Used to specify a time for an event."
     }
   ],
   "total": 5
