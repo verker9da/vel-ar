@@ -1,35 +1,35 @@
 {
-  "category": "الأرقام والوقت",
+  "category": "الحب",
   "phrases": [
     {
-      "english": "What time is it?",
-      "arabic": "كم الساعة الآن؟",
-      "pronunciation": "Kam as-saa'ah al-aan?",
-      "context": "Used to ask for the current time."
+      "english": "I love you very much.",
+      "arabic": "أنا أحبك كثيراً.",
+      "pronunciation": "Ana uhibbuka katheeran (to male) / Ana uhibbuki katheeran (to female)",
+      "context": "Used to express deep affection towards someone."
     },
     {
-      "english": "It is three o'clock.",
-      "arabic": "إنها الساعة الثالثة.",
-      "pronunciation": "Innaha as-saa'ah ath-thaalithah.",
-      "context": "Used to state the current time."
+      "english": "You are so beautiful.",
+      "arabic": "أنتِ جميلة جداً.",
+      "pronunciation": "Anti jameela jiddan (to female)",
+      "context": "A compliment used to describe someone's appearance."
     },
     {
-      "english": "I need five apples, please.",
-      "arabic": "أحتاج خمس تفاحات من فضلك.",
-      "pronunciation": "Ahtaaju khams tuffaahaat min fadlik.",
-      "context": "Used when buying or requesting a specific quantity of items."
+      "english": "My heart belongs to you.",
+      "arabic": "قلبي ملكك.",
+      "pronunciation": "Qalbi milkuk.",
+      "context": "A poetic way to express devotion and deep emotional connection."
     },
     {
-      "english": "My phone number is nine eight seven six five four three two one zero.",
-      "arabic": "رقم هاتفي هو تسعة ثمانية سبعة ستة خمسة أربعة ثلاثة اثنان واحد صفر.",
-      "pronunciation": "Raqmu haatifi huwa tis'ah thamaaniyah sab'ah sittah khamsah arba'ah thalaathah ithnaan waahid sifr.",
-      "context": "Used to share your phone number."
+      "english": "I miss you a lot.",
+      "arabic": "أفتقدك كثيراً.",
+      "pronunciation": "Aftaqiduka katheeran (to male) / Aftaqiduki katheeran (to female)",
+      "context": "Said when you are not with someone you care about and feel their absence."
     },
     {
-      "english": "The meeting is at ten thirty in the morning.",
-      "arabic": "الاجتماع الساعة العاشرة والنصف صباحاً.",
-      "pronunciation": "Al-ijtimaa' as-saa'ah al-'aashirah wan-nisfa sabahan.",
-      "context": "Used to specify a time for an event."
+      "english": "Our love is eternal.",
+      "arabic": "حبنا أبدي.",
+      "pronunciation": "Hubbuna abadi.",
+      "context": "Expresses a belief in the lasting nature of a romantic relationship."
     }
   ],
   "total": 5
