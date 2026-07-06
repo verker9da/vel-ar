@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "العمل والأعمال",
   "phrases": [
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Use this to express gratitude after someone assists you."
+      "english": "I need to finish this report by tomorrow.",
+      "arabic": "أحتاج إلى إنهاء هذا التقرير بحلول الغد.",
+      "pronunciation": "Ahtaj ila inhā' hādhā al-taqrīr biḥulūl al-ghad.",
+      "context": "Use this when discussing deadlines for work tasks."
     },
     {
-      "english": "Can you please repeat that for me?",
-      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
-      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
-      "context": "Employ this when you didn't understand something and need it said again."
+      "english": "Can you please send me the meeting agenda?",
+      "arabic": "هل يمكنك فضلاً إرسال جدول أعمال الاجتماع إلي؟",
+      "pronunciation": "Hal yumkinuka faḍlan irsāl jadwal aʿmāl al-ijtimāʿ ilayya?",
+      "context": "Ask for information needed before a meeting."
     },
     {
-      "english": "I would like to order a cup of coffee.",
-      "arabic": "أود أن أطلب كوباً من القهوة.",
-      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
-      "context": "Use this common phrase when ordering drinks at a café."
+      "english": "I have a business meeting at ten o'clock.",
+      "arabic": "لدي اجتماع عمل في تمام الساعة العاشرة.",
+      "pronunciation": "Ladaiy ijtimāʿ ʿamal fī tamām al-sāʿah al-ʿāshirah.",
+      "context": "Inform someone about your scheduled work appointments."
     },
     {
-      "english": "Excuse me, where is the nearest bathroom?",
-      "arabic": "عفواً، أين الحمام الأقرب؟",
-      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
-      "context": "This is a polite way to ask for directions to a restroom."
+      "english": "Where is the nearest post office?",
+      "arabic": "أين أقرب مكتب بريد؟",
+      "pronunciation": "Aina aqrab maktab barīd?",
+      "context": "Ask for directions to a common business-related service."
     },
     {
-      "english": "I don't understand this word at all.",
-      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
-      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
-      "context": "Say this when you are completely unable to comprehend a specific term."
+      "english": "I would like to book a flight to Dubai.",
+      "arabic": "أود حجز رحلة طيران إلى دبي.",
+      "pronunciation": "Awad ḥajz riḥlat ṭayarān ilā Dubay.",
+      "context": "Use this when arranging business travel."
     }
   ],
   "total": 5
