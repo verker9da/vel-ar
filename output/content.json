@@ -1,35 +1,35 @@
 {
-  "category": "الحكمة",
+  "category": "الهوايات والأنشطة",
   "phrases": [
     {
-      "english": "Patience is the key to success.",
-      "arabic": "الصبر مفتاح الفرج.",
-      "pronunciation": "As-sabru miftaahu al-faraj.",
-      "context": "Use this when encouraging someone to persevere through a difficult situation."
+      "english": "I enjoy reading books in my free time.",
+      "arabic": "أستمتع بقراءة الكتب في وقت فراغي.",
+      "pronunciation": "Astamti' bi qira'ati al-kutubi fi waqti faraaghi.",
+      "context": "Use this to talk about your hobby of reading."
     },
     {
-      "english": "There is no power and no strength except with God.",
-      "arabic": "لا حول ولا قوة إلا بالله.",
-      "pronunciation": "La hawla wa la quwwata illa billah.",
-      "context": "Say this when facing a challenge that feels overwhelming or beyond your control."
+      "english": "My favorite hobby is playing football with my friends.",
+      "arabic": "هوايتي المفضلة هي لعب كرة القدم مع أصدقائي.",
+      "pronunciation": "Hawayati al-mufaddalah hiya la'ibu kurati al-qadami ma'a asdiqa'i.",
+      "context": "Share your main hobby, specifically playing football."
     },
     {
-      "english": "Everything happens for a reason.",
-      "arabic": "كل شيء يحدث لسبب.",
-      "pronunciation": "Kullu shay'in yahduthu li sabab.",
-      "context": "Use this to find comfort and meaning after an unexpected or unfortunate event."
+      "english": "I love to travel to new places and explore different cultures.",
+      "arabic": "أحب السفر إلى أماكن جديدة واستكشاف ثقافات مختلفة.",
+      "pronunciation": "Uhibbu as-safara ila amakinin jadidatin wa istikshafi thaqafatin mukhtalifah.",
+      "context": "Describe your passion for travel and cultural exploration."
     },
     {
-      "english": "Seek knowledge from the cradle to the grave.",
-      "arabic": "اطلبوا العلم من المهد إلى اللحد.",
-      "pronunciation": "Utlubu al-'ilma min al-mahd ila al-lahd.",
-      "context": "This phrase emphasizes the lifelong importance of learning and education."
+      "english": "On weekends, I usually go hiking in the mountains.",
+      "arabic": "في عطلات نهاية الأسبوع، أذهب عادةً للتنزه في الجبال.",
+      "pronunciation": "Fi 'utlati nihayati al-usbu', adhhabu 'aadatan lit-tanazzuhi fil-jibaal.",
+      "context": "Explain your typical weekend activity of hiking."
     },
     {
-      "english": "Actions speak louder than words.",
-      "arabic": "الأفعال أبلغ من الأقوال.",
-      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
-      "context": "Use this to highlight the importance of deeds over mere promises or talk."
+      "english": "I spend my evenings learning to play the guitar.",
+      "arabic": "أقضي أمسياتي في تعلم العزف على الجيتار.",
+      "pronunciation": "Aqdi umsiyati fi ta'allumi al-'azfi 'ala al-jitaar.",
+      "context": "Talk about your evening hobby of learning the guitar."
     }
   ],
   "total": 5
