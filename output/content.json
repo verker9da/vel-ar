@@ -1,35 +1,35 @@
 {
-  "category": "الدافع",
+  "category": "الطعام والطعام",
   "phrases": [
     {
-      "english": "I want to learn Arabic because it's a beautiful language.",
-      "arabic": "أريد أن أتعلم اللغة العربية لأنها لغة جميلة.",
-      "pronunciation": "Ureed an ata'allam al-lughah al-'arabiyyah li'annaha lughah jameelah.",
-      "context": "Expressing your motivation for studying Arabic."
+      "english": "I would like to order a falafel sandwich, please.",
+      "arabic": "أود أن أطلب ساندويتش فلافل من فضلك.",
+      "pronunciation": "Awood an atlub sandwich falafel min fadlak.",
+      "context": "Use this when ordering food at a restaurant or cafe."
     },
     {
-      "english": "I am practicing speaking Arabic every day.",
-      "arabic": "أنا أتدرب على التحدث باللغة العربية كل يوم.",
-      "pronunciation": "Ana atadarrab 'ala al-tahadduth bil-lughah al-'arabiyyah kull yawm.",
-      "context": "Describing your commitment to improving your Arabic speaking skills."
+      "english": "This meal is delicious, thank you.",
+      "arabic": "هذه الوجبة لذيذة جداً، شكراً لك.",
+      "pronunciation": "Hadhihi al-wajbah latheethah jiddan, shukran lak.",
+      "context": "Say this to compliment the cook or server on the food."
     },
     {
-      "english": "This book is very helpful for my Arabic studies.",
-      "arabic": "هذا الكتاب مفيد جداً لدراستي العربية.",
-      "pronunciation": "Hatha al-kitab mufeed jiddan li-dirasati al-'arabiyyah.",
-      "context": "Recommending a resource or acknowledging its usefulness in your learning journey."
+      "english": "Do you have any vegetarian options?",
+      "arabic": "هل لديكم أي خيارات نباتية؟",
+      "pronunciation": "Hal ladaykum ay khiyarat nabatiyyah?",
+      "context": "Ask this if you follow a vegetarian diet."
     },
     {
-      "english": "I hope to become fluent in Arabic soon.",
-      "arabic": "آمل أن أتقن اللغة العربية قريباً.",
-      "pronunciation": "A'mal an utqin al-lughah al-'arabiyyah qareeban.",
-      "context": "Sharing your future goals and aspirations for learning Arabic."
+      "english": "Can I have the bill, please?",
+      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
+      "pronunciation": "Hal yumkinuni al-husool ala al-faturah, min fadlak?",
+      "context": "Use this when you are ready to pay after your meal."
     },
     {
-      "english": "Learning Arabic opens up new cultural experiences for me.",
-      "arabic": "تعلم اللغة العربية يفتح لي تجارب ثقافية جديدة.",
-      "pronunciation": "Ta'allum al-lughah al-'arabiyyah yaftah li tajareeb thaqafiyyah jadeedah.",
-      "context": "Highlighting the broader benefits and opportunities that come with learning Arabic."
+      "english": "I am allergic to peanuts.",
+      "arabic": "أنا لدي حساسية من الفول السوداني.",
+      "pronunciation": "Ana laday hassasiyyah min al-foul as-sudani.",
+      "context": "Inform your server about any food allergies you have."
     }
   ],
   "total": 5
