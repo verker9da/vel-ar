@@ -72,7 +72,9 @@ jobs:
           VK_ACCESS_TOKEN: ${{ secrets.VK_ACCESS_TOKEN }}
           VK_GROUP_ID: ${{ secrets.VK_GROUP_ID }}
 
-          # Threads Credentials
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+            # Threads Credentials
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
         run: |
