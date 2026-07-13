@@ -278,7 +278,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
         while waited < max_wait:
             status_url = f"https://graph.facebook.com/v21.0/{container_id}"
             status_params = {
-                'fields': 'status_code',
+                'fields': 'status_code,status',
                 'access_token': access_token
             }
 
@@ -295,7 +295,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
                     pass
 
             status_data = status_response.json() if status_response else {}
-            status_code = status_data.get('status_code', 'UNKNOWN')
+            status_code = status_data.get('status_code') or status_data.get('status', 'UNKNOWN')
 
             is_auth_error = False
             if status_data and 'error' in status_data:
