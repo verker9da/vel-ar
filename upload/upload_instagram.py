@@ -289,7 +289,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
 
             if not status_response or status_response.status_code != 200:
                 try:
-                    status_url = f"https://graph.instagram.com/v21.0/{container_id}"
+                    status_url = f"https://graph.facebook.com/v21.0/{container_id}"
                     status_response = requests.get(status_url, params=status_params, timeout=(10, 20))
                 except Exception:
                     pass
@@ -357,7 +357,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
                 time.sleep(10)
 
             if attempt == max_publish_retries - 1:
-                publish_url = f"https://graph.instagram.com/v21.0/{user_id}/media_publish"
+                publish_url = f"https://graph.facebook.com/v21.0/{user_id}/media_publish"
                 publish_response = requests.post(publish_url, params=publish_params, timeout=60)
 
         if not publish_response or publish_response.status_code != 200:
