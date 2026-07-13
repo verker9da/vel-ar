@@ -63,7 +63,29 @@ def upload_to_instagram(video_path, caption, is_story=False):
         print("[instagram] Skipping - no token")
         return {'status': 'skipped', 'reason': 'Missing credentials', 'platform': 'instagram'}
     
-    if access_token.startswith('IGAA'):
+    page_id = None
+    if access_token.startswith('EAAM'):
+        print("[instagram] EAAM token detected, fetching Facebook Page and IG Business Account...")
+        try:
+            me_resp = requests.get(f"https://graph.facebook.com/me/accounts?fields=id,name,instagram_business_account&access_token={access_token}", timeout=15)
+            if me_resp.status_code == 200:
+                pages = me_resp.json().get('data', [])
+                for page in pages:
+                    ig_account = page.get('instagram_business_account')
+                    if ig_account:
+                        ig_id = ig_account.get('id')
+                        page_id = page.get('id')
+                        if ig_id != user_id:
+                            print(f"[instagram] Found IG Business Account: {ig_id} (was: {user_id})")
+                            user_id = ig_id
+                        break
+                if not user_id:
+                    print("[instagram] No connected Instagram Business Account found on any page")
+            else:
+                print(f"[instagram] Page fetch failed: {me_resp.text[:200]}")
+        except Exception as e:
+            print(f"[instagram] IG ID fetch error: {e}")
+    elif access_token.startswith('IGAA'):
         try:
             me_resp = requests.get(f"https://graph.facebook.com/me?fields=id,username&access_token={access_token}", timeout=10)
             if me_resp.status_code == 200:
@@ -123,7 +145,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
         
         while waited < max_wait:
             status_resp = requests.get(f"{api_base}/{container_id}", params={
-                'fields': 'status_code,status', 'access_token': access_token
+                'fields': 'status_code,status,error_code,error_message', 'access_token': access_token
             }, timeout=30)
             
             status_data = status_resp.json()
@@ -136,9 +158,11 @@ def upload_to_instagram(video_path, caption, is_story=False):
                 break
             elif status_code == 'ERROR':
                 error_msg = status_data.get('error_message', 'Video processing failed')
-                print(f"[instagram] Error: {error_msg}")
+                error_code = status_data.get('error_code', 'N/A')
+                print(f"[instagram] Error: {error_msg} (code: {error_code})")
+                print(f"[instagram] Full response: {status_data}")
                 delete_github_release(repo, release_id, token, tag)
-                raise Exception(error_msg)
+                raise Exception(f"{error_msg}")
             
             time.sleep(30)
             waited += 30
