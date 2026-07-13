@@ -1,6 +1,7 @@
 import os
 import requests
 import time
+import base64
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -13,36 +14,39 @@ def upload_video_to_github(video_path):
     if not repo or not token:
         raise Exception("GITHUB_REPOSITORY or GITHUB_TOKEN not set")
     
-    tag = f"ig-upload-{int(time.time())}"
     h = {'Authorization': f'Bearer {token}', 'Accept': 'application/vnd.github+json'}
+    remote_path = 'output/temp/video.mp4'
+    branch = 'main'
     
-    r = requests.post(f'https://api.github.com/repos/{repo}/releases', headers=h, json={
-        'tag_name': tag, 'name': f'IG Upload {tag}',
-        'body': '', 'draft': False, 'prerelease': True
-    })
-    if r.status_code != 201:
-        raise Exception(f"GitHub release create failed ({r.status_code}): {r.text[:500]}")
-    
-    release = r.json()
-    upload_url = release['upload_url'].replace('{?name,label}', '?name=video.mp4')
-    
+    # Read video file and encode as base64
     with open(video_path, 'rb') as f:
-        r2 = requests.post(upload_url, headers={
-            'Authorization': f'Bearer {token}', 'Content-Type': 'video/mp4'
-        }, data=f)
+        content_b64 = base64.b64encode(f.read()).decode()
     
-    if r2.status_code != 201:
-        raise Exception(f"GitHub asset upload failed ({r2.status_code}): {r2.text[:500]}")
+    # Get current file SHA if exists (for update) or create new
+    r = requests.get(f'https://api.github.com/repos/{repo}/contents/{remote_path}', headers=h)
+    sha = r.json().get('sha') if r.status_code == 200 else None
     
-    video_url = r2.json()['browser_download_url']
-    return video_url, release['id'], token, repo, tag
+    # Upload via GitHub Contents API
+    data = {'message': f'temp video {int(time.time())}', 'content': content_b64, 'branch': branch}
+    if sha:
+        data['sha'] = sha
+    
+    r2 = requests.put(f'https://api.github.com/repos/{repo}/contents/{remote_path}', headers=h, json=data)
+    if r2.status_code not in (200, 201):
+        raise Exception(f"GitHub upload failed ({r2.status_code}): {r2.text[:500]}")
+    
+    owner, name = repo.split('/')
+    video_url = f'https://raw.githubusercontent.com/{owner}/{name}/{branch}/{remote_path}'
+    return video_url, repo, token, remote_path, branch
 
 
-def delete_github_release(repo, release_id, token, tag=''):
+def delete_github_temp_file(repo, token, remote_path, branch='main'):
     h = {'Authorization': f'Bearer {token}', 'Accept': 'application/vnd.github+json'}
-    requests.delete(f'https://api.github.com/repos/{repo}/releases/{release_id}', headers=h)
-    if tag:
-        requests.delete(f'https://api.github.com/repos/{repo}/git/refs/tags/{tag}', headers=h)
+    r = requests.get(f'https://api.github.com/repos/{repo}/contents/{remote_path}', headers=h)
+    if r.status_code == 200:
+        sha = r.json()['sha']
+        requests.delete(f'https://api.github.com/repos/{repo}/contents/{remote_path}',
+                        headers=h, json={'message': 'cleanup temp video', 'sha': sha, 'branch': branch})
 
 
 def upload_to_instagram(video_path, caption, is_story=False):
@@ -116,8 +120,8 @@ def upload_to_instagram(video_path, caption, is_story=False):
     print(f"[instagram] Caption: {len(caption_limited)} chars")
     
     try:
-        print(f"[instagram] Step 1: Uploading to GitHub release...")
-        video_url, release_id, token, repo, tag = upload_video_to_github(video_path_obj)
+        print(f"[instagram] Step 1: Uploading to GitHub raw content...")
+        video_url, repo, token, remote_path, branch = upload_video_to_github(video_path_obj)
         print(f"[instagram] GitHub URL: {video_url}")
         
         print(f"[instagram] Step 2: Creating {media_type} container...")
@@ -164,14 +168,14 @@ def upload_to_instagram(video_path, caption, is_story=False):
                 error_code = status_data.get('error_code', 'N/A')
                 print(f"[instagram] Error: {error_msg} (code: {error_code})")
                 print(f"[instagram] Full response: {status_data}")
-                delete_github_release(repo, release_id, token, tag)
+                delete_github_temp_file(repo, token, remote_path, branch)
                 raise Exception(f"{error_msg}")
             
             time.sleep(30)
             waited += 30
         
         if waited >= max_wait:
-            delete_github_release(repo, release_id, token, tag)
+            delete_github_temp_file(repo, token, remote_path, branch)
             raise Exception("Video processing timed out")
         
         time.sleep(5)
@@ -192,13 +196,13 @@ def upload_to_instagram(video_path, caption, is_story=False):
         
         if not publish_resp or publish_resp.status_code != 200:
             error_msg = publish_resp.json().get('error', {}).get('message', 'Unknown') if publish_resp else 'No response'
-            delete_github_release(repo, release_id, token, tag)
+            delete_github_temp_file(repo, token, remote_path, branch)
             raise Exception(f"Publish failed: {error_msg}")
         
         media_id = publish_resp.json().get('id')
         print(f"[instagram] SUCCESS! Media ID: {media_id}")
         
-        delete_github_release(repo, release_id, token, tag)
+        delete_github_temp_file(repo, token, remote_path, branch)
         
         return {'id': media_id, 'platform': 'instagram', 'status': 'success'}
         
