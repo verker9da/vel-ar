@@ -95,4 +95,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add content_history.json output/content.json 2>/dev/null || true
           git commit -m "📝 Auto-generate Arabic learning content [Run ${{ github.run_number }}]" || true
+          git pull --rebase
           git push
