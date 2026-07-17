@@ -1,35 +1,35 @@
 {
-  "category": "التحيات اليومية",
+  "category": "التسوق",
   "phrases": [
     {
-      "english": "Good morning, how are you today?",
-      "arabic": "صباح الخير، كيف حالك اليوم؟",
-      "pronunciation": "Sabah al-khayr, kayfa haluka al-yawm?",
-      "context": "Used to greet someone in the morning and inquire about their well-being."
+      "english": "How much does this cost?",
+      "arabic": "بكم هذا؟",
+      "pronunciation": "Bikam hatha?",
+      "context": "Use this to ask for the price of an item."
     },
     {
-      "english": "Hello, it's nice to meet you.",
-      "arabic": "أهلاً بك، سررت بلقائك.",
-      "pronunciation": "Ahlan bik, surirtu biliqa'ik.",
-      "context": "A polite way to greet someone for the first time."
+      "english": "I would like to buy this shirt.",
+      "arabic": "أريد أن أشتري هذه القميص.",
+      "pronunciation": "Ureed an ashtari hathihi al-qamees.",
+      "context": "Use this when you decide to purchase an item."
     },
     {
-      "english": "Good afternoon, I hope you are well.",
-      "arabic": "مساء الخير، أتمنى أن تكون بخير.",
-      "pronunciation": "Masa' al-khayr, atamanna an takuna bikhayr.",
-      "context": "A polite greeting used in the afternoon or evening."
+      "english": "Do you have this in a different size?",
+      "arabic": "هل لديكم هذا بمقاس مختلف؟",
+      "pronunciation": "Hal ladaykum hatha bimqas mukhtalif?",
+      "context": "Use this when the current size doesn't fit."
     },
     {
-      "english": "Goodbye, see you later.",
-      "arabic": "إلى اللقاء، أراك لاحقاً.",
-      "pronunciation": "Ila al-liqa', arak lahiqan.",
-      "context": "Used when parting ways with someone you expect to see again."
+      "english": "Can I pay with a credit card?",
+      "arabic": "هل يمكنني الدفع ببطاقة ائتمان؟",
+      "pronunciation": "Hal yumkinuni ad-daf' bi-bitaqat i'timan?",
+      "context": "Use this to inquire about payment methods."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Expressing gratitude for assistance received."
+      "english": "Thank you for your help.",
+      "arabic": "شكراً لمساعدتك.",
+      "pronunciation": "Shukran limusa'adatik.",
+      "context": "Use this to express gratitude after a transaction."
     }
   ],
   "total": 5
