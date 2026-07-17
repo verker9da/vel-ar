@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "أساسيات السفر",
   "phrases": [
     {
+      "english": "Where is the nearest train station?",
+      "arabic": "أين أقرب محطة قطار؟",
+      "pronunciation": "Ayna aqrab mahattat qitar?",
+      "context": "Use this when you need to find public transportation."
+    },
+    {
+      "english": "I would like to book a hotel room for two nights.",
+      "arabic": "أرغب في حجز غرفة فندق لليلتين.",
+      "pronunciation": "Arghab fi hajz ghurfat funduq lil-laylatayn.",
+      "context": "Use this when checking into a hotel."
+    },
+    {
       "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this to ask for the price of an item."
+      "arabic": "كم يكلف هذا؟",
+      "pronunciation": "Kam yukallif hatha?",
+      "context": "Use this when shopping or asking for prices."
     },
     {
-      "english": "I would like to buy this shirt.",
-      "arabic": "أريد أن أشتري هذه القميص.",
-      "pronunciation": "Ureed an ashtari hathihi al-qamees.",
-      "context": "Use this when you decide to purchase an item."
+      "english": "Can you help me please?",
+      "arabic": "هل يمكنك مساعدتي من فضلك؟",
+      "pronunciation": "Hal yumkinuka musa'adati min fadlik?",
+      "context": "Use this when you need assistance from someone."
     },
     {
-      "english": "Do you have this in a different size?",
-      "arabic": "هل لديكم هذا بمقاس مختلف؟",
-      "pronunciation": "Hal ladaykum hatha bimqas mukhtalif?",
-      "context": "Use this when the current size doesn't fit."
-    },
-    {
-      "english": "Can I pay with a credit card?",
-      "arabic": "هل يمكنني الدفع ببطاقة ائتمان؟",
-      "pronunciation": "Hal yumkinuni ad-daf' bi-bitaqat i'timan?",
-      "context": "Use this to inquire about payment methods."
-    },
-    {
-      "english": "Thank you for your help.",
-      "arabic": "شكراً لمساعدتك.",
-      "pronunciation": "Shukran limusa'adatik.",
-      "context": "Use this to express gratitude after a transaction."
+      "english": "I need to find a pharmacy.",
+      "arabic": "أحتاج إلى العثور على صيدلية.",
+      "pronunciation": "Ahtaj ila al-'uthur 'ala saydaliyyah.",
+      "context": "Use this when you need to buy medication."
     }
   ],
   "total": 5
