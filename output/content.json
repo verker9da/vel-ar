@@ -1,35 +1,35 @@
 {
-  "category": "أساسيات السفر",
+  "category": "النجاح",
   "phrases": [
     {
-      "english": "Where is the nearest train station?",
-      "arabic": "أين أقرب محطة قطار؟",
-      "pronunciation": "Ayna aqrab mahattat qitar?",
-      "context": "Use this when you need to find public transportation."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Use this to express gratitude after someone assists you."
     },
     {
-      "english": "I would like to book a hotel room for two nights.",
-      "arabic": "أرغب في حجز غرفة فندق لليلتين.",
-      "pronunciation": "Arghab fi hajz ghurfat funduq lil-laylatayn.",
-      "context": "Use this when checking into a hotel."
+      "english": "Can you please repeat that for me?",
+      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
+      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
+      "context": "Employ this when you didn't understand something and need it said again."
     },
     {
-      "english": "How much does this cost?",
-      "arabic": "كم يكلف هذا؟",
-      "pronunciation": "Kam yukallif hatha?",
-      "context": "Use this when shopping or asking for prices."
+      "english": "I would like to order a cup of coffee.",
+      "arabic": "أود أن أطلب كوباً من القهوة.",
+      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
+      "context": "Use this common phrase when ordering drinks at a café."
     },
     {
-      "english": "Can you help me please?",
-      "arabic": "هل يمكنك مساعدتي من فضلك؟",
-      "pronunciation": "Hal yumkinuka musa'adati min fadlik?",
-      "context": "Use this when you need assistance from someone."
+      "english": "Excuse me, where is the nearest bathroom?",
+      "arabic": "عفواً، أين الحمام الأقرب؟",
+      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
+      "context": "This is a polite way to ask for directions to a restroom."
     },
     {
-      "english": "I need to find a pharmacy.",
-      "arabic": "أحتاج إلى العثور على صيدلية.",
-      "pronunciation": "Ahtaj ila al-'uthur 'ala saydaliyyah.",
-      "context": "Use this when you need to buy medication."
+      "english": "I don't understand this word at all.",
+      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
+      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
+      "context": "Say this when you are completely unable to comprehend a specific term."
     }
   ],
   "total": 5
