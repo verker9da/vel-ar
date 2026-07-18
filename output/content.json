@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "الهوايات والأنشطة",
   "phrases": [
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Use this to express gratitude after someone assists you."
+      "english": "I enjoy reading books in my free time.",
+      "arabic": "أستمتع بقراءة الكتب في وقت فراغي.",
+      "pronunciation": "Astamti' bi qira'ati al-kutubi fi waqti faraaghi.",
+      "context": "Use this to talk about your hobby of reading."
     },
     {
-      "english": "Can you please repeat that for me?",
-      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
-      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
-      "context": "Employ this when you didn't understand something and need it said again."
+      "english": "My favorite hobby is playing football with my friends.",
+      "arabic": "هوايتي المفضلة هي لعب كرة القدم مع أصدقائي.",
+      "pronunciation": "Hawayati al-mufaddalah hiya la'ibu kurati al-qadami ma'a asdiqa'i.",
+      "context": "Share your main hobby, specifically playing football."
     },
     {
-      "english": "I would like to order a cup of coffee.",
-      "arabic": "أود أن أطلب كوباً من القهوة.",
-      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
-      "context": "Use this common phrase when ordering drinks at a café."
+      "english": "I love to travel to new places and explore different cultures.",
+      "arabic": "أحب السفر إلى أماكن جديدة واستكشاف ثقافات مختلفة.",
+      "pronunciation": "Uhibbu as-safara ila amakinin jadidatin wa istikshafi thaqafatin mukhtalifah.",
+      "context": "Describe your passion for travel and cultural exploration."
     },
     {
-      "english": "Excuse me, where is the nearest bathroom?",
-      "arabic": "عفواً، أين الحمام الأقرب؟",
-      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
-      "context": "This is a polite way to ask for directions to a restroom."
+      "english": "On weekends, I usually go hiking in the mountains.",
+      "arabic": "في عطلات نهاية الأسبوع، أذهب عادةً للتنزه في الجبال.",
+      "pronunciation": "Fi 'utlati nihayati al-usbu', adhhabu 'aadatan lit-tanazzuhi fil-jibaal.",
+      "context": "Explain your typical weekend activity of hiking."
     },
     {
-      "english": "I don't understand this word at all.",
-      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
-      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
-      "context": "Say this when you are completely unable to comprehend a specific term."
+      "english": "I spend my evenings learning to play the guitar.",
+      "arabic": "أقضي أمسياتي في تعلم العزف على الجيتار.",
+      "pronunciation": "Aqdi umsiyati fi ta'allumi al-'azfi 'ala al-jitaar.",
+      "context": "Talk about your evening hobby of learning the guitar."
     }
   ],
   "total": 5
