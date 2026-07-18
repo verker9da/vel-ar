@@ -1,35 +1,35 @@
 {
-  "category": "الصحة والجسد",
+  "category": "التحيات اليومية",
   "phrases": [
     {
-      "english": "I feel very tired today.",
-      "arabic": "أشعر بالتعب الشديد اليوم.",
-      "pronunciation": "Ash'uru bil-ta'ab al-shadeed al-yawm.",
-      "context": "Use this when you are feeling exhausted."
+      "english": "Good morning, how are you today?",
+      "arabic": "صباح الخير، كيف حالك اليوم؟",
+      "pronunciation": "Sabah al-khayr, kayfa haluka al-yawm?",
+      "context": "Used to greet someone in the morning and inquire about their well-being."
     },
     {
-      "english": "My head hurts a lot.",
-      "arabic": "رأسي يؤلمني كثيراً.",
-      "pronunciation": "Ra'si yu'limuni katheeran.",
-      "context": "Say this when experiencing a strong headache."
+      "english": "Hello, it's nice to meet you.",
+      "arabic": "أهلاً بك، سررت بلقائك.",
+      "pronunciation": "Ahlan bik, surirtu biliqa'ik.",
+      "context": "A polite way to greet someone for the first time."
     },
     {
-      "english": "I need to drink more water.",
-      "arabic": "أحتاج لشرب المزيد من الماء.",
-      "pronunciation": "Ahtaju lishurb al-mazeed min al-maa'.",
-      "context": "Use this to express a need for hydration."
+      "english": "Good afternoon, I hope you are well.",
+      "arabic": "مساء الخير، أتمنى أن تكون بخير.",
+      "pronunciation": "Masa' al-khayr, atamanna an takuna bikhayr.",
+      "context": "A polite greeting used in the afternoon or evening."
     },
     {
-      "english": "I am allergic to cats.",
-      "arabic": "أنا لدي حساسية من القطط.",
-      "pronunciation": "Ana ladaiya hasasiyah min al-qitat.",
-      "context": "Inform someone about a specific allergy."
+      "english": "Goodbye, see you later.",
+      "arabic": "إلى اللقاء، أراك لاحقاً.",
+      "pronunciation": "Ila al-liqa', arak lahiqan.",
+      "context": "Used when parting ways with someone you expect to see again."
     },
     {
-      "english": "I want to eat something healthy.",
-      "arabic": "أريد أن آكل شيئاً صحياً.",
-      "pronunciation": "Ureed an aakul shay'an sihiyan.",
-      "context": "Use this when you are looking for nutritious food."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude for assistance received."
     }
   ],
   "total": 5
