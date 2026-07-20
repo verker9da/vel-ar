@@ -1,35 +1,35 @@
 {
-  "category": "الطعام والطعام",
+  "category": "النجاح",
   "phrases": [
     {
-      "english": "I would like to order a falafel sandwich, please.",
-      "arabic": "أود أن أطلب ساندويتش فلافل من فضلك.",
-      "pronunciation": "Awood an atlub sandwich falafel min fadlak.",
-      "context": "Use this when ordering food at a restaurant or cafe."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Use this to express gratitude after someone assists you."
     },
     {
-      "english": "This meal is delicious, thank you.",
-      "arabic": "هذه الوجبة لذيذة جداً، شكراً لك.",
-      "pronunciation": "Hadhihi al-wajbah latheethah jiddan, shukran lak.",
-      "context": "Say this to compliment the cook or server on the food."
+      "english": "Can you please repeat that for me?",
+      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
+      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
+      "context": "Employ this when you didn't understand something and need it said again."
     },
     {
-      "english": "Do you have any vegetarian options?",
-      "arabic": "هل لديكم أي خيارات نباتية؟",
-      "pronunciation": "Hal ladaykum ay khiyarat nabatiyyah?",
-      "context": "Ask this if you follow a vegetarian diet."
+      "english": "I would like to order a cup of coffee.",
+      "arabic": "أود أن أطلب كوباً من القهوة.",
+      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
+      "context": "Use this common phrase when ordering drinks at a café."
     },
     {
-      "english": "Can I have the bill, please?",
-      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
-      "pronunciation": "Hal yumkinuni al-husool ala al-faturah, min fadlak?",
-      "context": "Use this when you are ready to pay after your meal."
+      "english": "Excuse me, where is the nearest bathroom?",
+      "arabic": "عفواً، أين الحمام الأقرب؟",
+      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
+      "context": "This is a polite way to ask for directions to a restroom."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "أنا لدي حساسية من الفول السوداني.",
-      "pronunciation": "Ana laday hassasiyyah min al-foul as-sudani.",
-      "context": "Inform your server about any food allergies you have."
+      "english": "I don't understand this word at all.",
+      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
+      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
+      "context": "Say this when you are completely unable to comprehend a specific term."
     }
   ],
   "total": 5
