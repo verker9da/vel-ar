@@ -1,35 +1,35 @@
 {
-  "category": "العائلة والعلاقات",
+  "category": "الحيوانات",
   "phrases": [
     {
-      "english": "My mother is a doctor.",
-      "arabic": "أمي طبيبة.",
-      "pronunciation": "Ummi tabeeba.",
-      "context": "Use this to describe your mother's profession."
+      "english": "I have a playful cat named Leo.",
+      "arabic": "لدي قطة لعوبة اسمها ليو.",
+      "pronunciation": "Ladai qittatun la'oobah ismuha Leo.",
+      "context": "Use this to introduce your pet cat."
     },
     {
-      "english": "My father works in a bank.",
-      "arabic": "أبي يعمل في البنك.",
-      "pronunciation": "Abi ya'mal fil bank.",
-      "context": "Use this to describe your father's place of work."
+      "english": "My neighbor owns a very energetic dog.",
+      "arabic": "جاري يمتلك كلبًا نشيطًا جدًا.",
+      "pronunciation": "Jaree yamtaliku kalban nasheetan jiddan.",
+      "context": "Talk about a friend's or neighbor's dog."
     },
     {
-      "english": "I have one sister and two brothers.",
-      "arabic": "لدي أخت واحدة وأخوان اثنان.",
-      "pronunciation": "Ladai ukht wahida wa akhwan ithnan.",
-      "context": "Use this to state the number of siblings you have."
+      "english": "I saw a beautiful bird in the garden.",
+      "arabic": "رأيت طائرًا جميلًا في الحديقة.",
+      "pronunciation": "Ra'aitu taa'iran jameelan fil hadiqah.",
+      "context": "Mention an animal you observed in nature."
     },
     {
-      "english": "This is my husband.",
-      "arabic": "هذا زوجي.",
-      "pronunciation": "Hatha zawji.",
-      "context": "Use this when introducing your husband to someone."
+      "english": "The children love to feed the ducks at the park.",
+      "arabic": "يحب الأطفال إطعام البط في الحديقة.",
+      "pronunciation": "Yuhibbul atfal it'aam al-batt fil hadiqah.",
+      "context": "Describe a common activity involving animals."
     },
     {
-      "english": "My children are very smart.",
-      "arabic": "أطفالي أذكياء جداً.",
-      "pronunciation": "Atfali athkiya' jiddan.",
-      "context": "Use this to express pride in your children's intelligence."
+      "english": "Be careful, there are many bees around the flowers.",
+      "arabic": "كن حذرًا، هناك الكثير من النحل حول الزهور.",
+      "pronunciation": "Kun hadhiran, hunaaka al-katheer min an-nahli hawl az-zuhour.",
+      "context": "Warn someone about the presence of insects."
     }
   ],
   "total": 5
