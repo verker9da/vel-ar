@@ -1,35 +1,35 @@
 {
-  "category": "السعادة",
+  "category": "العمل والأعمال",
   "phrases": [
     {
-      "english": "I am very happy today.",
-      "arabic": "أنا سعيد جدًا اليوم.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm.",
-      "context": "Use this to express your positive feelings on a particular day."
+      "english": "I need to finish this report by tomorrow.",
+      "arabic": "أحتاج إلى إنهاء هذا التقرير بحلول الغد.",
+      "pronunciation": "Ahtaj ila inhā' hādhā al-taqrīr biḥulūl al-ghad.",
+      "context": "Use this when discussing deadlines for work tasks."
     },
     {
-      "english": "This makes me feel peaceful.",
-      "arabic": "هذا يجعلني أشعر بالسلام.",
-      "pronunciation": "Hatha yaj'aluni ash'ur bil-salam.",
-      "context": "Use this when something brings you a sense of calm and tranquility."
+      "english": "Can you please send me the meeting agenda?",
+      "arabic": "هل يمكنك فضلاً إرسال جدول أعمال الاجتماع إلي؟",
+      "pronunciation": "Hal yumkinuka faḍlan irsāl jadwal aʿmāl al-ijtimāʿ ilayya?",
+      "context": "Ask for information needed before a meeting."
     },
     {
-      "english": "I am content with my life.",
-      "arabic": "أنا راضٍ عن حياتي.",
-      "pronunciation": "Ana radi 'an hayati.",
-      "context": "Use this to express satisfaction and acceptance of your current situation."
+      "english": "I have a business meeting at ten o'clock.",
+      "arabic": "لدي اجتماع عمل في تمام الساعة العاشرة.",
+      "pronunciation": "Ladaiy ijtimāʿ ʿamal fī tamām al-sāʿah al-ʿāshirah.",
+      "context": "Inform someone about your scheduled work appointments."
     },
     {
-      "english": "Everything is going well, thank God.",
-      "arabic": "كل شيء على ما يرام، الحمد لله.",
-      "pronunciation": "Kullu shay'in 'ala ma yuram, al-hamdulillah.",
-      "context": "Use this to express that things are proceeding favorably and to show gratitude."
+      "english": "Where is the nearest post office?",
+      "arabic": "أين أقرب مكتب بريد؟",
+      "pronunciation": "Aina aqrab maktab barīd?",
+      "context": "Ask for directions to a common business-related service."
     },
     {
-      "english": "I feel a deep sense of joy.",
-      "arabic": "أشعر بفرح عميق.",
-      "pronunciation": "Ash'ur bi-farahin 'ameeq.",
-      "context": "Use this to describe a profound and intense feeling of happiness."
+      "english": "I would like to book a flight to Dubai.",
+      "arabic": "أود حجز رحلة طيران إلى دبي.",
+      "pronunciation": "Awad ḥajz riḥlat ṭayarān ilā Dubay.",
+      "context": "Use this when arranging business travel."
     }
   ],
   "total": 5
