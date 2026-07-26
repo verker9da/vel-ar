@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "السعادة",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this to ask for the price of an item."
+      "english": "I am very happy today.",
+      "arabic": "أنا سعيد جدًا اليوم.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm.",
+      "context": "Use this to express your positive feelings on a particular day."
     },
     {
-      "english": "I would like to buy this shirt.",
-      "arabic": "أريد أن أشتري هذه القميص.",
-      "pronunciation": "Ureed an ashtari hathihi al-qamees.",
-      "context": "Use this when you decide to purchase an item."
+      "english": "This makes me feel peaceful.",
+      "arabic": "هذا يجعلني أشعر بالسلام.",
+      "pronunciation": "Hatha yaj'aluni ash'ur bil-salam.",
+      "context": "Use this when something brings you a sense of calm and tranquility."
     },
     {
-      "english": "Do you have this in a different size?",
-      "arabic": "هل لديكم هذا بمقاس مختلف؟",
-      "pronunciation": "Hal ladaykum hatha bimqas mukhtalif?",
-      "context": "Use this when the current size doesn't fit."
+      "english": "I am content with my life.",
+      "arabic": "أنا راضٍ عن حياتي.",
+      "pronunciation": "Ana radi 'an hayati.",
+      "context": "Use this to express satisfaction and acceptance of your current situation."
     },
     {
-      "english": "Can I pay with a credit card?",
-      "arabic": "هل يمكنني الدفع ببطاقة ائتمان؟",
-      "pronunciation": "Hal yumkinuni ad-daf' bi-bitaqat i'timan?",
-      "context": "Use this to inquire about payment methods."
+      "english": "Everything is going well, thank God.",
+      "arabic": "كل شيء على ما يرام، الحمد لله.",
+      "pronunciation": "Kullu shay'in 'ala ma yuram, al-hamdulillah.",
+      "context": "Use this to express that things are proceeding favorably and to show gratitude."
     },
     {
-      "english": "Thank you for your help.",
-      "arabic": "شكراً لمساعدتك.",
-      "pronunciation": "Shukran limusa'adatik.",
-      "context": "Use this to express gratitude after a transaction."
+      "english": "I feel a deep sense of joy.",
+      "arabic": "أشعر بفرح عميق.",
+      "pronunciation": "Ash'ur bi-farahin 'ameeq.",
+      "context": "Use this to describe a profound and intense feeling of happiness."
     }
   ],
   "total": 5
