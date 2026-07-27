@@ -1,35 +1,35 @@
 {
-  "category": "العائلة والعلاقات",
+  "category": "الهوايات والأنشطة",
   "phrases": [
     {
-      "english": "My mother is a doctor.",
-      "arabic": "أمي طبيبة.",
-      "pronunciation": "Ummi tabeeba.",
-      "context": "Use this to describe your mother's profession."
+      "english": "I enjoy reading books in my free time.",
+      "arabic": "أستمتع بقراءة الكتب في وقت فراغي.",
+      "pronunciation": "Astamti' bi qira'ati al-kutubi fi waqti faraaghi.",
+      "context": "Use this to talk about your hobby of reading."
     },
     {
-      "english": "My father works in a bank.",
-      "arabic": "أبي يعمل في البنك.",
-      "pronunciation": "Abi ya'mal fil bank.",
-      "context": "Use this to describe your father's place of work."
+      "english": "My favorite hobby is playing football with my friends.",
+      "arabic": "هوايتي المفضلة هي لعب كرة القدم مع أصدقائي.",
+      "pronunciation": "Hawayati al-mufaddalah hiya la'ibu kurati al-qadami ma'a asdiqa'i.",
+      "context": "Share your main hobby, specifically playing football."
     },
     {
-      "english": "I have one sister and two brothers.",
-      "arabic": "لدي أخت واحدة وأخوان اثنان.",
-      "pronunciation": "Ladai ukht wahida wa akhwan ithnan.",
-      "context": "Use this to state the number of siblings you have."
+      "english": "I love to travel to new places and explore different cultures.",
+      "arabic": "أحب السفر إلى أماكن جديدة واستكشاف ثقافات مختلفة.",
+      "pronunciation": "Uhibbu as-safara ila amakinin jadidatin wa istikshafi thaqafatin mukhtalifah.",
+      "context": "Describe your passion for travel and cultural exploration."
     },
     {
-      "english": "This is my husband.",
-      "arabic": "هذا زوجي.",
-      "pronunciation": "Hatha zawji.",
-      "context": "Use this when introducing your husband to someone."
+      "english": "On weekends, I usually go hiking in the mountains.",
+      "arabic": "في عطلات نهاية الأسبوع، أذهب عادةً للتنزه في الجبال.",
+      "pronunciation": "Fi 'utlati nihayati al-usbu', adhhabu 'aadatan lit-tanazzuhi fil-jibaal.",
+      "context": "Explain your typical weekend activity of hiking."
     },
     {
-      "english": "My children are very smart.",
-      "arabic": "أطفالي أذكياء جداً.",
-      "pronunciation": "Atfali athkiya' jiddan.",
-      "context": "Use this to express pride in your children's intelligence."
+      "english": "I spend my evenings learning to play the guitar.",
+      "arabic": "أقضي أمسياتي في تعلم العزف على الجيتار.",
+      "pronunciation": "Aqdi umsiyati fi ta'allumi al-'azfi 'ala al-jitaar.",
+      "context": "Talk about your evening hobby of learning the guitar."
     }
   ],
   "total": 5
