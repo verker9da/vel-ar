@@ -1,35 +1,35 @@
 {
-  "category": "العائلة والعلاقات",
+  "category": "الألوان والأوصاف",
   "phrases": [
     {
-      "english": "My mother is a doctor.",
-      "arabic": "أمي طبيبة.",
-      "pronunciation": "Ummi tabeeba.",
-      "context": "Use this to describe your mother's profession."
+      "english": "This shirt is a beautiful blue color.",
+      "arabic": "هذه القميص لونها أزرق جميل.",
+      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
+      "context": "Use this when complimenting someone's clothing."
     },
     {
-      "english": "My father works in a bank.",
-      "arabic": "أبي يعمل في البنك.",
-      "pronunciation": "Abi ya'mal fil bank.",
-      "context": "Use this to describe your father's place of work."
+      "english": "I like the red car parked over there.",
+      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
+      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
+      "context": "Use this to point out a specific item with a color."
     },
     {
-      "english": "I have one sister and two brothers.",
-      "arabic": "لدي أخت واحدة وأخوان اثنان.",
-      "pronunciation": "Ladai ukht wahida wa akhwan ithnan.",
-      "context": "Use this to state the number of siblings you have."
+      "english": "The sky is very clear and white today.",
+      "arabic": "السماء صافية جداً وبيضاء اليوم.",
+      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
+      "context": "Use this to describe the weather or a natural scene."
     },
     {
-      "english": "This is my husband.",
-      "arabic": "هذا زوجي.",
-      "pronunciation": "Hatha zawji.",
-      "context": "Use this when introducing your husband to someone."
+      "english": "She has long, black hair.",
+      "arabic": "لديها شعر طويل وأسود.",
+      "pronunciation": "Ladayha sha'r taweel wa aswad.",
+      "context": "Use this to describe a person's physical appearance."
     },
     {
-      "english": "My children are very smart.",
-      "arabic": "أطفالي أذكياء جداً.",
-      "pronunciation": "Atfali athkiya' jiddan.",
-      "context": "Use this to express pride in your children's intelligence."
+      "english": "This green apple looks very fresh.",
+      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
+      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
+      "context": "Use this when commenting on the appearance of food."
     }
   ],
   "total": 5
