@@ -1,35 +1,35 @@
 {
-  "category": "العواطف والمشاعر",
+  "category": "العبارات الشائعة",
   "phrases": [
     {
-      "english": "I am very happy today because the weather is beautiful.",
-      "arabic": "أنا سعيد جداً اليوم لأن الجو جميل.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-jaw jameel.",
-      "context": "Use this when expressing joy about something positive in your life."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
+      "context": "A standard greeting to start a conversation."
     },
     {
-      "english": "He looks sad because he lost his keys.",
-      "arabic": "يبدو حزيناً لأنه فقد مفاتيحه.",
-      "pronunciation": "Yabdoo hazeenan li'annahu faqada mafateehahu.",
-      "context": "Use this to describe someone else's apparent sadness."
+      "english": "I would like a cup of coffee, please.",
+      "arabic": "أريد كوباً من القهوة، من فضلك.",
+      "pronunciation": "Ureedu kooban min al-qahwah, min fadlik.",
+      "context": "Used when ordering at a cafe or restaurant."
     },
     {
-      "english": "She is angry because the train is late.",
-      "arabic": "هي غاضبة لأن القطار متأخر.",
-      "pronunciation": "Hiya ghadibah li'anna al-qitar muta'akhkhir.",
-      "context": "Use this to explain why someone is feeling anger."
+      "english": "Excuse me, where is the bathroom?",
+      "arabic": "عفواً، أين الحمام؟",
+      "pronunciation": "Afwan, ayna al-hammam?",
+      "context": "Essential for asking directions to a restroom."
     },
     {
-      "english": "I feel tired after a long day at work.",
-      "arabic": "أشعر بالتعب بعد يوم طويل في العمل.",
-      "pronunciation": "Ash'ur bil-ta'ab ba'da yawm taweel fil-'amal.",
-      "context": "Use this to describe your own feeling of fatigue."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude after receiving assistance."
     },
     {
-      "english": "Are you excited about your upcoming trip to Egypt?",
-      "arabic": "هل أنت متحمس لرحلتك القادمة إلى مصر؟",
-      "pronunciation": "Hal anta mutahammis li-rihlatik al-qadimah ila Misr?",
-      "context": "Use this to inquire about someone's anticipation for an event."
+      "english": "I don't understand what you are saying.",
+      "arabic": "أنا لا أفهم ما تقوله.",
+      "pronunciation": "Ana la afham ma taqooluh.",
+      "context": "Used when you need clarification or don't comprehend."
     }
   ],
   "total": 5
