@@ -1,35 +1,35 @@
 {
-  "category": "الطقس",
+  "category": "النجاح",
   "phrases": [
     {
-      "english": "What is the weather like today?",
-      "arabic": "كيف حال الطقس اليوم؟",
-      "pronunciation": "Kayfa hal al-taqsu al-yawm?",
-      "context": "Use this to ask about the general weather conditions for the current day."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Use this to express gratitude after someone assists you."
     },
     {
-      "english": "It is very hot outside.",
-      "arabic": "الجو حار جداً في الخارج.",
-      "pronunciation": "Al-jawwu harun jiddan fil-kharij.",
-      "context": "Use this when the temperature is uncomfortably high."
+      "english": "Can you please repeat that for me?",
+      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
+      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
+      "context": "Employ this when you didn't understand something and need it said again."
     },
     {
-      "english": "It is raining heavily right now.",
-      "arabic": "إنها تمطر بغزارة الآن.",
-      "pronunciation": "Innaha tumtiru bi-ghazaratin al-aan.",
-      "context": "Use this to describe significant rainfall occurring at the present moment."
+      "english": "I would like to order a cup of coffee.",
+      "arabic": "أود أن أطلب كوباً من القهوة.",
+      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
+      "context": "Use this common phrase when ordering drinks at a café."
     },
     {
-      "english": "I hope it will be sunny tomorrow.",
-      "arabic": "آمل أن يكون الجو مشمساً غداً.",
-      "pronunciation": "Aamulu an yakuna al-jawwu mushmisan ghadan.",
-      "context": "Use this to express a wish for clear, sunny weather on the following day."
+      "english": "Excuse me, where is the nearest bathroom?",
+      "arabic": "عفواً، أين الحمام الأقرب؟",
+      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
+      "context": "This is a polite way to ask for directions to a restroom."
     },
     {
-      "english": "There is a strong wind today.",
-      "arabic": "هناك رياح قوية اليوم.",
-      "pronunciation": "Hunaka riyahun qawiyyatun al-yawm.",
-      "context": "Use this when the wind is noticeably forceful."
+      "english": "I don't understand this word at all.",
+      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
+      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
+      "context": "Say this when you are completely unable to comprehend a specific term."
     }
   ],
   "total": 5
