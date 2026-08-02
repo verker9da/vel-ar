@@ -1,35 +1,35 @@
 {
-  "category": "الألوان والأوصاف",
+  "category": "الأرقام والوقت",
   "phrases": [
     {
-      "english": "This shirt is a beautiful blue color.",
-      "arabic": "هذه القميص لونها أزرق جميل.",
-      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
-      "context": "Use this when complimenting someone's clothing."
+      "english": "What time is it?",
+      "arabic": "كم الساعة الآن؟",
+      "pronunciation": "Kam as-saa'ah al-aan?",
+      "context": "Used to ask for the current time."
     },
     {
-      "english": "I like the red car parked over there.",
-      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
-      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
-      "context": "Use this to point out a specific item with a color."
+      "english": "It is three o'clock.",
+      "arabic": "إنها الساعة الثالثة.",
+      "pronunciation": "Innaha as-saa'ah ath-thaalithah.",
+      "context": "Used to state the current time."
     },
     {
-      "english": "The sky is very clear and white today.",
-      "arabic": "السماء صافية جداً وبيضاء اليوم.",
-      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
-      "context": "Use this to describe the weather or a natural scene."
+      "english": "I need five apples, please.",
+      "arabic": "أحتاج خمس تفاحات من فضلك.",
+      "pronunciation": "Ahtaaju khams tuffaahaat min fadlik.",
+      "context": "Used when buying or requesting a specific quantity of items."
     },
     {
-      "english": "She has long, black hair.",
-      "arabic": "لديها شعر طويل وأسود.",
-      "pronunciation": "Ladayha sha'r taweel wa aswad.",
-      "context": "Use this to describe a person's physical appearance."
+      "english": "My phone number is nine eight seven six five four three two one zero.",
+      "arabic": "رقم هاتفي هو تسعة ثمانية سبعة ستة خمسة أربعة ثلاثة اثنان واحد صفر.",
+      "pronunciation": "Raqmu haatifi huwa tis'ah thamaaniyah sab'ah sittah khamsah arba'ah thalaathah ithnaan waahid sifr.",
+      "context": "Used to share your phone number."
     },
     {
-      "english": "This green apple looks very fresh.",
-      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
-      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
-      "context": "Use this when commenting on the appearance of food."
+      "english": "The meeting is at ten thirty in the morning.",
+      "arabic": "الاجتماع الساعة العاشرة والنصف صباحاً.",
+      "pronunciation": "Al-ijtimaa' as-saa'ah al-'aashirah wan-nisfa sabahan.",
+      "context": "Used to specify a time for an event."
     }
   ],
   "total": 5
