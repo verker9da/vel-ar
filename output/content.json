@@ -1,35 +1,35 @@
 {
-  "category": "الحيوانات",
+  "category": "العواطف والمشاعر",
   "phrases": [
     {
-      "english": "I have a playful cat named Leo.",
-      "arabic": "لدي قطة لعوبة اسمها ليو.",
-      "pronunciation": "Ladai qittatun la'oobah ismuha Leo.",
-      "context": "Use this to introduce your pet cat."
+      "english": "I am very happy today because the weather is beautiful.",
+      "arabic": "أنا سعيد جداً اليوم لأن الجو جميل.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-jaw jameel.",
+      "context": "Use this when expressing joy about something positive in your life."
     },
     {
-      "english": "My neighbor owns a very energetic dog.",
-      "arabic": "جاري يمتلك كلبًا نشيطًا جدًا.",
-      "pronunciation": "Jaree yamtaliku kalban nasheetan jiddan.",
-      "context": "Talk about a friend's or neighbor's dog."
+      "english": "He looks sad because he lost his keys.",
+      "arabic": "يبدو حزيناً لأنه فقد مفاتيحه.",
+      "pronunciation": "Yabdoo hazeenan li'annahu faqada mafateehahu.",
+      "context": "Use this to describe someone else's apparent sadness."
     },
     {
-      "english": "I saw a beautiful bird in the garden.",
-      "arabic": "رأيت طائرًا جميلًا في الحديقة.",
-      "pronunciation": "Ra'aitu taa'iran jameelan fil hadiqah.",
-      "context": "Mention an animal you observed in nature."
+      "english": "She is angry because the train is late.",
+      "arabic": "هي غاضبة لأن القطار متأخر.",
+      "pronunciation": "Hiya ghadibah li'anna al-qitar muta'akhkhir.",
+      "context": "Use this to explain why someone is feeling anger."
     },
     {
-      "english": "The children love to feed the ducks at the park.",
-      "arabic": "يحب الأطفال إطعام البط في الحديقة.",
-      "pronunciation": "Yuhibbul atfal it'aam al-batt fil hadiqah.",
-      "context": "Describe a common activity involving animals."
+      "english": "I feel tired after a long day at work.",
+      "arabic": "أشعر بالتعب بعد يوم طويل في العمل.",
+      "pronunciation": "Ash'ur bil-ta'ab ba'da yawm taweel fil-'amal.",
+      "context": "Use this to describe your own feeling of fatigue."
     },
     {
-      "english": "Be careful, there are many bees around the flowers.",
-      "arabic": "كن حذرًا، هناك الكثير من النحل حول الزهور.",
-      "pronunciation": "Kun hadhiran, hunaaka al-katheer min an-nahli hawl az-zuhour.",
-      "context": "Warn someone about the presence of insects."
+      "english": "Are you excited about your upcoming trip to Egypt?",
+      "arabic": "هل أنت متحمس لرحلتك القادمة إلى مصر؟",
+      "pronunciation": "Hal anta mutahammis li-rihlatik al-qadimah ila Misr?",
+      "context": "Use this to inquire about someone's anticipation for an event."
     }
   ],
   "total": 5
