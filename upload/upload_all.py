@@ -104,6 +104,7 @@ def upload_to_all_platforms(video_path, metadata, platforms=None):
         'youtube': {'status': 'pending'},
         'instagram': {'status': 'pending'},
         'facebook': {'status': 'pending'},
+        'facebook_story': {'status': 'pending'},
         'telegram': {'status': 'pending'},
         'tiktok': {'status': 'pending'},
         'twitter': {'status': 'pending'},
@@ -168,6 +169,18 @@ def upload_to_all_platforms(video_path, metadata, platforms=None):
         except Exception as e:
             results['facebook'] = {'status': 'failed', 'error': str(e)}
             print(f"❌ Facebook upload failed: {e}")
+        try:
+            print("\n📘 FACEBOOK STORY UPLOAD...")
+            story_result = upload_to_facebook_story(
+                video_path=video_path,
+                description=metadata['description'],
+                title=metadata['title']
+            )
+            results['facebook_story'] = {'status': 'success', 'result': story_result}
+            print("✅ Facebook Story upload complete!")
+        except Exception as e:
+            results['facebook_story'] = {'status': 'failed', 'error': str(e)}
+            print(f"❌ Facebook Story upload failed: {e}")
     
     # Telegram
     if 'telegram' in platforms:

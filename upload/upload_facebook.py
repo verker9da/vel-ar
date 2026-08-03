@@ -39,6 +39,29 @@ def _post_pinned_comment(video_id, description, access_token, page_id):
         except Exception as e:
             print(f"[facebook] Pin error: {e}")
 
+def _resumable_video_upload(page_id, video_path, description, access_token, endpoint):
+    """Shared Facebook resumable upload flow: start -> transfer -> finish."""
+    video_path_obj = Path(video_path)
+    if not video_path_obj.exists(): raise FileNotFoundError(f"Video not found: {video_path}")
+    file_size = video_path_obj.stat().st_size
+    base_url = f"https://graph.facebook.com/v21.0/{page_id}/{endpoint}"
+    start_data = {'access_token': access_token, 'upload_phase': 'start', 'file_size': file_size}
+    res_start = requests.post(base_url, data=start_data, timeout=30)
+    if res_start.status_code != 200: raise Exception(f"Start failed: {res_start.text}")
+    start_json = res_start.json()
+    video_id = start_json.get('video_id')
+    upload_url = start_json.get('upload_url')
+    if not video_id: raise Exception(f"No video_id: {start_json}")
+    headers = {'Authorization': f'OAuth {access_token}', 'offset': '0', 'file_size': str(file_size)}
+    with open(video_path, 'rb') as f:
+        res_transfer = requests.post(upload_url, headers=headers, data=f, timeout=600)
+    if res_transfer.status_code != 200: raise Exception(f"Transfer failed: {res_transfer.text}")
+    finish_data = {'access_token': access_token, 'upload_phase': 'finish', 'video_id': video_id, 'description': description, 'video_state': 'PUBLISHED'}
+    res_finish = requests.post(base_url, data=finish_data, timeout=60)
+    if res_finish.status_code == 200 and res_finish.json().get('success'):
+        return video_id
+    raise Exception(f"Finish failed: {res_finish.text}")
+
 def upload_to_facebook(video_path, description, title="VELOCITY HEBREW"):
     print("\n" + "=" * 60)
     print("FACEBOOK UPLOAD")
@@ -47,30 +70,24 @@ def upload_to_facebook(video_path, description, title="VELOCITY HEBREW"):
     page_id = os.getenv('FACEBOOK_PAGE_ID') or os.getenv('FB_PAGE_ID')
     if not access_token: raise ValueError("FACEBOOK_ACCESS_TOKEN not set")
     if not page_id: raise ValueError("FACEBOOK_PAGE_ID not set")
-    video_path_obj = Path(video_path)
-    if not video_path_obj.exists(): raise FileNotFoundError(f"Video not found: {video_path}")
     try:
-        file_size = video_path_obj.stat().st_size
-        start_url = f"https://graph.facebook.com/v21.0/{page_id}/video_reels"
-        start_data = {'access_token': access_token, 'upload_phase': 'start', 'file_size': file_size}
-        res_start = requests.post(start_url, data=start_data, timeout=30)
-        if res_start.status_code != 200: raise Exception(f"Start failed: {res_start.text}")
-        start_json = res_start.json()
-        video_id = start_json.get('video_id')
-        upload_url = start_json.get('upload_url')
-        if not video_id: raise Exception(f"No video_id: {start_json}")
-        headers = {'Authorization': f'OAuth {access_token}', 'offset': '0', 'file_size': str(file_size)}
-        with open(video_path, 'rb') as f:
-            res_transfer = requests.post(upload_url, headers=headers, data=f, timeout=600)
-        if res_transfer.status_code != 200: raise Exception(f"Transfer failed: {res_transfer.text}")
-        finish_url = f"https://graph.facebook.com/v21.0/{page_id}/video_reels"
-        finish_data = {'access_token': access_token, 'upload_phase': 'finish', 'video_id': video_id, 'description': description, 'video_state': 'PUBLISHED'}
-        res_finish = requests.post(finish_url, data=finish_data, timeout=60)
-        if res_finish.status_code == 200 and res_finish.json().get('success'):
-            _post_pinned_comment(video_id, description, access_token, page_id)
-            return {'id': video_id, 'platform': 'facebook', 'status': 'success', 'url': f"https://facebook.com/{video_id}"}
-        else: raise Exception(f"Finish failed: {res_finish.text}")
+        video_id = _resumable_video_upload(page_id, video_path, description, access_token, "video_reels")
+        _post_pinned_comment(video_id, description, access_token, page_id)
+        return {'id': video_id, 'platform': 'facebook', 'status': 'success', 'url': f"https://facebook.com/{video_id}"}
     except Exception as e: print(f"[facebook] ERROR: {e}"); raise
+
+def upload_to_facebook_story(video_path, description, title="VELOCITY HEBREW"):
+    print("\n" + "=" * 60)
+    print("FACEBOOK STORY UPLOAD")
+    print("=" * 60)
+    access_token = os.getenv('FACEBOOK_ACCESS_TOKEN') or os.getenv('FB_ACCESS_TOKEN')
+    page_id = os.getenv('FACEBOOK_PAGE_ID') or os.getenv('FB_PAGE_ID')
+    if not access_token: raise ValueError("FACEBOOK_ACCESS_TOKEN not set")
+    if not page_id: raise ValueError("FACEBOOK_PAGE_ID not set")
+    try:
+        video_id = _resumable_video_upload(page_id, video_path, description, access_token, "video_stories")
+        return {'id': video_id, 'platform': 'facebook_story', 'status': 'success', 'url': f"https://facebook.com/stories/{video_id}"}
+    except Exception as e: print(f"[facebook story] ERROR: {e}"); raise
 
 if __name__ == '__main__':
     video_file = Path('final_video.mp4')
