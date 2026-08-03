@@ -1,35 +1,35 @@
 {
-  "category": "الطعام والطعام",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "I would like to order a falafel sandwich, please.",
-      "arabic": "أود أن أطلب ساندويتش فلافل من فضلك.",
-      "pronunciation": "Awood an atlub sandwich falafel min fadlak.",
-      "context": "Use this when ordering food at a restaurant or cafe."
+      "english": "My mother is a doctor.",
+      "arabic": "أمي طبيبة.",
+      "pronunciation": "Ummi tabeeba.",
+      "context": "Use this to describe your mother's profession."
     },
     {
-      "english": "This meal is delicious, thank you.",
-      "arabic": "هذه الوجبة لذيذة جداً، شكراً لك.",
-      "pronunciation": "Hadhihi al-wajbah latheethah jiddan, shukran lak.",
-      "context": "Say this to compliment the cook or server on the food."
+      "english": "My father works in a bank.",
+      "arabic": "أبي يعمل في البنك.",
+      "pronunciation": "Abi ya'mal fil bank.",
+      "context": "Use this to describe your father's place of work."
     },
     {
-      "english": "Do you have any vegetarian options?",
-      "arabic": "هل لديكم أي خيارات نباتية؟",
-      "pronunciation": "Hal ladaykum ay khiyarat nabatiyyah?",
-      "context": "Ask this if you follow a vegetarian diet."
+      "english": "I have one sister and two brothers.",
+      "arabic": "لدي أخت واحدة وأخوان اثنان.",
+      "pronunciation": "Ladai ukht wahida wa akhwan ithnan.",
+      "context": "Use this to state the number of siblings you have."
     },
     {
-      "english": "Can I have the bill, please?",
-      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
-      "pronunciation": "Hal yumkinuni al-husool ala al-faturah, min fadlak?",
-      "context": "Use this when you are ready to pay after your meal."
+      "english": "This is my husband.",
+      "arabic": "هذا زوجي.",
+      "pronunciation": "Hatha zawji.",
+      "context": "Use this when introducing your husband to someone."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "أنا لدي حساسية من الفول السوداني.",
-      "pronunciation": "Ana laday hassasiyyah min al-foul as-sudani.",
-      "context": "Inform your server about any food allergies you have."
+      "english": "My children are very smart.",
+      "arabic": "أطفالي أذكياء جداً.",
+      "pronunciation": "Atfali athkiya' jiddan.",
+      "context": "Use this to express pride in your children's intelligence."
     }
   ],
   "total": 5
