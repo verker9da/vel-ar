@@ -1,35 +1,35 @@
 {
-  "category": "الحيوانات",
+  "category": "الحب",
   "phrases": [
     {
-      "english": "I have a playful cat named Leo.",
-      "arabic": "لدي قطة لعوبة اسمها ليو.",
-      "pronunciation": "Ladai qittatun la'oobah ismuha Leo.",
-      "context": "Use this to introduce your pet cat."
+      "english": "I love you very much.",
+      "arabic": "أنا أحبك كثيراً.",
+      "pronunciation": "Ana uhibbuka katheeran (to male) / Ana uhibbuki katheeran (to female)",
+      "context": "Used to express deep affection towards someone."
     },
     {
-      "english": "My neighbor owns a very energetic dog.",
-      "arabic": "جاري يمتلك كلبًا نشيطًا جدًا.",
-      "pronunciation": "Jaree yamtaliku kalban nasheetan jiddan.",
-      "context": "Talk about a friend's or neighbor's dog."
+      "english": "You are so beautiful.",
+      "arabic": "أنتِ جميلة جداً.",
+      "pronunciation": "Anti jameela jiddan (to female)",
+      "context": "A compliment used to describe someone's appearance."
     },
     {
-      "english": "I saw a beautiful bird in the garden.",
-      "arabic": "رأيت طائرًا جميلًا في الحديقة.",
-      "pronunciation": "Ra'aitu taa'iran jameelan fil hadiqah.",
-      "context": "Mention an animal you observed in nature."
+      "english": "My heart belongs to you.",
+      "arabic": "قلبي ملكك.",
+      "pronunciation": "Qalbi milkuk.",
+      "context": "A poetic way to express devotion and deep emotional connection."
     },
     {
-      "english": "The children love to feed the ducks at the park.",
-      "arabic": "يحب الأطفال إطعام البط في الحديقة.",
-      "pronunciation": "Yuhibbul atfal it'aam al-batt fil hadiqah.",
-      "context": "Describe a common activity involving animals."
+      "english": "I miss you a lot.",
+      "arabic": "أفتقدك كثيراً.",
+      "pronunciation": "Aftaqiduka katheeran (to male) / Aftaqiduki katheeran (to female)",
+      "context": "Said when you are not with someone you care about and feel their absence."
     },
     {
-      "english": "Be careful, there are many bees around the flowers.",
-      "arabic": "كن حذرًا، هناك الكثير من النحل حول الزهور.",
-      "pronunciation": "Kun hadhiran, hunaaka al-katheer min an-nahli hawl az-zuhour.",
-      "context": "Warn someone about the presence of insects."
+      "english": "Our love is eternal.",
+      "arabic": "حبنا أبدي.",
+      "pronunciation": "Hubbuna abadi.",
+      "context": "Expresses a belief in the lasting nature of a romantic relationship."
     }
   ],
   "total": 5
