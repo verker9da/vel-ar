@@ -1,35 +1,35 @@
 {
-  "category": "الطعام والطعام",
+  "category": "الحكمة",
   "phrases": [
     {
-      "english": "I would like to order a falafel sandwich, please.",
-      "arabic": "أود أن أطلب ساندويتش فلافل من فضلك.",
-      "pronunciation": "Awood an atlub sandwich falafel min fadlak.",
-      "context": "Use this when ordering food at a restaurant or cafe."
+      "english": "Patience is the key to success.",
+      "arabic": "الصبر مفتاح الفرج.",
+      "pronunciation": "As-sabru miftaahu al-faraj.",
+      "context": "Use this when encouraging someone to persevere through a difficult situation."
     },
     {
-      "english": "This meal is delicious, thank you.",
-      "arabic": "هذه الوجبة لذيذة جداً، شكراً لك.",
-      "pronunciation": "Hadhihi al-wajbah latheethah jiddan, shukran lak.",
-      "context": "Say this to compliment the cook or server on the food."
+      "english": "There is no power and no strength except with God.",
+      "arabic": "لا حول ولا قوة إلا بالله.",
+      "pronunciation": "La hawla wa la quwwata illa billah.",
+      "context": "Say this when facing a challenge that feels overwhelming or beyond your control."
     },
     {
-      "english": "Do you have any vegetarian options?",
-      "arabic": "هل لديكم أي خيارات نباتية؟",
-      "pronunciation": "Hal ladaykum ay khiyarat nabatiyyah?",
-      "context": "Ask this if you follow a vegetarian diet."
+      "english": "Everything happens for a reason.",
+      "arabic": "كل شيء يحدث لسبب.",
+      "pronunciation": "Kullu shay'in yahduthu li sabab.",
+      "context": "Use this to find comfort and meaning after an unexpected or unfortunate event."
     },
     {
-      "english": "Can I have the bill, please?",
-      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
-      "pronunciation": "Hal yumkinuni al-husool ala al-faturah, min fadlak?",
-      "context": "Use this when you are ready to pay after your meal."
+      "english": "Seek knowledge from the cradle to the grave.",
+      "arabic": "اطلبوا العلم من المهد إلى اللحد.",
+      "pronunciation": "Utlubu al-'ilma min al-mahd ila al-lahd.",
+      "context": "This phrase emphasizes the lifelong importance of learning and education."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "أنا لدي حساسية من الفول السوداني.",
-      "pronunciation": "Ana laday hassasiyyah min al-foul as-sudani.",
-      "context": "Inform your server about any food allergies you have."
+      "english": "Actions speak louder than words.",
+      "arabic": "الأفعال أبلغ من الأقوال.",
+      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
+      "context": "Use this to highlight the importance of deeds over mere promises or talk."
     }
   ],
   "total": 5
