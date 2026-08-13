@@ -1,35 +1,35 @@
 {
-  "category": "الحكمة",
+  "category": "التسوق",
   "phrases": [
     {
-      "english": "Patience is the key to success.",
-      "arabic": "الصبر مفتاح الفرج.",
-      "pronunciation": "As-sabru miftaahu al-faraj.",
-      "context": "Use this when encouraging someone to persevere through a difficult situation."
+      "english": "How much does this cost?",
+      "arabic": "بكم هذا؟",
+      "pronunciation": "Bikam hatha?",
+      "context": "Use this to ask for the price of an item."
     },
     {
-      "english": "There is no power and no strength except with God.",
-      "arabic": "لا حول ولا قوة إلا بالله.",
-      "pronunciation": "La hawla wa la quwwata illa billah.",
-      "context": "Say this when facing a challenge that feels overwhelming or beyond your control."
+      "english": "I would like to buy this shirt.",
+      "arabic": "أريد أن أشتري هذه القميص.",
+      "pronunciation": "Ureed an ashtari hathihi al-qamees.",
+      "context": "Use this when you decide to purchase an item."
     },
     {
-      "english": "Everything happens for a reason.",
-      "arabic": "كل شيء يحدث لسبب.",
-      "pronunciation": "Kullu shay'in yahduthu li sabab.",
-      "context": "Use this to find comfort and meaning after an unexpected or unfortunate event."
+      "english": "Do you have this in a different size?",
+      "arabic": "هل لديكم هذا بمقاس مختلف؟",
+      "pronunciation": "Hal ladaykum hatha bimqas mukhtalif?",
+      "context": "Use this when the current size doesn't fit."
     },
     {
-      "english": "Seek knowledge from the cradle to the grave.",
-      "arabic": "اطلبوا العلم من المهد إلى اللحد.",
-      "pronunciation": "Utlubu al-'ilma min al-mahd ila al-lahd.",
-      "context": "This phrase emphasizes the lifelong importance of learning and education."
+      "english": "Can I pay with a credit card?",
+      "arabic": "هل يمكنني الدفع ببطاقة ائتمان؟",
+      "pronunciation": "Hal yumkinuni ad-daf' bi-bitaqat i'timan?",
+      "context": "Use this to inquire about payment methods."
     },
     {
-      "english": "Actions speak louder than words.",
-      "arabic": "الأفعال أبلغ من الأقوال.",
-      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
-      "context": "Use this to highlight the importance of deeds over mere promises or talk."
+      "english": "Thank you for your help.",
+      "arabic": "شكراً لمساعدتك.",
+      "pronunciation": "Shukran limusa'adatik.",
+      "context": "Use this to express gratitude after a transaction."
     }
   ],
   "total": 5
