@@ -1,35 +1,35 @@
 {
-  "category": "الأرقام والوقت",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "What time is it?",
-      "arabic": "كم الساعة الآن؟",
-      "pronunciation": "Kam as-saa'ah al-aan?",
-      "context": "Used to ask for the current time."
+      "english": "My mother is a doctor.",
+      "arabic": "أمي طبيبة.",
+      "pronunciation": "Ummi tabeeba.",
+      "context": "Use this to describe your mother's profession."
     },
     {
-      "english": "It is three o'clock.",
-      "arabic": "إنها الساعة الثالثة.",
-      "pronunciation": "Innaha as-saa'ah ath-thaalithah.",
-      "context": "Used to state the current time."
+      "english": "My father works in a bank.",
+      "arabic": "أبي يعمل في البنك.",
+      "pronunciation": "Abi ya'mal fil bank.",
+      "context": "Use this to describe your father's place of work."
     },
     {
-      "english": "I need five apples, please.",
-      "arabic": "أحتاج خمس تفاحات من فضلك.",
-      "pronunciation": "Ahtaaju khams tuffaahaat min fadlik.",
-      "context": "Used when buying or requesting a specific quantity of items."
+      "english": "I have one sister and two brothers.",
+      "arabic": "لدي أخت واحدة وأخوان اثنان.",
+      "pronunciation": "Ladai ukht wahida wa akhwan ithnan.",
+      "context": "Use this to state the number of siblings you have."
     },
     {
-      "english": "My phone number is nine eight seven six five four three two one zero.",
-      "arabic": "رقم هاتفي هو تسعة ثمانية سبعة ستة خمسة أربعة ثلاثة اثنان واحد صفر.",
-      "pronunciation": "Raqmu haatifi huwa tis'ah thamaaniyah sab'ah sittah khamsah arba'ah thalaathah ithnaan waahid sifr.",
-      "context": "Used to share your phone number."
+      "english": "This is my husband.",
+      "arabic": "هذا زوجي.",
+      "pronunciation": "Hatha zawji.",
+      "context": "Use this when introducing your husband to someone."
     },
     {
-      "english": "The meeting is at ten thirty in the morning.",
-      "arabic": "الاجتماع الساعة العاشرة والنصف صباحاً.",
-      "pronunciation": "Al-ijtimaa' as-saa'ah al-'aashirah wan-nisfa sabahan.",
-      "context": "Used to specify a time for an event."
+      "english": "My children are very smart.",
+      "arabic": "أطفالي أذكياء جداً.",
+      "pronunciation": "Atfali athkiya' jiddan.",
+      "context": "Use this to express pride in your children's intelligence."
     }
   ],
   "total": 5
