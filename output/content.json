@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "الصحة والجسد",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this to ask for the price of an item."
+      "english": "I feel very tired today.",
+      "arabic": "أشعر بالتعب الشديد اليوم.",
+      "pronunciation": "Ash'uru bil-ta'ab al-shadeed al-yawm.",
+      "context": "Use this when you are feeling exhausted."
     },
     {
-      "english": "I would like to buy this shirt.",
-      "arabic": "أريد أن أشتري هذه القميص.",
-      "pronunciation": "Ureed an ashtari hathihi al-qamees.",
-      "context": "Use this when you decide to purchase an item."
+      "english": "My head hurts a lot.",
+      "arabic": "رأسي يؤلمني كثيراً.",
+      "pronunciation": "Ra'si yu'limuni katheeran.",
+      "context": "Say this when experiencing a strong headache."
     },
     {
-      "english": "Do you have this in a different size?",
-      "arabic": "هل لديكم هذا بمقاس مختلف؟",
-      "pronunciation": "Hal ladaykum hatha bimqas mukhtalif?",
-      "context": "Use this when the current size doesn't fit."
+      "english": "I need to drink more water.",
+      "arabic": "أحتاج لشرب المزيد من الماء.",
+      "pronunciation": "Ahtaju lishurb al-mazeed min al-maa'.",
+      "context": "Use this to express a need for hydration."
     },
     {
-      "english": "Can I pay with a credit card?",
-      "arabic": "هل يمكنني الدفع ببطاقة ائتمان؟",
-      "pronunciation": "Hal yumkinuni ad-daf' bi-bitaqat i'timan?",
-      "context": "Use this to inquire about payment methods."
+      "english": "I am allergic to cats.",
+      "arabic": "أنا لدي حساسية من القطط.",
+      "pronunciation": "Ana ladaiya hasasiyah min al-qitat.",
+      "context": "Inform someone about a specific allergy."
     },
     {
-      "english": "Thank you for your help.",
-      "arabic": "شكراً لمساعدتك.",
-      "pronunciation": "Shukran limusa'adatik.",
-      "context": "Use this to express gratitude after a transaction."
+      "english": "I want to eat something healthy.",
+      "arabic": "أريد أن آكل شيئاً صحياً.",
+      "pronunciation": "Ureed an aakul shay'an sihiyan.",
+      "context": "Use this when you are looking for nutritious food."
     }
   ],
   "total": 5
