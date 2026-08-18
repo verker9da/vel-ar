@@ -1,35 +1,35 @@
 {
-  "category": "الصحة والجسد",
+  "category": "العبارات الشائعة",
   "phrases": [
     {
-      "english": "I feel very tired today.",
-      "arabic": "أشعر بالتعب الشديد اليوم.",
-      "pronunciation": "Ash'uru bil-ta'ab al-shadeed al-yawm.",
-      "context": "Use this when you are feeling exhausted."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
+      "context": "A standard greeting to start a conversation."
     },
     {
-      "english": "My head hurts a lot.",
-      "arabic": "رأسي يؤلمني كثيراً.",
-      "pronunciation": "Ra'si yu'limuni katheeran.",
-      "context": "Say this when experiencing a strong headache."
+      "english": "I would like a cup of coffee, please.",
+      "arabic": "أريد كوباً من القهوة، من فضلك.",
+      "pronunciation": "Ureedu kooban min al-qahwah, min fadlik.",
+      "context": "Used when ordering at a cafe or restaurant."
     },
     {
-      "english": "I need to drink more water.",
-      "arabic": "أحتاج لشرب المزيد من الماء.",
-      "pronunciation": "Ahtaju lishurb al-mazeed min al-maa'.",
-      "context": "Use this to express a need for hydration."
+      "english": "Excuse me, where is the bathroom?",
+      "arabic": "عفواً، أين الحمام؟",
+      "pronunciation": "Afwan, ayna al-hammam?",
+      "context": "Essential for asking directions to a restroom."
     },
     {
-      "english": "I am allergic to cats.",
-      "arabic": "أنا لدي حساسية من القطط.",
-      "pronunciation": "Ana ladaiya hasasiyah min al-qitat.",
-      "context": "Inform someone about a specific allergy."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude after receiving assistance."
     },
     {
-      "english": "I want to eat something healthy.",
-      "arabic": "أريد أن آكل شيئاً صحياً.",
-      "pronunciation": "Ureed an aakul shay'an sihiyan.",
-      "context": "Use this when you are looking for nutritious food."
+      "english": "I don't understand what you are saying.",
+      "arabic": "أنا لا أفهم ما تقوله.",
+      "pronunciation": "Ana la afham ma taqooluh.",
+      "context": "Used when you need clarification or don't comprehend."
     }
   ],
   "total": 5
