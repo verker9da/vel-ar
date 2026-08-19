@@ -1,35 +1,35 @@
 {
-  "category": "أساسيات السفر",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "Where is the nearest train station?",
-      "arabic": "أين أقرب محطة قطار؟",
-      "pronunciation": "Ayna aqrab mahattat qitar?",
-      "context": "Use this when you need to find public transportation."
+      "english": "My mother is a doctor.",
+      "arabic": "أمي طبيبة.",
+      "pronunciation": "Ummi tabeeba.",
+      "context": "Use this to describe your mother's profession."
     },
     {
-      "english": "I would like to book a hotel room for two nights.",
-      "arabic": "أرغب في حجز غرفة فندق لليلتين.",
-      "pronunciation": "Arghab fi hajz ghurfat funduq lil-laylatayn.",
-      "context": "Use this when checking into a hotel."
+      "english": "My father works in a bank.",
+      "arabic": "أبي يعمل في البنك.",
+      "pronunciation": "Abi ya'mal fil bank.",
+      "context": "Use this to describe your father's place of work."
     },
     {
-      "english": "How much does this cost?",
-      "arabic": "كم يكلف هذا؟",
-      "pronunciation": "Kam yukallif hatha?",
-      "context": "Use this when shopping or asking for prices."
+      "english": "I have one sister and two brothers.",
+      "arabic": "لدي أخت واحدة وأخوان اثنان.",
+      "pronunciation": "Ladai ukht wahida wa akhwan ithnan.",
+      "context": "Use this to state the number of siblings you have."
     },
     {
-      "english": "Can you help me please?",
-      "arabic": "هل يمكنك مساعدتي من فضلك؟",
-      "pronunciation": "Hal yumkinuka musa'adati min fadlik?",
-      "context": "Use this when you need assistance from someone."
+      "english": "This is my husband.",
+      "arabic": "هذا زوجي.",
+      "pronunciation": "Hatha zawji.",
+      "context": "Use this when introducing your husband to someone."
     },
     {
-      "english": "I need to find a pharmacy.",
-      "arabic": "أحتاج إلى العثور على صيدلية.",
-      "pronunciation": "Ahtaj ila al-'uthur 'ala saydaliyyah.",
-      "context": "Use this when you need to buy medication."
+      "english": "My children are very smart.",
+      "arabic": "أطفالي أذكياء جداً.",
+      "pronunciation": "Atfali athkiya' jiddan.",
+      "context": "Use this to express pride in your children's intelligence."
     }
   ],
   "total": 5
