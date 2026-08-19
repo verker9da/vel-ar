@@ -1,35 +1,35 @@
 {
-  "category": "السعادة",
+  "category": "الحكمة",
   "phrases": [
     {
-      "english": "I am very happy today.",
-      "arabic": "أنا سعيد جدًا اليوم.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm.",
-      "context": "Use this to express your positive feelings on a particular day."
+      "english": "Patience is the key to success.",
+      "arabic": "الصبر مفتاح الفرج.",
+      "pronunciation": "As-sabru miftaahu al-faraj.",
+      "context": "Use this when encouraging someone to persevere through a difficult situation."
     },
     {
-      "english": "This makes me feel peaceful.",
-      "arabic": "هذا يجعلني أشعر بالسلام.",
-      "pronunciation": "Hatha yaj'aluni ash'ur bil-salam.",
-      "context": "Use this when something brings you a sense of calm and tranquility."
+      "english": "There is no power and no strength except with God.",
+      "arabic": "لا حول ولا قوة إلا بالله.",
+      "pronunciation": "La hawla wa la quwwata illa billah.",
+      "context": "Say this when facing a challenge that feels overwhelming or beyond your control."
     },
     {
-      "english": "I am content with my life.",
-      "arabic": "أنا راضٍ عن حياتي.",
-      "pronunciation": "Ana radi 'an hayati.",
-      "context": "Use this to express satisfaction and acceptance of your current situation."
+      "english": "Everything happens for a reason.",
+      "arabic": "كل شيء يحدث لسبب.",
+      "pronunciation": "Kullu shay'in yahduthu li sabab.",
+      "context": "Use this to find comfort and meaning after an unexpected or unfortunate event."
     },
     {
-      "english": "Everything is going well, thank God.",
-      "arabic": "كل شيء على ما يرام، الحمد لله.",
-      "pronunciation": "Kullu shay'in 'ala ma yuram, al-hamdulillah.",
-      "context": "Use this to express that things are proceeding favorably and to show gratitude."
+      "english": "Seek knowledge from the cradle to the grave.",
+      "arabic": "اطلبوا العلم من المهد إلى اللحد.",
+      "pronunciation": "Utlubu al-'ilma min al-mahd ila al-lahd.",
+      "context": "This phrase emphasizes the lifelong importance of learning and education."
     },
     {
-      "english": "I feel a deep sense of joy.",
-      "arabic": "أشعر بفرح عميق.",
-      "pronunciation": "Ash'ur bi-farahin 'ameeq.",
-      "context": "Use this to describe a profound and intense feeling of happiness."
+      "english": "Actions speak louder than words.",
+      "arabic": "الأفعال أبلغ من الأقوال.",
+      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
+      "context": "Use this to highlight the importance of deeds over mere promises or talk."
     }
   ],
   "total": 5
