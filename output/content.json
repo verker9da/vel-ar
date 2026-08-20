@@ -1,35 +1,35 @@
 {
-  "category": "الطقس",
+  "category": "العبارات الشائعة",
   "phrases": [
     {
-      "english": "What is the weather like today?",
-      "arabic": "كيف حال الطقس اليوم؟",
-      "pronunciation": "Kayfa hal al-taqsu al-yawm?",
-      "context": "Use this to ask about the general weather conditions for the current day."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
+      "context": "A standard greeting to start a conversation."
     },
     {
-      "english": "It is very hot outside.",
-      "arabic": "الجو حار جداً في الخارج.",
-      "pronunciation": "Al-jawwu harun jiddan fil-kharij.",
-      "context": "Use this when the temperature is uncomfortably high."
+      "english": "I would like a cup of coffee, please.",
+      "arabic": "أريد كوباً من القهوة، من فضلك.",
+      "pronunciation": "Ureedu kooban min al-qahwah, min fadlik.",
+      "context": "Used when ordering at a cafe or restaurant."
     },
     {
-      "english": "It is raining heavily right now.",
-      "arabic": "إنها تمطر بغزارة الآن.",
-      "pronunciation": "Innaha tumtiru bi-ghazaratin al-aan.",
-      "context": "Use this to describe significant rainfall occurring at the present moment."
+      "english": "Excuse me, where is the bathroom?",
+      "arabic": "عفواً، أين الحمام؟",
+      "pronunciation": "Afwan, ayna al-hammam?",
+      "context": "Essential for asking directions to a restroom."
     },
     {
-      "english": "I hope it will be sunny tomorrow.",
-      "arabic": "آمل أن يكون الجو مشمساً غداً.",
-      "pronunciation": "Aamulu an yakuna al-jawwu mushmisan ghadan.",
-      "context": "Use this to express a wish for clear, sunny weather on the following day."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude after receiving assistance."
     },
     {
-      "english": "There is a strong wind today.",
-      "arabic": "هناك رياح قوية اليوم.",
-      "pronunciation": "Hunaka riyahun qawiyyatun al-yawm.",
-      "context": "Use this when the wind is noticeably forceful."
+      "english": "I don't understand what you are saying.",
+      "arabic": "أنا لا أفهم ما تقوله.",
+      "pronunciation": "Ana la afham ma taqooluh.",
+      "context": "Used when you need clarification or don't comprehend."
     }
   ],
   "total": 5
