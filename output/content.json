@@ -1,35 +1,35 @@
 {
-  "category": "أساسيات السفر",
+  "category": "الطقس",
   "phrases": [
     {
-      "english": "Where is the nearest train station?",
-      "arabic": "أين أقرب محطة قطار؟",
-      "pronunciation": "Ayna aqrab mahattat qitar?",
-      "context": "Use this when you need to find public transportation."
+      "english": "What is the weather like today?",
+      "arabic": "كيف حال الطقس اليوم؟",
+      "pronunciation": "Kayfa hal al-taqsu al-yawm?",
+      "context": "Use this to ask about the general weather conditions for the current day."
     },
     {
-      "english": "I would like to book a hotel room for two nights.",
-      "arabic": "أرغب في حجز غرفة فندق لليلتين.",
-      "pronunciation": "Arghab fi hajz ghurfat funduq lil-laylatayn.",
-      "context": "Use this when checking into a hotel."
+      "english": "It is very hot outside.",
+      "arabic": "الجو حار جداً في الخارج.",
+      "pronunciation": "Al-jawwu harun jiddan fil-kharij.",
+      "context": "Use this when the temperature is uncomfortably high."
     },
     {
-      "english": "How much does this cost?",
-      "arabic": "كم يكلف هذا؟",
-      "pronunciation": "Kam yukallif hatha?",
-      "context": "Use this when shopping or asking for prices."
+      "english": "It is raining heavily right now.",
+      "arabic": "إنها تمطر بغزارة الآن.",
+      "pronunciation": "Innaha tumtiru bi-ghazaratin al-aan.",
+      "context": "Use this to describe significant rainfall occurring at the present moment."
     },
     {
-      "english": "Can you help me please?",
-      "arabic": "هل يمكنك مساعدتي من فضلك؟",
-      "pronunciation": "Hal yumkinuka musa'adati min fadlik?",
-      "context": "Use this when you need assistance from someone."
+      "english": "I hope it will be sunny tomorrow.",
+      "arabic": "آمل أن يكون الجو مشمساً غداً.",
+      "pronunciation": "Aamulu an yakuna al-jawwu mushmisan ghadan.",
+      "context": "Use this to express a wish for clear, sunny weather on the following day."
     },
     {
-      "english": "I need to find a pharmacy.",
-      "arabic": "أحتاج إلى العثور على صيدلية.",
-      "pronunciation": "Ahtaj ila al-'uthur 'ala saydaliyyah.",
-      "context": "Use this when you need to buy medication."
+      "english": "There is a strong wind today.",
+      "arabic": "هناك رياح قوية اليوم.",
+      "pronunciation": "Hunaka riyahun qawiyyatun al-yawm.",
+      "context": "Use this when the wind is noticeably forceful."
     }
   ],
   "total": 5
