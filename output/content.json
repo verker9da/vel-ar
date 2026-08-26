@@ -1,35 +1,35 @@
 {
-  "category": "الصحة والجسد",
+  "category": "الطعام والطعام",
   "phrases": [
     {
-      "english": "I feel very tired today.",
-      "arabic": "أشعر بالتعب الشديد اليوم.",
-      "pronunciation": "Ash'uru bil-ta'ab al-shadeed al-yawm.",
-      "context": "Use this when you are feeling exhausted."
+      "english": "I would like to order a falafel sandwich, please.",
+      "arabic": "أود أن أطلب ساندويتش فلافل من فضلك.",
+      "pronunciation": "Awood an atlub sandwich falafel min fadlak.",
+      "context": "Use this when ordering food at a restaurant or cafe."
     },
     {
-      "english": "My head hurts a lot.",
-      "arabic": "رأسي يؤلمني كثيراً.",
-      "pronunciation": "Ra'si yu'limuni katheeran.",
-      "context": "Say this when experiencing a strong headache."
+      "english": "This meal is delicious, thank you.",
+      "arabic": "هذه الوجبة لذيذة جداً، شكراً لك.",
+      "pronunciation": "Hadhihi al-wajbah latheethah jiddan, shukran lak.",
+      "context": "Say this to compliment the cook or server on the food."
     },
     {
-      "english": "I need to drink more water.",
-      "arabic": "أحتاج لشرب المزيد من الماء.",
-      "pronunciation": "Ahtaju lishurb al-mazeed min al-maa'.",
-      "context": "Use this to express a need for hydration."
+      "english": "Do you have any vegetarian options?",
+      "arabic": "هل لديكم أي خيارات نباتية؟",
+      "pronunciation": "Hal ladaykum ay khiyarat nabatiyyah?",
+      "context": "Ask this if you follow a vegetarian diet."
     },
     {
-      "english": "I am allergic to cats.",
-      "arabic": "أنا لدي حساسية من القطط.",
-      "pronunciation": "Ana ladaiya hasasiyah min al-qitat.",
-      "context": "Inform someone about a specific allergy."
+      "english": "Can I have the bill, please?",
+      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
+      "pronunciation": "Hal yumkinuni al-husool ala al-faturah, min fadlak?",
+      "context": "Use this when you are ready to pay after your meal."
     },
     {
-      "english": "I want to eat something healthy.",
-      "arabic": "أريد أن آكل شيئاً صحياً.",
-      "pronunciation": "Ureed an aakul shay'an sihiyan.",
-      "context": "Use this when you are looking for nutritious food."
+      "english": "I am allergic to peanuts.",
+      "arabic": "أنا لدي حساسية من الفول السوداني.",
+      "pronunciation": "Ana laday hassasiyyah min al-foul as-sudani.",
+      "context": "Inform your server about any food allergies you have."
     }
   ],
   "total": 5
