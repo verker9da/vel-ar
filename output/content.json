@@ -1,35 +1,35 @@
 {
-  "category": "الألوان والأوصاف",
+  "category": "أساسيات السفر",
   "phrases": [
     {
-      "english": "This shirt is a beautiful blue color.",
-      "arabic": "هذه القميص لونها أزرق جميل.",
-      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
-      "context": "Use this when complimenting someone's clothing."
+      "english": "Where is the nearest train station?",
+      "arabic": "أين أقرب محطة قطار؟",
+      "pronunciation": "Ayna aqrab mahattat qitar?",
+      "context": "Use this when you need to find public transportation."
     },
     {
-      "english": "I like the red car parked over there.",
-      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
-      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
-      "context": "Use this to point out a specific item with a color."
+      "english": "I would like to book a hotel room for two nights.",
+      "arabic": "أرغب في حجز غرفة فندق لليلتين.",
+      "pronunciation": "Arghab fi hajz ghurfat funduq lil-laylatayn.",
+      "context": "Use this when checking into a hotel."
     },
     {
-      "english": "The sky is very clear and white today.",
-      "arabic": "السماء صافية جداً وبيضاء اليوم.",
-      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
-      "context": "Use this to describe the weather or a natural scene."
+      "english": "How much does this cost?",
+      "arabic": "كم يكلف هذا؟",
+      "pronunciation": "Kam yukallif hatha?",
+      "context": "Use this when shopping or asking for prices."
     },
     {
-      "english": "She has long, black hair.",
-      "arabic": "لديها شعر طويل وأسود.",
-      "pronunciation": "Ladayha sha'r taweel wa aswad.",
-      "context": "Use this to describe a person's physical appearance."
+      "english": "Can you help me please?",
+      "arabic": "هل يمكنك مساعدتي من فضلك؟",
+      "pronunciation": "Hal yumkinuka musa'adati min fadlik?",
+      "context": "Use this when you need assistance from someone."
     },
     {
-      "english": "This green apple looks very fresh.",
-      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
-      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
-      "context": "Use this when commenting on the appearance of food."
+      "english": "I need to find a pharmacy.",
+      "arabic": "أحتاج إلى العثور على صيدلية.",
+      "pronunciation": "Ahtaj ila al-'uthur 'ala saydaliyyah.",
+      "context": "Use this when you need to buy medication."
     }
   ],
   "total": 5
