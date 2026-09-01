@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "الدافع",
   "phrases": [
     {
-      "english": "I need to finish this report by tomorrow.",
-      "arabic": "أحتاج إلى إنهاء هذا التقرير بحلول الغد.",
-      "pronunciation": "Ahtaj ila inhā' hādhā al-taqrīr biḥulūl al-ghad.",
-      "context": "Use this when discussing deadlines for work tasks."
+      "english": "I want to learn Arabic because it's a beautiful language.",
+      "arabic": "أريد أن أتعلم اللغة العربية لأنها لغة جميلة.",
+      "pronunciation": "Ureed an ata'allam al-lughah al-'arabiyyah li'annaha lughah jameelah.",
+      "context": "Expressing your motivation for studying Arabic."
     },
     {
-      "english": "Can you please send me the meeting agenda?",
-      "arabic": "هل يمكنك فضلاً إرسال جدول أعمال الاجتماع إلي؟",
-      "pronunciation": "Hal yumkinuka faḍlan irsāl jadwal aʿmāl al-ijtimāʿ ilayya?",
-      "context": "Ask for information needed before a meeting."
+      "english": "I am practicing speaking Arabic every day.",
+      "arabic": "أنا أتدرب على التحدث باللغة العربية كل يوم.",
+      "pronunciation": "Ana atadarrab 'ala al-tahadduth bil-lughah al-'arabiyyah kull yawm.",
+      "context": "Describing your commitment to improving your Arabic speaking skills."
     },
     {
-      "english": "I have a business meeting at ten o'clock.",
-      "arabic": "لدي اجتماع عمل في تمام الساعة العاشرة.",
-      "pronunciation": "Ladaiy ijtimāʿ ʿamal fī tamām al-sāʿah al-ʿāshirah.",
-      "context": "Inform someone about your scheduled work appointments."
+      "english": "This book is very helpful for my Arabic studies.",
+      "arabic": "هذا الكتاب مفيد جداً لدراستي العربية.",
+      "pronunciation": "Hatha al-kitab mufeed jiddan li-dirasati al-'arabiyyah.",
+      "context": "Recommending a resource or acknowledging its usefulness in your learning journey."
     },
     {
-      "english": "Where is the nearest post office?",
-      "arabic": "أين أقرب مكتب بريد؟",
-      "pronunciation": "Aina aqrab maktab barīd?",
-      "context": "Ask for directions to a common business-related service."
+      "english": "I hope to become fluent in Arabic soon.",
+      "arabic": "آمل أن أتقن اللغة العربية قريباً.",
+      "pronunciation": "A'mal an utqin al-lughah al-'arabiyyah qareeban.",
+      "context": "Sharing your future goals and aspirations for learning Arabic."
     },
     {
-      "english": "I would like to book a flight to Dubai.",
-      "arabic": "أود حجز رحلة طيران إلى دبي.",
-      "pronunciation": "Awad ḥajz riḥlat ṭayarān ilā Dubay.",
-      "context": "Use this when arranging business travel."
+      "english": "Learning Arabic opens up new cultural experiences for me.",
+      "arabic": "تعلم اللغة العربية يفتح لي تجارب ثقافية جديدة.",
+      "pronunciation": "Ta'allum al-lughah al-'arabiyyah yaftah li tajareeb thaqafiyyah jadeedah.",
+      "context": "Highlighting the broader benefits and opportunities that come with learning Arabic."
     }
   ],
   "total": 5
