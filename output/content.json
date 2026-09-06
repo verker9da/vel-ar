@@ -1,35 +1,35 @@
 {
-  "category": "السعادة",
+  "category": "الحيوانات",
   "phrases": [
     {
-      "english": "I am very happy today.",
-      "arabic": "أنا سعيد جدًا اليوم.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm.",
-      "context": "Use this to express your positive feelings on a particular day."
+      "english": "I have a playful cat named Leo.",
+      "arabic": "لدي قطة لعوبة اسمها ليو.",
+      "pronunciation": "Ladai qittatun la'oobah ismuha Leo.",
+      "context": "Use this to introduce your pet cat."
     },
     {
-      "english": "This makes me feel peaceful.",
-      "arabic": "هذا يجعلني أشعر بالسلام.",
-      "pronunciation": "Hatha yaj'aluni ash'ur bil-salam.",
-      "context": "Use this when something brings you a sense of calm and tranquility."
+      "english": "My neighbor owns a very energetic dog.",
+      "arabic": "جاري يمتلك كلبًا نشيطًا جدًا.",
+      "pronunciation": "Jaree yamtaliku kalban nasheetan jiddan.",
+      "context": "Talk about a friend's or neighbor's dog."
     },
     {
-      "english": "I am content with my life.",
-      "arabic": "أنا راضٍ عن حياتي.",
-      "pronunciation": "Ana radi 'an hayati.",
-      "context": "Use this to express satisfaction and acceptance of your current situation."
+      "english": "I saw a beautiful bird in the garden.",
+      "arabic": "رأيت طائرًا جميلًا في الحديقة.",
+      "pronunciation": "Ra'aitu taa'iran jameelan fil hadiqah.",
+      "context": "Mention an animal you observed in nature."
     },
     {
-      "english": "Everything is going well, thank God.",
-      "arabic": "كل شيء على ما يرام، الحمد لله.",
-      "pronunciation": "Kullu shay'in 'ala ma yuram, al-hamdulillah.",
-      "context": "Use this to express that things are proceeding favorably and to show gratitude."
+      "english": "The children love to feed the ducks at the park.",
+      "arabic": "يحب الأطفال إطعام البط في الحديقة.",
+      "pronunciation": "Yuhibbul atfal it'aam al-batt fil hadiqah.",
+      "context": "Describe a common activity involving animals."
     },
     {
-      "english": "I feel a deep sense of joy.",
-      "arabic": "أشعر بفرح عميق.",
-      "pronunciation": "Ash'ur bi-farahin 'ameeq.",
-      "context": "Use this to describe a profound and intense feeling of happiness."
+      "english": "Be careful, there are many bees around the flowers.",
+      "arabic": "كن حذرًا، هناك الكثير من النحل حول الزهور.",
+      "pronunciation": "Kun hadhiran, hunaaka al-katheer min an-nahli hawl az-zuhour.",
+      "context": "Warn someone about the presence of insects."
     }
   ],
   "total": 5
