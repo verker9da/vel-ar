@@ -1,35 +1,35 @@
 {
-  "category": "الأرقام والوقت",
+  "category": "الحكمة",
   "phrases": [
     {
-      "english": "What time is it?",
-      "arabic": "كم الساعة الآن؟",
-      "pronunciation": "Kam as-saa'ah al-aan?",
-      "context": "Used to ask for the current time."
+      "english": "Patience is the key to success.",
+      "arabic": "الصبر مفتاح الفرج.",
+      "pronunciation": "As-sabru miftaahu al-faraj.",
+      "context": "Use this when encouraging someone to persevere through a difficult situation."
     },
     {
-      "english": "It is three o'clock.",
-      "arabic": "إنها الساعة الثالثة.",
-      "pronunciation": "Innaha as-saa'ah ath-thaalithah.",
-      "context": "Used to state the current time."
+      "english": "There is no power and no strength except with God.",
+      "arabic": "لا حول ولا قوة إلا بالله.",
+      "pronunciation": "La hawla wa la quwwata illa billah.",
+      "context": "Say this when facing a challenge that feels overwhelming or beyond your control."
     },
     {
-      "english": "I need five apples, please.",
-      "arabic": "أحتاج خمس تفاحات من فضلك.",
-      "pronunciation": "Ahtaaju khams tuffaahaat min fadlik.",
-      "context": "Used when buying or requesting a specific quantity of items."
+      "english": "Everything happens for a reason.",
+      "arabic": "كل شيء يحدث لسبب.",
+      "pronunciation": "Kullu shay'in yahduthu li sabab.",
+      "context": "Use this to find comfort and meaning after an unexpected or unfortunate event."
     },
     {
-      "english": "My phone number is nine eight seven six five four three two one zero.",
-      "arabic": "رقم هاتفي هو تسعة ثمانية سبعة ستة خمسة أربعة ثلاثة اثنان واحد صفر.",
-      "pronunciation": "Raqmu haatifi huwa tis'ah thamaaniyah sab'ah sittah khamsah arba'ah thalaathah ithnaan waahid sifr.",
-      "context": "Used to share your phone number."
+      "english": "Seek knowledge from the cradle to the grave.",
+      "arabic": "اطلبوا العلم من المهد إلى اللحد.",
+      "pronunciation": "Utlubu al-'ilma min al-mahd ila al-lahd.",
+      "context": "This phrase emphasizes the lifelong importance of learning and education."
     },
     {
-      "english": "The meeting is at ten thirty in the morning.",
-      "arabic": "الاجتماع الساعة العاشرة والنصف صباحاً.",
-      "pronunciation": "Al-ijtimaa' as-saa'ah al-'aashirah wan-nisfa sabahan.",
-      "context": "Used to specify a time for an event."
+      "english": "Actions speak louder than words.",
+      "arabic": "الأفعال أبلغ من الأقوال.",
+      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
+      "context": "Use this to highlight the importance of deeds over mere promises or talk."
     }
   ],
   "total": 5
