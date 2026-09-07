@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "الألوان والأوصاف",
   "phrases": [
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Use this to express gratitude after someone assists you."
+      "english": "This shirt is a beautiful blue color.",
+      "arabic": "هذه القميص لونها أزرق جميل.",
+      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
+      "context": "Use this when complimenting someone's clothing."
     },
     {
-      "english": "Can you please repeat that for me?",
-      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
-      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
-      "context": "Employ this when you didn't understand something and need it said again."
+      "english": "I like the red car parked over there.",
+      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
+      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
+      "context": "Use this to point out a specific item with a color."
     },
     {
-      "english": "I would like to order a cup of coffee.",
-      "arabic": "أود أن أطلب كوباً من القهوة.",
-      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
-      "context": "Use this common phrase when ordering drinks at a café."
+      "english": "The sky is very clear and white today.",
+      "arabic": "السماء صافية جداً وبيضاء اليوم.",
+      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
+      "context": "Use this to describe the weather or a natural scene."
     },
     {
-      "english": "Excuse me, where is the nearest bathroom?",
-      "arabic": "عفواً، أين الحمام الأقرب؟",
-      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
-      "context": "This is a polite way to ask for directions to a restroom."
+      "english": "She has long, black hair.",
+      "arabic": "لديها شعر طويل وأسود.",
+      "pronunciation": "Ladayha sha'r taweel wa aswad.",
+      "context": "Use this to describe a person's physical appearance."
     },
     {
-      "english": "I don't understand this word at all.",
-      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
-      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
-      "context": "Say this when you are completely unable to comprehend a specific term."
+      "english": "This green apple looks very fresh.",
+      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
+      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
+      "context": "Use this when commenting on the appearance of food."
     }
   ],
   "total": 5
