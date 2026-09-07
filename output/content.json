@@ -1,35 +1,35 @@
 {
-  "category": "الألوان والأوصاف",
+  "category": "التحيات اليومية",
   "phrases": [
     {
-      "english": "This shirt is a beautiful blue color.",
-      "arabic": "هذه القميص لونها أزرق جميل.",
-      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
-      "context": "Use this when complimenting someone's clothing."
+      "english": "Good morning, how are you today?",
+      "arabic": "صباح الخير، كيف حالك اليوم؟",
+      "pronunciation": "Sabah al-khayr, kayfa haluka al-yawm?",
+      "context": "Used to greet someone in the morning and inquire about their well-being."
     },
     {
-      "english": "I like the red car parked over there.",
-      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
-      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
-      "context": "Use this to point out a specific item with a color."
+      "english": "Hello, it's nice to meet you.",
+      "arabic": "أهلاً بك، سررت بلقائك.",
+      "pronunciation": "Ahlan bik, surirtu biliqa'ik.",
+      "context": "A polite way to greet someone for the first time."
     },
     {
-      "english": "The sky is very clear and white today.",
-      "arabic": "السماء صافية جداً وبيضاء اليوم.",
-      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
-      "context": "Use this to describe the weather or a natural scene."
+      "english": "Good afternoon, I hope you are well.",
+      "arabic": "مساء الخير، أتمنى أن تكون بخير.",
+      "pronunciation": "Masa' al-khayr, atamanna an takuna bikhayr.",
+      "context": "A polite greeting used in the afternoon or evening."
     },
     {
-      "english": "She has long, black hair.",
-      "arabic": "لديها شعر طويل وأسود.",
-      "pronunciation": "Ladayha sha'r taweel wa aswad.",
-      "context": "Use this to describe a person's physical appearance."
+      "english": "Goodbye, see you later.",
+      "arabic": "إلى اللقاء، أراك لاحقاً.",
+      "pronunciation": "Ila al-liqa', arak lahiqan.",
+      "context": "Used when parting ways with someone you expect to see again."
     },
     {
-      "english": "This green apple looks very fresh.",
-      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
-      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
-      "context": "Use this when commenting on the appearance of food."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude for assistance received."
     }
   ],
   "total": 5
