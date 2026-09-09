@@ -1,35 +1,35 @@
 {
-  "category": "الطقس",
+  "category": "الصحة والجسد",
   "phrases": [
     {
-      "english": "What is the weather like today?",
-      "arabic": "كيف حال الطقس اليوم؟",
-      "pronunciation": "Kayfa hal al-taqsu al-yawm?",
-      "context": "Use this to ask about the general weather conditions for the current day."
+      "english": "I feel very tired today.",
+      "arabic": "أشعر بالتعب الشديد اليوم.",
+      "pronunciation": "Ash'uru bil-ta'ab al-shadeed al-yawm.",
+      "context": "Use this when you are feeling exhausted."
     },
     {
-      "english": "It is very hot outside.",
-      "arabic": "الجو حار جداً في الخارج.",
-      "pronunciation": "Al-jawwu harun jiddan fil-kharij.",
-      "context": "Use this when the temperature is uncomfortably high."
+      "english": "My head hurts a lot.",
+      "arabic": "رأسي يؤلمني كثيراً.",
+      "pronunciation": "Ra'si yu'limuni katheeran.",
+      "context": "Say this when experiencing a strong headache."
     },
     {
-      "english": "It is raining heavily right now.",
-      "arabic": "إنها تمطر بغزارة الآن.",
-      "pronunciation": "Innaha tumtiru bi-ghazaratin al-aan.",
-      "context": "Use this to describe significant rainfall occurring at the present moment."
+      "english": "I need to drink more water.",
+      "arabic": "أحتاج لشرب المزيد من الماء.",
+      "pronunciation": "Ahtaju lishurb al-mazeed min al-maa'.",
+      "context": "Use this to express a need for hydration."
     },
     {
-      "english": "I hope it will be sunny tomorrow.",
-      "arabic": "آمل أن يكون الجو مشمساً غداً.",
-      "pronunciation": "Aamulu an yakuna al-jawwu mushmisan ghadan.",
-      "context": "Use this to express a wish for clear, sunny weather on the following day."
+      "english": "I am allergic to cats.",
+      "arabic": "أنا لدي حساسية من القطط.",
+      "pronunciation": "Ana ladaiya hasasiyah min al-qitat.",
+      "context": "Inform someone about a specific allergy."
     },
     {
-      "english": "There is a strong wind today.",
-      "arabic": "هناك رياح قوية اليوم.",
-      "pronunciation": "Hunaka riyahun qawiyyatun al-yawm.",
-      "context": "Use this when the wind is noticeably forceful."
+      "english": "I want to eat something healthy.",
+      "arabic": "أريد أن آكل شيئاً صحياً.",
+      "pronunciation": "Ureed an aakul shay'an sihiyan.",
+      "context": "Use this when you are looking for nutritious food."
     }
   ],
   "total": 5
