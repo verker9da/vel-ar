@@ -1,35 +1,35 @@
 {
-  "category": "الصحة والجسد",
+  "category": "أساسيات السفر",
   "phrases": [
     {
-      "english": "I feel very tired today.",
-      "arabic": "أشعر بالتعب الشديد اليوم.",
-      "pronunciation": "Ash'uru bil-ta'ab al-shadeed al-yawm.",
-      "context": "Use this when you are feeling exhausted."
+      "english": "Where is the nearest train station?",
+      "arabic": "أين أقرب محطة قطار؟",
+      "pronunciation": "Ayna aqrab mahattat qitar?",
+      "context": "Use this when you need to find public transportation."
     },
     {
-      "english": "My head hurts a lot.",
-      "arabic": "رأسي يؤلمني كثيراً.",
-      "pronunciation": "Ra'si yu'limuni katheeran.",
-      "context": "Say this when experiencing a strong headache."
+      "english": "I would like to book a hotel room for two nights.",
+      "arabic": "أرغب في حجز غرفة فندق لليلتين.",
+      "pronunciation": "Arghab fi hajz ghurfat funduq lil-laylatayn.",
+      "context": "Use this when checking into a hotel."
     },
     {
-      "english": "I need to drink more water.",
-      "arabic": "أحتاج لشرب المزيد من الماء.",
-      "pronunciation": "Ahtaju lishurb al-mazeed min al-maa'.",
-      "context": "Use this to express a need for hydration."
+      "english": "How much does this cost?",
+      "arabic": "كم يكلف هذا؟",
+      "pronunciation": "Kam yukallif hatha?",
+      "context": "Use this when shopping or asking for prices."
     },
     {
-      "english": "I am allergic to cats.",
-      "arabic": "أنا لدي حساسية من القطط.",
-      "pronunciation": "Ana ladaiya hasasiyah min al-qitat.",
-      "context": "Inform someone about a specific allergy."
+      "english": "Can you help me please?",
+      "arabic": "هل يمكنك مساعدتي من فضلك؟",
+      "pronunciation": "Hal yumkinuka musa'adati min fadlik?",
+      "context": "Use this when you need assistance from someone."
     },
     {
-      "english": "I want to eat something healthy.",
-      "arabic": "أريد أن آكل شيئاً صحياً.",
-      "pronunciation": "Ureed an aakul shay'an sihiyan.",
-      "context": "Use this when you are looking for nutritious food."
+      "english": "I need to find a pharmacy.",
+      "arabic": "أحتاج إلى العثور على صيدلية.",
+      "pronunciation": "Ahtaj ila al-'uthur 'ala saydaliyyah.",
+      "context": "Use this when you need to buy medication."
     }
   ],
   "total": 5
