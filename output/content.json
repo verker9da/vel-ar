@@ -1,35 +1,35 @@
 {
-  "category": "الحكمة",
+  "category": "الصحة والجسد",
   "phrases": [
     {
-      "english": "Patience is the key to success.",
-      "arabic": "الصبر مفتاح الفرج.",
-      "pronunciation": "As-sabru miftaahu al-faraj.",
-      "context": "Use this when encouraging someone to persevere through a difficult situation."
+      "english": "I feel very tired today.",
+      "arabic": "أشعر بالتعب الشديد اليوم.",
+      "pronunciation": "Ash'uru bil-ta'ab al-shadeed al-yawm.",
+      "context": "Use this when you are feeling exhausted."
     },
     {
-      "english": "There is no power and no strength except with God.",
-      "arabic": "لا حول ولا قوة إلا بالله.",
-      "pronunciation": "La hawla wa la quwwata illa billah.",
-      "context": "Say this when facing a challenge that feels overwhelming or beyond your control."
+      "english": "My head hurts a lot.",
+      "arabic": "رأسي يؤلمني كثيراً.",
+      "pronunciation": "Ra'si yu'limuni katheeran.",
+      "context": "Say this when experiencing a strong headache."
     },
     {
-      "english": "Everything happens for a reason.",
-      "arabic": "كل شيء يحدث لسبب.",
-      "pronunciation": "Kullu shay'in yahduthu li sabab.",
-      "context": "Use this to find comfort and meaning after an unexpected or unfortunate event."
+      "english": "I need to drink more water.",
+      "arabic": "أحتاج لشرب المزيد من الماء.",
+      "pronunciation": "Ahtaju lishurb al-mazeed min al-maa'.",
+      "context": "Use this to express a need for hydration."
     },
     {
-      "english": "Seek knowledge from the cradle to the grave.",
-      "arabic": "اطلبوا العلم من المهد إلى اللحد.",
-      "pronunciation": "Utlubu al-'ilma min al-mahd ila al-lahd.",
-      "context": "This phrase emphasizes the lifelong importance of learning and education."
+      "english": "I am allergic to cats.",
+      "arabic": "أنا لدي حساسية من القطط.",
+      "pronunciation": "Ana ladaiya hasasiyah min al-qitat.",
+      "context": "Inform someone about a specific allergy."
     },
     {
-      "english": "Actions speak louder than words.",
-      "arabic": "الأفعال أبلغ من الأقوال.",
-      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
-      "context": "Use this to highlight the importance of deeds over mere promises or talk."
+      "english": "I want to eat something healthy.",
+      "arabic": "أريد أن آكل شيئاً صحياً.",
+      "pronunciation": "Ureed an aakul shay'an sihiyan.",
+      "context": "Use this when you are looking for nutritious food."
     }
   ],
   "total": 5
