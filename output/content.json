@@ -1,35 +1,35 @@
 {
-  "category": "التحيات اليومية",
+  "category": "الحيوانات",
   "phrases": [
     {
-      "english": "Good morning, how are you today?",
-      "arabic": "صباح الخير، كيف حالك اليوم؟",
-      "pronunciation": "Sabah al-khayr, kayfa haluka al-yawm?",
-      "context": "Used to greet someone in the morning and inquire about their well-being."
+      "english": "I have a playful cat named Leo.",
+      "arabic": "لدي قطة لعوبة اسمها ليو.",
+      "pronunciation": "Ladai qittatun la'oobah ismuha Leo.",
+      "context": "Use this to introduce your pet cat."
     },
     {
-      "english": "Hello, it's nice to meet you.",
-      "arabic": "أهلاً بك، سررت بلقائك.",
-      "pronunciation": "Ahlan bik, surirtu biliqa'ik.",
-      "context": "A polite way to greet someone for the first time."
+      "english": "My neighbor owns a very energetic dog.",
+      "arabic": "جاري يمتلك كلبًا نشيطًا جدًا.",
+      "pronunciation": "Jaree yamtaliku kalban nasheetan jiddan.",
+      "context": "Talk about a friend's or neighbor's dog."
     },
     {
-      "english": "Good afternoon, I hope you are well.",
-      "arabic": "مساء الخير، أتمنى أن تكون بخير.",
-      "pronunciation": "Masa' al-khayr, atamanna an takuna bikhayr.",
-      "context": "A polite greeting used in the afternoon or evening."
+      "english": "I saw a beautiful bird in the garden.",
+      "arabic": "رأيت طائرًا جميلًا في الحديقة.",
+      "pronunciation": "Ra'aitu taa'iran jameelan fil hadiqah.",
+      "context": "Mention an animal you observed in nature."
     },
     {
-      "english": "Goodbye, see you later.",
-      "arabic": "إلى اللقاء، أراك لاحقاً.",
-      "pronunciation": "Ila al-liqa', arak lahiqan.",
-      "context": "Used when parting ways with someone you expect to see again."
+      "english": "The children love to feed the ducks at the park.",
+      "arabic": "يحب الأطفال إطعام البط في الحديقة.",
+      "pronunciation": "Yuhibbul atfal it'aam al-batt fil hadiqah.",
+      "context": "Describe a common activity involving animals."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Expressing gratitude for assistance received."
+      "english": "Be careful, there are many bees around the flowers.",
+      "arabic": "كن حذرًا، هناك الكثير من النحل حول الزهور.",
+      "pronunciation": "Kun hadhiran, hunaaka al-katheer min an-nahli hawl az-zuhour.",
+      "context": "Warn someone about the presence of insects."
     }
   ],
   "total": 5
