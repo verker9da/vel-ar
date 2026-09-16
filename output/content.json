@@ -1,35 +1,35 @@
 {
-  "category": "التحيات اليومية",
+  "category": "النجاح",
   "phrases": [
-    {
-      "english": "Good morning, how are you today?",
-      "arabic": "صباح الخير، كيف حالك اليوم؟",
-      "pronunciation": "Sabah al-khayr, kayfa haluka al-yawm?",
-      "context": "Used to greet someone in the morning and inquire about their well-being."
-    },
-    {
-      "english": "Hello, it's nice to meet you.",
-      "arabic": "أهلاً بك، سررت بلقائك.",
-      "pronunciation": "Ahlan bik, surirtu biliqa'ik.",
-      "context": "A polite way to greet someone for the first time."
-    },
-    {
-      "english": "Good afternoon, I hope you are well.",
-      "arabic": "مساء الخير، أتمنى أن تكون بخير.",
-      "pronunciation": "Masa' al-khayr, atamanna an takuna bikhayr.",
-      "context": "A polite greeting used in the afternoon or evening."
-    },
-    {
-      "english": "Goodbye, see you later.",
-      "arabic": "إلى اللقاء، أراك لاحقاً.",
-      "pronunciation": "Ila al-liqa', arak lahiqan.",
-      "context": "Used when parting ways with someone you expect to see again."
-    },
     {
       "english": "Thank you very much for your help.",
       "arabic": "شكراً جزيلاً على مساعدتك.",
       "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Expressing gratitude for assistance received."
+      "context": "Use this to express gratitude after someone assists you."
+    },
+    {
+      "english": "Can you please repeat that for me?",
+      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
+      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
+      "context": "Employ this when you didn't understand something and need it said again."
+    },
+    {
+      "english": "I would like to order a cup of coffee.",
+      "arabic": "أود أن أطلب كوباً من القهوة.",
+      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
+      "context": "Use this common phrase when ordering drinks at a café."
+    },
+    {
+      "english": "Excuse me, where is the nearest bathroom?",
+      "arabic": "عفواً، أين الحمام الأقرب؟",
+      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
+      "context": "This is a polite way to ask for directions to a restroom."
+    },
+    {
+      "english": "I don't understand this word at all.",
+      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
+      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
+      "context": "Say this when you are completely unable to comprehend a specific term."
     }
   ],
   "total": 5
