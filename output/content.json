@@ -1,35 +1,35 @@
 {
-  "category": "الهوايات والأنشطة",
+  "category": "الحيوانات",
   "phrases": [
     {
-      "english": "I enjoy reading books in my free time.",
-      "arabic": "أستمتع بقراءة الكتب في وقت فراغي.",
-      "pronunciation": "Astamti' bi qira'ati al-kutubi fi waqti faraaghi.",
-      "context": "Use this to talk about your hobby of reading."
+      "english": "I have a playful cat named Leo.",
+      "arabic": "لدي قطة لعوبة اسمها ليو.",
+      "pronunciation": "Ladai qittatun la'oobah ismuha Leo.",
+      "context": "Use this to introduce your pet cat."
     },
     {
-      "english": "My favorite hobby is playing football with my friends.",
-      "arabic": "هوايتي المفضلة هي لعب كرة القدم مع أصدقائي.",
-      "pronunciation": "Hawayati al-mufaddalah hiya la'ibu kurati al-qadami ma'a asdiqa'i.",
-      "context": "Share your main hobby, specifically playing football."
+      "english": "My neighbor owns a very energetic dog.",
+      "arabic": "جاري يمتلك كلبًا نشيطًا جدًا.",
+      "pronunciation": "Jaree yamtaliku kalban nasheetan jiddan.",
+      "context": "Talk about a friend's or neighbor's dog."
     },
     {
-      "english": "I love to travel to new places and explore different cultures.",
-      "arabic": "أحب السفر إلى أماكن جديدة واستكشاف ثقافات مختلفة.",
-      "pronunciation": "Uhibbu as-safara ila amakinin jadidatin wa istikshafi thaqafatin mukhtalifah.",
-      "context": "Describe your passion for travel and cultural exploration."
+      "english": "I saw a beautiful bird in the garden.",
+      "arabic": "رأيت طائرًا جميلًا في الحديقة.",
+      "pronunciation": "Ra'aitu taa'iran jameelan fil hadiqah.",
+      "context": "Mention an animal you observed in nature."
     },
     {
-      "english": "On weekends, I usually go hiking in the mountains.",
-      "arabic": "في عطلات نهاية الأسبوع، أذهب عادةً للتنزه في الجبال.",
-      "pronunciation": "Fi 'utlati nihayati al-usbu', adhhabu 'aadatan lit-tanazzuhi fil-jibaal.",
-      "context": "Explain your typical weekend activity of hiking."
+      "english": "The children love to feed the ducks at the park.",
+      "arabic": "يحب الأطفال إطعام البط في الحديقة.",
+      "pronunciation": "Yuhibbul atfal it'aam al-batt fil hadiqah.",
+      "context": "Describe a common activity involving animals."
     },
     {
-      "english": "I spend my evenings learning to play the guitar.",
-      "arabic": "أقضي أمسياتي في تعلم العزف على الجيتار.",
-      "pronunciation": "Aqdi umsiyati fi ta'allumi al-'azfi 'ala al-jitaar.",
-      "context": "Talk about your evening hobby of learning the guitar."
+      "english": "Be careful, there are many bees around the flowers.",
+      "arabic": "كن حذرًا، هناك الكثير من النحل حول الزهور.",
+      "pronunciation": "Kun hadhiran, hunaaka al-katheer min an-nahli hawl az-zuhour.",
+      "context": "Warn someone about the presence of insects."
     }
   ],
   "total": 5
