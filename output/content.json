@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "الحب",
   "phrases": [
     {
-      "english": "I need to finish this report by tomorrow.",
-      "arabic": "أحتاج إلى إنهاء هذا التقرير بحلول الغد.",
-      "pronunciation": "Ahtaj ila inhā' hādhā al-taqrīr biḥulūl al-ghad.",
-      "context": "Use this when discussing deadlines for work tasks."
+      "english": "I love you very much.",
+      "arabic": "أنا أحبك كثيراً.",
+      "pronunciation": "Ana uhibbuka katheeran (to male) / Ana uhibbuki katheeran (to female)",
+      "context": "Used to express deep affection towards someone."
     },
     {
-      "english": "Can you please send me the meeting agenda?",
-      "arabic": "هل يمكنك فضلاً إرسال جدول أعمال الاجتماع إلي؟",
-      "pronunciation": "Hal yumkinuka faḍlan irsāl jadwal aʿmāl al-ijtimāʿ ilayya?",
-      "context": "Ask for information needed before a meeting."
+      "english": "You are so beautiful.",
+      "arabic": "أنتِ جميلة جداً.",
+      "pronunciation": "Anti jameela jiddan (to female)",
+      "context": "A compliment used to describe someone's appearance."
     },
     {
-      "english": "I have a business meeting at ten o'clock.",
-      "arabic": "لدي اجتماع عمل في تمام الساعة العاشرة.",
-      "pronunciation": "Ladaiy ijtimāʿ ʿamal fī tamām al-sāʿah al-ʿāshirah.",
-      "context": "Inform someone about your scheduled work appointments."
+      "english": "My heart belongs to you.",
+      "arabic": "قلبي ملكك.",
+      "pronunciation": "Qalbi milkuk.",
+      "context": "A poetic way to express devotion and deep emotional connection."
     },
     {
-      "english": "Where is the nearest post office?",
-      "arabic": "أين أقرب مكتب بريد؟",
-      "pronunciation": "Aina aqrab maktab barīd?",
-      "context": "Ask for directions to a common business-related service."
+      "english": "I miss you a lot.",
+      "arabic": "أفتقدك كثيراً.",
+      "pronunciation": "Aftaqiduka katheeran (to male) / Aftaqiduki katheeran (to female)",
+      "context": "Said when you are not with someone you care about and feel their absence."
     },
     {
-      "english": "I would like to book a flight to Dubai.",
-      "arabic": "أود حجز رحلة طيران إلى دبي.",
-      "pronunciation": "Awad ḥajz riḥlat ṭayarān ilā Dubay.",
-      "context": "Use this when arranging business travel."
+      "english": "Our love is eternal.",
+      "arabic": "حبنا أبدي.",
+      "pronunciation": "Hubbuna abadi.",
+      "context": "Expresses a belief in the lasting nature of a romantic relationship."
     }
   ],
   "total": 5
