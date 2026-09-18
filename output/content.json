@@ -1,35 +1,35 @@
 {
-  "category": "السعادة",
+  "category": "الأرقام والوقت",
   "phrases": [
     {
-      "english": "I am very happy today.",
-      "arabic": "أنا سعيد جدًا اليوم.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm.",
-      "context": "Use this to express your positive feelings on a particular day."
+      "english": "What time is it?",
+      "arabic": "كم الساعة الآن؟",
+      "pronunciation": "Kam as-saa'ah al-aan?",
+      "context": "Used to ask for the current time."
     },
     {
-      "english": "This makes me feel peaceful.",
-      "arabic": "هذا يجعلني أشعر بالسلام.",
-      "pronunciation": "Hatha yaj'aluni ash'ur bil-salam.",
-      "context": "Use this when something brings you a sense of calm and tranquility."
+      "english": "It is three o'clock.",
+      "arabic": "إنها الساعة الثالثة.",
+      "pronunciation": "Innaha as-saa'ah ath-thaalithah.",
+      "context": "Used to state the current time."
     },
     {
-      "english": "I am content with my life.",
-      "arabic": "أنا راضٍ عن حياتي.",
-      "pronunciation": "Ana radi 'an hayati.",
-      "context": "Use this to express satisfaction and acceptance of your current situation."
+      "english": "I need five apples, please.",
+      "arabic": "أحتاج خمس تفاحات من فضلك.",
+      "pronunciation": "Ahtaaju khams tuffaahaat min fadlik.",
+      "context": "Used when buying or requesting a specific quantity of items."
     },
     {
-      "english": "Everything is going well, thank God.",
-      "arabic": "كل شيء على ما يرام، الحمد لله.",
-      "pronunciation": "Kullu shay'in 'ala ma yuram, al-hamdulillah.",
-      "context": "Use this to express that things are proceeding favorably and to show gratitude."
+      "english": "My phone number is nine eight seven six five four three two one zero.",
+      "arabic": "رقم هاتفي هو تسعة ثمانية سبعة ستة خمسة أربعة ثلاثة اثنان واحد صفر.",
+      "pronunciation": "Raqmu haatifi huwa tis'ah thamaaniyah sab'ah sittah khamsah arba'ah thalaathah ithnaan waahid sifr.",
+      "context": "Used to share your phone number."
     },
     {
-      "english": "I feel a deep sense of joy.",
-      "arabic": "أشعر بفرح عميق.",
-      "pronunciation": "Ash'ur bi-farahin 'ameeq.",
-      "context": "Use this to describe a profound and intense feeling of happiness."
+      "english": "The meeting is at ten thirty in the morning.",
+      "arabic": "الاجتماع الساعة العاشرة والنصف صباحاً.",
+      "pronunciation": "Al-ijtimaa' as-saa'ah al-'aashirah wan-nisfa sabahan.",
+      "context": "Used to specify a time for an event."
     }
   ],
   "total": 5
