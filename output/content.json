@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "العبارات الشائعة",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this to ask for the price of an item."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
+      "context": "A standard greeting to start a conversation."
     },
     {
-      "english": "I would like to buy this shirt.",
-      "arabic": "أريد أن أشتري هذه القميص.",
-      "pronunciation": "Ureed an ashtari hathihi al-qamees.",
-      "context": "Use this when you decide to purchase an item."
+      "english": "I would like a cup of coffee, please.",
+      "arabic": "أريد كوباً من القهوة، من فضلك.",
+      "pronunciation": "Ureedu kooban min al-qahwah, min fadlik.",
+      "context": "Used when ordering at a cafe or restaurant."
     },
     {
-      "english": "Do you have this in a different size?",
-      "arabic": "هل لديكم هذا بمقاس مختلف؟",
-      "pronunciation": "Hal ladaykum hatha bimqas mukhtalif?",
-      "context": "Use this when the current size doesn't fit."
+      "english": "Excuse me, where is the bathroom?",
+      "arabic": "عفواً، أين الحمام؟",
+      "pronunciation": "Afwan, ayna al-hammam?",
+      "context": "Essential for asking directions to a restroom."
     },
     {
-      "english": "Can I pay with a credit card?",
-      "arabic": "هل يمكنني الدفع ببطاقة ائتمان؟",
-      "pronunciation": "Hal yumkinuni ad-daf' bi-bitaqat i'timan?",
-      "context": "Use this to inquire about payment methods."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude after receiving assistance."
     },
     {
-      "english": "Thank you for your help.",
-      "arabic": "شكراً لمساعدتك.",
-      "pronunciation": "Shukran limusa'adatik.",
-      "context": "Use this to express gratitude after a transaction."
+      "english": "I don't understand what you are saying.",
+      "arabic": "أنا لا أفهم ما تقوله.",
+      "pronunciation": "Ana la afham ma taqooluh.",
+      "context": "Used when you need clarification or don't comprehend."
     }
   ],
   "total": 5
