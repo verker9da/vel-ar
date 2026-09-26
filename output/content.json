@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "الألوان والأوصاف",
   "phrases": [
     {
-      "english": "I need to finish this report by tomorrow.",
-      "arabic": "أحتاج إلى إنهاء هذا التقرير بحلول الغد.",
-      "pronunciation": "Ahtaj ila inhā' hādhā al-taqrīr biḥulūl al-ghad.",
-      "context": "Use this when discussing deadlines for work tasks."
+      "english": "This shirt is a beautiful blue color.",
+      "arabic": "هذه القميص لونها أزرق جميل.",
+      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
+      "context": "Use this when complimenting someone's clothing."
     },
     {
-      "english": "Can you please send me the meeting agenda?",
-      "arabic": "هل يمكنك فضلاً إرسال جدول أعمال الاجتماع إلي؟",
-      "pronunciation": "Hal yumkinuka faḍlan irsāl jadwal aʿmāl al-ijtimāʿ ilayya?",
-      "context": "Ask for information needed before a meeting."
+      "english": "I like the red car parked over there.",
+      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
+      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
+      "context": "Use this to point out a specific item with a color."
     },
     {
-      "english": "I have a business meeting at ten o'clock.",
-      "arabic": "لدي اجتماع عمل في تمام الساعة العاشرة.",
-      "pronunciation": "Ladaiy ijtimāʿ ʿamal fī tamām al-sāʿah al-ʿāshirah.",
-      "context": "Inform someone about your scheduled work appointments."
+      "english": "The sky is very clear and white today.",
+      "arabic": "السماء صافية جداً وبيضاء اليوم.",
+      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
+      "context": "Use this to describe the weather or a natural scene."
     },
     {
-      "english": "Where is the nearest post office?",
-      "arabic": "أين أقرب مكتب بريد؟",
-      "pronunciation": "Aina aqrab maktab barīd?",
-      "context": "Ask for directions to a common business-related service."
+      "english": "She has long, black hair.",
+      "arabic": "لديها شعر طويل وأسود.",
+      "pronunciation": "Ladayha sha'r taweel wa aswad.",
+      "context": "Use this to describe a person's physical appearance."
     },
     {
-      "english": "I would like to book a flight to Dubai.",
-      "arabic": "أود حجز رحلة طيران إلى دبي.",
-      "pronunciation": "Awad ḥajz riḥlat ṭayarān ilā Dubay.",
-      "context": "Use this when arranging business travel."
+      "english": "This green apple looks very fresh.",
+      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
+      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
+      "context": "Use this when commenting on the appearance of food."
     }
   ],
   "total": 5
