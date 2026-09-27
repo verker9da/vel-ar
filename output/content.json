@@ -1,35 +1,35 @@
 {
-  "category": "الطعام والطعام",
+  "category": "الطقس",
   "phrases": [
     {
-      "english": "I would like to order a falafel sandwich, please.",
-      "arabic": "أود أن أطلب ساندويتش فلافل من فضلك.",
-      "pronunciation": "Awood an atlub sandwich falafel min fadlak.",
-      "context": "Use this when ordering food at a restaurant or cafe."
+      "english": "What is the weather like today?",
+      "arabic": "كيف حال الطقس اليوم؟",
+      "pronunciation": "Kayfa hal al-taqsu al-yawm?",
+      "context": "Use this to ask about the general weather conditions for the current day."
     },
     {
-      "english": "This meal is delicious, thank you.",
-      "arabic": "هذه الوجبة لذيذة جداً، شكراً لك.",
-      "pronunciation": "Hadhihi al-wajbah latheethah jiddan, shukran lak.",
-      "context": "Say this to compliment the cook or server on the food."
+      "english": "It is very hot outside.",
+      "arabic": "الجو حار جداً في الخارج.",
+      "pronunciation": "Al-jawwu harun jiddan fil-kharij.",
+      "context": "Use this when the temperature is uncomfortably high."
     },
     {
-      "english": "Do you have any vegetarian options?",
-      "arabic": "هل لديكم أي خيارات نباتية؟",
-      "pronunciation": "Hal ladaykum ay khiyarat nabatiyyah?",
-      "context": "Ask this if you follow a vegetarian diet."
+      "english": "It is raining heavily right now.",
+      "arabic": "إنها تمطر بغزارة الآن.",
+      "pronunciation": "Innaha tumtiru bi-ghazaratin al-aan.",
+      "context": "Use this to describe significant rainfall occurring at the present moment."
     },
     {
-      "english": "Can I have the bill, please?",
-      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
-      "pronunciation": "Hal yumkinuni al-husool ala al-faturah, min fadlak?",
-      "context": "Use this when you are ready to pay after your meal."
+      "english": "I hope it will be sunny tomorrow.",
+      "arabic": "آمل أن يكون الجو مشمساً غداً.",
+      "pronunciation": "Aamulu an yakuna al-jawwu mushmisan ghadan.",
+      "context": "Use this to express a wish for clear, sunny weather on the following day."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "أنا لدي حساسية من الفول السوداني.",
-      "pronunciation": "Ana laday hassasiyyah min al-foul as-sudani.",
-      "context": "Inform your server about any food allergies you have."
+      "english": "There is a strong wind today.",
+      "arabic": "هناك رياح قوية اليوم.",
+      "pronunciation": "Hunaka riyahun qawiyyatun al-yawm.",
+      "context": "Use this when the wind is noticeably forceful."
     }
   ],
   "total": 5
