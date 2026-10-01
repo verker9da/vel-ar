@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "الحكمة",
   "phrases": [
     {
-      "english": "I need to finish this report by tomorrow.",
-      "arabic": "أحتاج إلى إنهاء هذا التقرير بحلول الغد.",
-      "pronunciation": "Ahtaj ila inhā' hādhā al-taqrīr biḥulūl al-ghad.",
-      "context": "Use this when discussing deadlines for work tasks."
+      "english": "Patience is the key to success.",
+      "arabic": "الصبر مفتاح الفرج.",
+      "pronunciation": "As-sabru miftaahu al-faraj.",
+      "context": "Use this when encouraging someone to persevere through a difficult situation."
     },
     {
-      "english": "Can you please send me the meeting agenda?",
-      "arabic": "هل يمكنك فضلاً إرسال جدول أعمال الاجتماع إلي؟",
-      "pronunciation": "Hal yumkinuka faḍlan irsāl jadwal aʿmāl al-ijtimāʿ ilayya?",
-      "context": "Ask for information needed before a meeting."
+      "english": "There is no power and no strength except with God.",
+      "arabic": "لا حول ولا قوة إلا بالله.",
+      "pronunciation": "La hawla wa la quwwata illa billah.",
+      "context": "Say this when facing a challenge that feels overwhelming or beyond your control."
     },
     {
-      "english": "I have a business meeting at ten o'clock.",
-      "arabic": "لدي اجتماع عمل في تمام الساعة العاشرة.",
-      "pronunciation": "Ladaiy ijtimāʿ ʿamal fī tamām al-sāʿah al-ʿāshirah.",
-      "context": "Inform someone about your scheduled work appointments."
+      "english": "Everything happens for a reason.",
+      "arabic": "كل شيء يحدث لسبب.",
+      "pronunciation": "Kullu shay'in yahduthu li sabab.",
+      "context": "Use this to find comfort and meaning after an unexpected or unfortunate event."
     },
     {
-      "english": "Where is the nearest post office?",
-      "arabic": "أين أقرب مكتب بريد؟",
-      "pronunciation": "Aina aqrab maktab barīd?",
-      "context": "Ask for directions to a common business-related service."
+      "english": "Seek knowledge from the cradle to the grave.",
+      "arabic": "اطلبوا العلم من المهد إلى اللحد.",
+      "pronunciation": "Utlubu al-'ilma min al-mahd ila al-lahd.",
+      "context": "This phrase emphasizes the lifelong importance of learning and education."
     },
     {
-      "english": "I would like to book a flight to Dubai.",
-      "arabic": "أود حجز رحلة طيران إلى دبي.",
-      "pronunciation": "Awad ḥajz riḥlat ṭayarān ilā Dubay.",
-      "context": "Use this when arranging business travel."
+      "english": "Actions speak louder than words.",
+      "arabic": "الأفعال أبلغ من الأقوال.",
+      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
+      "context": "Use this to highlight the importance of deeds over mere promises or talk."
     }
   ],
   "total": 5
