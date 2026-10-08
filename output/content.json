@@ -1,35 +1,35 @@
 {
-  "category": "الأرقام والوقت",
+  "category": "العواطف والمشاعر",
   "phrases": [
     {
-      "english": "What time is it?",
-      "arabic": "كم الساعة الآن؟",
-      "pronunciation": "Kam as-saa'ah al-aan?",
-      "context": "Used to ask for the current time."
+      "english": "I am very happy today because the weather is beautiful.",
+      "arabic": "أنا سعيد جداً اليوم لأن الجو جميل.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-jaw jameel.",
+      "context": "Use this when expressing joy about something positive in your life."
     },
     {
-      "english": "It is three o'clock.",
-      "arabic": "إنها الساعة الثالثة.",
-      "pronunciation": "Innaha as-saa'ah ath-thaalithah.",
-      "context": "Used to state the current time."
+      "english": "He looks sad because he lost his keys.",
+      "arabic": "يبدو حزيناً لأنه فقد مفاتيحه.",
+      "pronunciation": "Yabdoo hazeenan li'annahu faqada mafateehahu.",
+      "context": "Use this to describe someone else's apparent sadness."
     },
     {
-      "english": "I need five apples, please.",
-      "arabic": "أحتاج خمس تفاحات من فضلك.",
-      "pronunciation": "Ahtaaju khams tuffaahaat min fadlik.",
-      "context": "Used when buying or requesting a specific quantity of items."
+      "english": "She is angry because the train is late.",
+      "arabic": "هي غاضبة لأن القطار متأخر.",
+      "pronunciation": "Hiya ghadibah li'anna al-qitar muta'akhkhir.",
+      "context": "Use this to explain why someone is feeling anger."
     },
     {
-      "english": "My phone number is nine eight seven six five four three two one zero.",
-      "arabic": "رقم هاتفي هو تسعة ثمانية سبعة ستة خمسة أربعة ثلاثة اثنان واحد صفر.",
-      "pronunciation": "Raqmu haatifi huwa tis'ah thamaaniyah sab'ah sittah khamsah arba'ah thalaathah ithnaan waahid sifr.",
-      "context": "Used to share your phone number."
+      "english": "I feel tired after a long day at work.",
+      "arabic": "أشعر بالتعب بعد يوم طويل في العمل.",
+      "pronunciation": "Ash'ur bil-ta'ab ba'da yawm taweel fil-'amal.",
+      "context": "Use this to describe your own feeling of fatigue."
     },
     {
-      "english": "The meeting is at ten thirty in the morning.",
-      "arabic": "الاجتماع الساعة العاشرة والنصف صباحاً.",
-      "pronunciation": "Al-ijtimaa' as-saa'ah al-'aashirah wan-nisfa sabahan.",
-      "context": "Used to specify a time for an event."
+      "english": "Are you excited about your upcoming trip to Egypt?",
+      "arabic": "هل أنت متحمس لرحلتك القادمة إلى مصر؟",
+      "pronunciation": "Hal anta mutahammis li-rihlatik al-qadimah ila Misr?",
+      "context": "Use this to inquire about someone's anticipation for an event."
     }
   ],
   "total": 5
