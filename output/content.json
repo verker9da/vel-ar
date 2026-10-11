@@ -1,35 +1,35 @@
 {
-  "category": "الألوان والأوصاف",
+  "category": "الصحة والجسد",
   "phrases": [
     {
-      "english": "This shirt is a beautiful blue color.",
-      "arabic": "هذه القميص لونها أزرق جميل.",
-      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
-      "context": "Use this when complimenting someone's clothing."
+      "english": "I feel very tired today.",
+      "arabic": "أشعر بالتعب الشديد اليوم.",
+      "pronunciation": "Ash'uru bil-ta'ab al-shadeed al-yawm.",
+      "context": "Use this when you are feeling exhausted."
     },
     {
-      "english": "I like the red car parked over there.",
-      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
-      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
-      "context": "Use this to point out a specific item with a color."
+      "english": "My head hurts a lot.",
+      "arabic": "رأسي يؤلمني كثيراً.",
+      "pronunciation": "Ra'si yu'limuni katheeran.",
+      "context": "Say this when experiencing a strong headache."
     },
     {
-      "english": "The sky is very clear and white today.",
-      "arabic": "السماء صافية جداً وبيضاء اليوم.",
-      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
-      "context": "Use this to describe the weather or a natural scene."
+      "english": "I need to drink more water.",
+      "arabic": "أحتاج لشرب المزيد من الماء.",
+      "pronunciation": "Ahtaju lishurb al-mazeed min al-maa'.",
+      "context": "Use this to express a need for hydration."
     },
     {
-      "english": "She has long, black hair.",
-      "arabic": "لديها شعر طويل وأسود.",
-      "pronunciation": "Ladayha sha'r taweel wa aswad.",
-      "context": "Use this to describe a person's physical appearance."
+      "english": "I am allergic to cats.",
+      "arabic": "أنا لدي حساسية من القطط.",
+      "pronunciation": "Ana ladaiya hasasiyah min al-qitat.",
+      "context": "Inform someone about a specific allergy."
     },
     {
-      "english": "This green apple looks very fresh.",
-      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
-      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
-      "context": "Use this when commenting on the appearance of food."
+      "english": "I want to eat something healthy.",
+      "arabic": "أريد أن آكل شيئاً صحياً.",
+      "pronunciation": "Ureed an aakul shay'an sihiyan.",
+      "context": "Use this when you are looking for nutritious food."
     }
   ],
   "total": 5
