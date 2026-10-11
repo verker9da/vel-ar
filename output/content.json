@@ -1,35 +1,35 @@
 {
-  "category": "الطقس",
+  "category": "الألوان والأوصاف",
   "phrases": [
     {
-      "english": "What is the weather like today?",
-      "arabic": "كيف حال الطقس اليوم؟",
-      "pronunciation": "Kayfa hal al-taqsu al-yawm?",
-      "context": "Use this to ask about the general weather conditions for the current day."
+      "english": "This shirt is a beautiful blue color.",
+      "arabic": "هذه القميص لونها أزرق جميل.",
+      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
+      "context": "Use this when complimenting someone's clothing."
     },
     {
-      "english": "It is very hot outside.",
-      "arabic": "الجو حار جداً في الخارج.",
-      "pronunciation": "Al-jawwu harun jiddan fil-kharij.",
-      "context": "Use this when the temperature is uncomfortably high."
+      "english": "I like the red car parked over there.",
+      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
+      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
+      "context": "Use this to point out a specific item with a color."
     },
     {
-      "english": "It is raining heavily right now.",
-      "arabic": "إنها تمطر بغزارة الآن.",
-      "pronunciation": "Innaha tumtiru bi-ghazaratin al-aan.",
-      "context": "Use this to describe significant rainfall occurring at the present moment."
+      "english": "The sky is very clear and white today.",
+      "arabic": "السماء صافية جداً وبيضاء اليوم.",
+      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
+      "context": "Use this to describe the weather or a natural scene."
     },
     {
-      "english": "I hope it will be sunny tomorrow.",
-      "arabic": "آمل أن يكون الجو مشمساً غداً.",
-      "pronunciation": "Aamulu an yakuna al-jawwu mushmisan ghadan.",
-      "context": "Use this to express a wish for clear, sunny weather on the following day."
+      "english": "She has long, black hair.",
+      "arabic": "لديها شعر طويل وأسود.",
+      "pronunciation": "Ladayha sha'r taweel wa aswad.",
+      "context": "Use this to describe a person's physical appearance."
     },
     {
-      "english": "There is a strong wind today.",
-      "arabic": "هناك رياح قوية اليوم.",
-      "pronunciation": "Hunaka riyahun qawiyyatun al-yawm.",
-      "context": "Use this when the wind is noticeably forceful."
+      "english": "This green apple looks very fresh.",
+      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
+      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
+      "context": "Use this when commenting on the appearance of food."
     }
   ],
   "total": 5
