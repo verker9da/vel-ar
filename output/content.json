@@ -1,35 +1,35 @@
 {
-  "category": "الاتجاهات",
+  "category": "الأرقام والوقت",
   "phrases": [
     {
-      "english": "Excuse me, where is the nearest restroom?",
-      "arabic": "عفواً، أين أقرب حمام؟",
-      "pronunciation": "Afwan, ayna aqrab hammam?",
-      "context": "Use this to find a bathroom when you are out and about."
+      "english": "What time is it?",
+      "arabic": "كم الساعة الآن؟",
+      "pronunciation": "Kam as-saa'ah al-aan?",
+      "context": "Used to ask for the current time."
     },
     {
-      "english": "How do I get to the central market?",
-      "arabic": "كيف أصل إلى السوق المركزي؟",
-      "pronunciation": "Kayfa asil ila as-souq al-markazi?",
-      "context": "Ask this when you want directions to a specific location like a market."
+      "english": "It is three o'clock.",
+      "arabic": "إنها الساعة الثالثة.",
+      "pronunciation": "Innaha as-saa'ah ath-thaalithah.",
+      "context": "Used to state the current time."
     },
     {
-      "english": "Turn left at the next corner, please.",
-      "arabic": "انعطف يساراً عند الزاوية التالية، من فضلك.",
-      "pronunciation": "In'atif yasaran 'ind az-zawiyah at-taliyah, min fadlik.",
-      "context": "This is a common response when someone gives you directions."
+      "english": "I need five apples, please.",
+      "arabic": "أحتاج خمس تفاحات من فضلك.",
+      "pronunciation": "Ahtaaju khams tuffaahaat min fadlik.",
+      "context": "Used when buying or requesting a specific quantity of items."
     },
     {
-      "english": "Is it far from here?",
-      "arabic": "هل هو بعيد من هنا؟",
-      "pronunciation": "Hal huwa ba'eed min huna?",
-      "context": "Inquire about the distance to a place you are trying to reach."
+      "english": "My phone number is nine eight seven six five four three two one zero.",
+      "arabic": "رقم هاتفي هو تسعة ثمانية سبعة ستة خمسة أربعة ثلاثة اثنان واحد صفر.",
+      "pronunciation": "Raqmu haatifi huwa tis'ah thamaaniyah sab'ah sittah khamsah arba'ah thalaathah ithnaan waahid sifr.",
+      "context": "Used to share your phone number."
     },
     {
-      "english": "Can you show me on the map?",
-      "arabic": "هل يمكنك أن تريني على الخريطة؟",
-      "pronunciation": "Hal yumkinuka an turini 'ala al-khareetah?",
-      "context": "Request visual assistance with directions if you have a map."
+      "english": "The meeting is at ten thirty in the morning.",
+      "arabic": "الاجتماع الساعة العاشرة والنصف صباحاً.",
+      "pronunciation": "Al-ijtimaa' as-saa'ah al-'aashirah wan-nisfa sabahan.",
+      "context": "Used to specify a time for an event."
     }
   ],
   "total": 5
