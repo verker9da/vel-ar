@@ -21,10 +21,43 @@ ARABIC_VOICE = "ar-SA-HamedNeural"  # Male Arabic voice (Saudi Arabia)
 # ar-AE-HamdanNeural (Male, UAE)
 
 
+def configure_edge_tts():
+    """Ensure edge_tts connects to Microsoft's active endpoint to avoid 403 on cloud runners."""
+    try:
+        import edge_tts.constants
+        import edge_tts.communicate
+        token = getattr(edge_tts.constants, "TRUSTED_CLIENT_TOKEN", "6A5AA1D4EAFF4E9FB37E23D68491D6F4")
+        new_url = (
+            "wss://api.msedgeservices.com/tts/cognitiveservices/websocket/v1"
+            f"?Ocp-Apim-Subscription-Key={token}"
+        )
+        edge_tts.constants.WSS_URL = new_url
+        edge_tts.communicate.WSS_URL = new_url
+    except Exception:
+        pass
+
+
 async def generate_single_audio(text: str, voice: str, output_path: str):
-    """Generate audio for a single text using specified voice"""
-    communicate = edge_tts.Communicate(text, voice)
-    await communicate.save(output_path)
+    """Generate audio for a single text using specified voice with active endpoint and retry"""
+    configure_edge_tts()
+    for attempt in range(3):
+        try:
+            communicate = edge_tts.Communicate(text, voice)
+            await communicate.save(output_path)
+            out = Path(output_path)
+            if out.exists() and out.stat().st_size > 200:
+                return
+        except Exception as e:
+            print(f"  TTS attempt {attempt + 1} error: {e}")
+            await asyncio.sleep(1)
+
+    try:
+        from gtts import gTTS
+        lang = "ar" if "ar" in voice.lower() else "en"
+        tts = gTTS(text=text, lang=lang)
+        tts.save(output_path)
+    except Exception:
+        pass
 
 
 def get_audio_duration(audio_file: str) -> float:
