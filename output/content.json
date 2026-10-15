@@ -1,35 +1,35 @@
 {
-  "category": "الاتجاهات",
+  "category": "الدافع",
   "phrases": [
     {
-      "english": "Excuse me, where is the nearest restroom?",
-      "arabic": "عفواً، أين أقرب حمام؟",
-      "pronunciation": "Afwan, ayna aqrab hammam?",
-      "context": "Use this to find a bathroom when you are out and about."
+      "english": "I want to learn Arabic because it's a beautiful language.",
+      "arabic": "أريد أن أتعلم اللغة العربية لأنها لغة جميلة.",
+      "pronunciation": "Ureed an ata'allam al-lughah al-'arabiyyah li'annaha lughah jameelah.",
+      "context": "Expressing your motivation for studying Arabic."
     },
     {
-      "english": "How do I get to the central market?",
-      "arabic": "كيف أصل إلى السوق المركزي؟",
-      "pronunciation": "Kayfa asil ila as-souq al-markazi?",
-      "context": "Ask this when you want directions to a specific location like a market."
+      "english": "I am practicing speaking Arabic every day.",
+      "arabic": "أنا أتدرب على التحدث باللغة العربية كل يوم.",
+      "pronunciation": "Ana atadarrab 'ala al-tahadduth bil-lughah al-'arabiyyah kull yawm.",
+      "context": "Describing your commitment to improving your Arabic speaking skills."
     },
     {
-      "english": "Turn left at the next corner, please.",
-      "arabic": "انعطف يساراً عند الزاوية التالية، من فضلك.",
-      "pronunciation": "In'atif yasaran 'ind az-zawiyah at-taliyah, min fadlik.",
-      "context": "This is a common response when someone gives you directions."
+      "english": "This book is very helpful for my Arabic studies.",
+      "arabic": "هذا الكتاب مفيد جداً لدراستي العربية.",
+      "pronunciation": "Hatha al-kitab mufeed jiddan li-dirasati al-'arabiyyah.",
+      "context": "Recommending a resource or acknowledging its usefulness in your learning journey."
     },
     {
-      "english": "Is it far from here?",
-      "arabic": "هل هو بعيد من هنا؟",
-      "pronunciation": "Hal huwa ba'eed min huna?",
-      "context": "Inquire about the distance to a place you are trying to reach."
+      "english": "I hope to become fluent in Arabic soon.",
+      "arabic": "آمل أن أتقن اللغة العربية قريباً.",
+      "pronunciation": "A'mal an utqin al-lughah al-'arabiyyah qareeban.",
+      "context": "Sharing your future goals and aspirations for learning Arabic."
     },
     {
-      "english": "Can you show me on the map?",
-      "arabic": "هل يمكنك أن تريني على الخريطة؟",
-      "pronunciation": "Hal yumkinuka an turini 'ala al-khareetah?",
-      "context": "Request visual assistance with directions if you have a map."
+      "english": "Learning Arabic opens up new cultural experiences for me.",
+      "arabic": "تعلم اللغة العربية يفتح لي تجارب ثقافية جديدة.",
+      "pronunciation": "Ta'allum al-lughah al-'arabiyyah yaftah li tajareeb thaqafiyyah jadeedah.",
+      "context": "Highlighting the broader benefits and opportunities that come with learning Arabic."
     }
   ],
   "total": 5
