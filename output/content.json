@@ -1,35 +1,35 @@
 {
-  "category": "الهوايات والأنشطة",
+  "category": "الحب",
   "phrases": [
     {
-      "english": "I enjoy reading books in my free time.",
-      "arabic": "أستمتع بقراءة الكتب في وقت فراغي.",
-      "pronunciation": "Astamti' bi qira'ati al-kutubi fi waqti faraaghi.",
-      "context": "Use this to talk about your hobby of reading."
+      "english": "I love you very much.",
+      "arabic": "أنا أحبك كثيراً.",
+      "pronunciation": "Ana uhibbuka katheeran (to male) / Ana uhibbuki katheeran (to female)",
+      "context": "Used to express deep affection towards someone."
     },
     {
-      "english": "My favorite hobby is playing football with my friends.",
-      "arabic": "هوايتي المفضلة هي لعب كرة القدم مع أصدقائي.",
-      "pronunciation": "Hawayati al-mufaddalah hiya la'ibu kurati al-qadami ma'a asdiqa'i.",
-      "context": "Share your main hobby, specifically playing football."
+      "english": "You are so beautiful.",
+      "arabic": "أنتِ جميلة جداً.",
+      "pronunciation": "Anti jameela jiddan (to female)",
+      "context": "A compliment used to describe someone's appearance."
     },
     {
-      "english": "I love to travel to new places and explore different cultures.",
-      "arabic": "أحب السفر إلى أماكن جديدة واستكشاف ثقافات مختلفة.",
-      "pronunciation": "Uhibbu as-safara ila amakinin jadidatin wa istikshafi thaqafatin mukhtalifah.",
-      "context": "Describe your passion for travel and cultural exploration."
+      "english": "My heart belongs to you.",
+      "arabic": "قلبي ملكك.",
+      "pronunciation": "Qalbi milkuk.",
+      "context": "A poetic way to express devotion and deep emotional connection."
     },
     {
-      "english": "On weekends, I usually go hiking in the mountains.",
-      "arabic": "في عطلات نهاية الأسبوع، أذهب عادةً للتنزه في الجبال.",
-      "pronunciation": "Fi 'utlati nihayati al-usbu', adhhabu 'aadatan lit-tanazzuhi fil-jibaal.",
-      "context": "Explain your typical weekend activity of hiking."
+      "english": "I miss you a lot.",
+      "arabic": "أفتقدك كثيراً.",
+      "pronunciation": "Aftaqiduka katheeran (to male) / Aftaqiduki katheeran (to female)",
+      "context": "Said when you are not with someone you care about and feel their absence."
     },
     {
-      "english": "I spend my evenings learning to play the guitar.",
-      "arabic": "أقضي أمسياتي في تعلم العزف على الجيتار.",
-      "pronunciation": "Aqdi umsiyati fi ta'allumi al-'azfi 'ala al-jitaar.",
-      "context": "Talk about your evening hobby of learning the guitar."
+      "english": "Our love is eternal.",
+      "arabic": "حبنا أبدي.",
+      "pronunciation": "Hubbuna abadi.",
+      "context": "Expresses a belief in the lasting nature of a romantic relationship."
     }
   ],
   "total": 5
