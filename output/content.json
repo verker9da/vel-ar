@@ -1,35 +1,35 @@
 {
-  "category": "الألوان والأوصاف",
+  "category": "التسوق",
   "phrases": [
     {
-      "english": "This shirt is a beautiful blue color.",
-      "arabic": "هذه القميص لونها أزرق جميل.",
-      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
-      "context": "Use this when complimenting someone's clothing."
+      "english": "How much does this cost?",
+      "arabic": "بكم هذا؟",
+      "pronunciation": "Bikam hatha?",
+      "context": "Use this to ask for the price of an item."
     },
     {
-      "english": "I like the red car parked over there.",
-      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
-      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
-      "context": "Use this to point out a specific item with a color."
+      "english": "I would like to buy this shirt.",
+      "arabic": "أريد أن أشتري هذه القميص.",
+      "pronunciation": "Ureed an ashtari hathihi al-qamees.",
+      "context": "Use this when you decide to purchase an item."
     },
     {
-      "english": "The sky is very clear and white today.",
-      "arabic": "السماء صافية جداً وبيضاء اليوم.",
-      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
-      "context": "Use this to describe the weather or a natural scene."
+      "english": "Do you have this in a different size?",
+      "arabic": "هل لديكم هذا بمقاس مختلف؟",
+      "pronunciation": "Hal ladaykum hatha bimqas mukhtalif?",
+      "context": "Use this when the current size doesn't fit."
     },
     {
-      "english": "She has long, black hair.",
-      "arabic": "لديها شعر طويل وأسود.",
-      "pronunciation": "Ladayha sha'r taweel wa aswad.",
-      "context": "Use this to describe a person's physical appearance."
+      "english": "Can I pay with a credit card?",
+      "arabic": "هل يمكنني الدفع ببطاقة ائتمان؟",
+      "pronunciation": "Hal yumkinuni ad-daf' bi-bitaqat i'timan?",
+      "context": "Use this to inquire about payment methods."
     },
     {
-      "english": "This green apple looks very fresh.",
-      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
-      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
-      "context": "Use this when commenting on the appearance of food."
+      "english": "Thank you for your help.",
+      "arabic": "شكراً لمساعدتك.",
+      "pronunciation": "Shukran limusa'adatik.",
+      "context": "Use this to express gratitude after a transaction."
     }
   ],
   "total": 5
