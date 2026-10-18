@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Use this to express gratitude after someone assists you."
+      "english": "My mother is a doctor.",
+      "arabic": "أمي طبيبة.",
+      "pronunciation": "Ummi tabeeba.",
+      "context": "Use this to describe your mother's profession."
     },
     {
-      "english": "Can you please repeat that for me?",
-      "arabic": "هل يمكنك تكرار ذلك لي من فضلك؟",
-      "pronunciation": "Hal yumkinuka tikrar thalik li min fadlik?",
-      "context": "Employ this when you didn't understand something and need it said again."
+      "english": "My father works in a bank.",
+      "arabic": "أبي يعمل في البنك.",
+      "pronunciation": "Abi ya'mal fil bank.",
+      "context": "Use this to describe your father's place of work."
     },
     {
-      "english": "I would like to order a cup of coffee.",
-      "arabic": "أود أن أطلب كوباً من القهوة.",
-      "pronunciation": "Awaddu an atlub kooban min al-qahwa.",
-      "context": "Use this common phrase when ordering drinks at a café."
+      "english": "I have one sister and two brothers.",
+      "arabic": "لدي أخت واحدة وأخوان اثنان.",
+      "pronunciation": "Ladai ukht wahida wa akhwan ithnan.",
+      "context": "Use this to state the number of siblings you have."
     },
     {
-      "english": "Excuse me, where is the nearest bathroom?",
-      "arabic": "عفواً، أين الحمام الأقرب؟",
-      "pronunciation": "'Afwan, ayna al-hammam al-aqrab?",
-      "context": "This is a polite way to ask for directions to a restroom."
+      "english": "This is my husband.",
+      "arabic": "هذا زوجي.",
+      "pronunciation": "Hatha zawji.",
+      "context": "Use this when introducing your husband to someone."
     },
     {
-      "english": "I don't understand this word at all.",
-      "arabic": "أنا لا أفهم هذه الكلمة على الإطلاق.",
-      "pronunciation": "Ana la afham hathihi al-kalimah 'ala al-itlaq.",
-      "context": "Say this when you are completely unable to comprehend a specific term."
+      "english": "My children are very smart.",
+      "arabic": "أطفالي أذكياء جداً.",
+      "pronunciation": "Atfali athkiya' jiddan.",
+      "context": "Use this to express pride in your children's intelligence."
     }
   ],
   "total": 5
