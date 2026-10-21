@@ -1,35 +1,35 @@
 {
-  "category": "الألوان والأوصاف",
+  "category": "الهوايات والأنشطة",
   "phrases": [
     {
-      "english": "This shirt is a beautiful blue color.",
-      "arabic": "هذه القميص لونها أزرق جميل.",
-      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
-      "context": "Use this when complimenting someone's clothing."
+      "english": "I enjoy reading books in my free time.",
+      "arabic": "أستمتع بقراءة الكتب في وقت فراغي.",
+      "pronunciation": "Astamti' bi qira'ati al-kutubi fi waqti faraaghi.",
+      "context": "Use this to talk about your hobby of reading."
     },
     {
-      "english": "I like the red car parked over there.",
-      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
-      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
-      "context": "Use this to point out a specific item with a color."
+      "english": "My favorite hobby is playing football with my friends.",
+      "arabic": "هوايتي المفضلة هي لعب كرة القدم مع أصدقائي.",
+      "pronunciation": "Hawayati al-mufaddalah hiya la'ibu kurati al-qadami ma'a asdiqa'i.",
+      "context": "Share your main hobby, specifically playing football."
     },
     {
-      "english": "The sky is very clear and white today.",
-      "arabic": "السماء صافية جداً وبيضاء اليوم.",
-      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
-      "context": "Use this to describe the weather or a natural scene."
+      "english": "I love to travel to new places and explore different cultures.",
+      "arabic": "أحب السفر إلى أماكن جديدة واستكشاف ثقافات مختلفة.",
+      "pronunciation": "Uhibbu as-safara ila amakinin jadidatin wa istikshafi thaqafatin mukhtalifah.",
+      "context": "Describe your passion for travel and cultural exploration."
     },
     {
-      "english": "She has long, black hair.",
-      "arabic": "لديها شعر طويل وأسود.",
-      "pronunciation": "Ladayha sha'r taweel wa aswad.",
-      "context": "Use this to describe a person's physical appearance."
+      "english": "On weekends, I usually go hiking in the mountains.",
+      "arabic": "في عطلات نهاية الأسبوع، أذهب عادةً للتنزه في الجبال.",
+      "pronunciation": "Fi 'utlati nihayati al-usbu', adhhabu 'aadatan lit-tanazzuhi fil-jibaal.",
+      "context": "Explain your typical weekend activity of hiking."
     },
     {
-      "english": "This green apple looks very fresh.",
-      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
-      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
-      "context": "Use this when commenting on the appearance of food."
+      "english": "I spend my evenings learning to play the guitar.",
+      "arabic": "أقضي أمسياتي في تعلم العزف على الجيتار.",
+      "pronunciation": "Aqdi umsiyati fi ta'allumi al-'azfi 'ala al-jitaar.",
+      "context": "Talk about your evening hobby of learning the guitar."
     }
   ],
   "total": 5
