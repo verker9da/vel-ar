@@ -1,35 +1,35 @@
 {
-  "category": "الأرقام والوقت",
+  "category": "الدافع",
   "phrases": [
     {
-      "english": "What time is it?",
-      "arabic": "كم الساعة الآن؟",
-      "pronunciation": "Kam as-saa'ah al-aan?",
-      "context": "Used to ask for the current time."
+      "english": "I want to learn Arabic because it's a beautiful language.",
+      "arabic": "أريد أن أتعلم اللغة العربية لأنها لغة جميلة.",
+      "pronunciation": "Ureed an ata'allam al-lughah al-'arabiyyah li'annaha lughah jameelah.",
+      "context": "Expressing your motivation for studying Arabic."
     },
     {
-      "english": "It is three o'clock.",
-      "arabic": "إنها الساعة الثالثة.",
-      "pronunciation": "Innaha as-saa'ah ath-thaalithah.",
-      "context": "Used to state the current time."
+      "english": "I am practicing speaking Arabic every day.",
+      "arabic": "أنا أتدرب على التحدث باللغة العربية كل يوم.",
+      "pronunciation": "Ana atadarrab 'ala al-tahadduth bil-lughah al-'arabiyyah kull yawm.",
+      "context": "Describing your commitment to improving your Arabic speaking skills."
     },
     {
-      "english": "I need five apples, please.",
-      "arabic": "أحتاج خمس تفاحات من فضلك.",
-      "pronunciation": "Ahtaaju khams tuffaahaat min fadlik.",
-      "context": "Used when buying or requesting a specific quantity of items."
+      "english": "This book is very helpful for my Arabic studies.",
+      "arabic": "هذا الكتاب مفيد جداً لدراستي العربية.",
+      "pronunciation": "Hatha al-kitab mufeed jiddan li-dirasati al-'arabiyyah.",
+      "context": "Recommending a resource or acknowledging its usefulness in your learning journey."
     },
     {
-      "english": "My phone number is nine eight seven six five four three two one zero.",
-      "arabic": "رقم هاتفي هو تسعة ثمانية سبعة ستة خمسة أربعة ثلاثة اثنان واحد صفر.",
-      "pronunciation": "Raqmu haatifi huwa tis'ah thamaaniyah sab'ah sittah khamsah arba'ah thalaathah ithnaan waahid sifr.",
-      "context": "Used to share your phone number."
+      "english": "I hope to become fluent in Arabic soon.",
+      "arabic": "آمل أن أتقن اللغة العربية قريباً.",
+      "pronunciation": "A'mal an utqin al-lughah al-'arabiyyah qareeban.",
+      "context": "Sharing your future goals and aspirations for learning Arabic."
     },
     {
-      "english": "The meeting is at ten thirty in the morning.",
-      "arabic": "الاجتماع الساعة العاشرة والنصف صباحاً.",
-      "pronunciation": "Al-ijtimaa' as-saa'ah al-'aashirah wan-nisfa sabahan.",
-      "context": "Used to specify a time for an event."
+      "english": "Learning Arabic opens up new cultural experiences for me.",
+      "arabic": "تعلم اللغة العربية يفتح لي تجارب ثقافية جديدة.",
+      "pronunciation": "Ta'allum al-lughah al-'arabiyyah yaftah li tajareeb thaqafiyyah jadeedah.",
+      "context": "Highlighting the broader benefits and opportunities that come with learning Arabic."
     }
   ],
   "total": 5
