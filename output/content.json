@@ -1,35 +1,35 @@
 {
-  "category": "الحيوانات",
+  "category": "الأرقام والوقت",
   "phrases": [
     {
-      "english": "I have a playful cat named Leo.",
-      "arabic": "لدي قطة لعوبة اسمها ليو.",
-      "pronunciation": "Ladai qittatun la'oobah ismuha Leo.",
-      "context": "Use this to introduce your pet cat."
+      "english": "What time is it?",
+      "arabic": "كم الساعة الآن؟",
+      "pronunciation": "Kam as-saa'ah al-aan?",
+      "context": "Used to ask for the current time."
     },
     {
-      "english": "My neighbor owns a very energetic dog.",
-      "arabic": "جاري يمتلك كلبًا نشيطًا جدًا.",
-      "pronunciation": "Jaree yamtaliku kalban nasheetan jiddan.",
-      "context": "Talk about a friend's or neighbor's dog."
+      "english": "It is three o'clock.",
+      "arabic": "إنها الساعة الثالثة.",
+      "pronunciation": "Innaha as-saa'ah ath-thaalithah.",
+      "context": "Used to state the current time."
     },
     {
-      "english": "I saw a beautiful bird in the garden.",
-      "arabic": "رأيت طائرًا جميلًا في الحديقة.",
-      "pronunciation": "Ra'aitu taa'iran jameelan fil hadiqah.",
-      "context": "Mention an animal you observed in nature."
+      "english": "I need five apples, please.",
+      "arabic": "أحتاج خمس تفاحات من فضلك.",
+      "pronunciation": "Ahtaaju khams tuffaahaat min fadlik.",
+      "context": "Used when buying or requesting a specific quantity of items."
     },
     {
-      "english": "The children love to feed the ducks at the park.",
-      "arabic": "يحب الأطفال إطعام البط في الحديقة.",
-      "pronunciation": "Yuhibbul atfal it'aam al-batt fil hadiqah.",
-      "context": "Describe a common activity involving animals."
+      "english": "My phone number is nine eight seven six five four three two one zero.",
+      "arabic": "رقم هاتفي هو تسعة ثمانية سبعة ستة خمسة أربعة ثلاثة اثنان واحد صفر.",
+      "pronunciation": "Raqmu haatifi huwa tis'ah thamaaniyah sab'ah sittah khamsah arba'ah thalaathah ithnaan waahid sifr.",
+      "context": "Used to share your phone number."
     },
     {
-      "english": "Be careful, there are many bees around the flowers.",
-      "arabic": "كن حذرًا، هناك الكثير من النحل حول الزهور.",
-      "pronunciation": "Kun hadhiran, hunaaka al-katheer min an-nahli hawl az-zuhour.",
-      "context": "Warn someone about the presence of insects."
+      "english": "The meeting is at ten thirty in the morning.",
+      "arabic": "الاجتماع الساعة العاشرة والنصف صباحاً.",
+      "pronunciation": "Al-ijtimaa' as-saa'ah al-'aashirah wan-nisfa sabahan.",
+      "context": "Used to specify a time for an event."
     }
   ],
   "total": 5
