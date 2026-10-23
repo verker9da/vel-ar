@@ -1,35 +1,35 @@
 {
-  "category": "الاتجاهات",
+  "category": "الألوان والأوصاف",
   "phrases": [
     {
-      "english": "Excuse me, where is the nearest restroom?",
-      "arabic": "عفواً، أين أقرب حمام؟",
-      "pronunciation": "Afwan, ayna aqrab hammam?",
-      "context": "Use this to find a bathroom when you are out and about."
+      "english": "This shirt is a beautiful blue color.",
+      "arabic": "هذه القميص لونها أزرق جميل.",
+      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
+      "context": "Use this when complimenting someone's clothing."
     },
     {
-      "english": "How do I get to the central market?",
-      "arabic": "كيف أصل إلى السوق المركزي؟",
-      "pronunciation": "Kayfa asil ila as-souq al-markazi?",
-      "context": "Ask this when you want directions to a specific location like a market."
+      "english": "I like the red car parked over there.",
+      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
+      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
+      "context": "Use this to point out a specific item with a color."
     },
     {
-      "english": "Turn left at the next corner, please.",
-      "arabic": "انعطف يساراً عند الزاوية التالية، من فضلك.",
-      "pronunciation": "In'atif yasaran 'ind az-zawiyah at-taliyah, min fadlik.",
-      "context": "This is a common response when someone gives you directions."
+      "english": "The sky is very clear and white today.",
+      "arabic": "السماء صافية جداً وبيضاء اليوم.",
+      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
+      "context": "Use this to describe the weather or a natural scene."
     },
     {
-      "english": "Is it far from here?",
-      "arabic": "هل هو بعيد من هنا؟",
-      "pronunciation": "Hal huwa ba'eed min huna?",
-      "context": "Inquire about the distance to a place you are trying to reach."
+      "english": "She has long, black hair.",
+      "arabic": "لديها شعر طويل وأسود.",
+      "pronunciation": "Ladayha sha'r taweel wa aswad.",
+      "context": "Use this to describe a person's physical appearance."
     },
     {
-      "english": "Can you show me on the map?",
-      "arabic": "هل يمكنك أن تريني على الخريطة؟",
-      "pronunciation": "Hal yumkinuka an turini 'ala al-khareetah?",
-      "context": "Request visual assistance with directions if you have a map."
+      "english": "This green apple looks very fresh.",
+      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
+      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
+      "context": "Use this when commenting on the appearance of food."
     }
   ],
   "total": 5
