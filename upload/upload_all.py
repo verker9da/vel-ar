@@ -5,6 +5,8 @@ Uploads generated Arabic learning videos to all configured platforms
 
 import os
 import sys
+import time
+import random
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -87,6 +89,13 @@ def generate_video_metadata(category_english, category_arabic, phrases):
     }
 
 
+
+def _anti_bot_pace():
+    """Natural pause between platform uploads to avoid burst bot detection"""
+    pace = random.randint(12, 25)
+    print(f"[*] Anti-bot pacing: waiting {pace}s before next platform upload...")
+    time.sleep(pace)
+
 def upload_to_all_platforms(video_path, metadata, platforms=None):
     """
     Upload video to all configured social media platforms
@@ -136,6 +145,7 @@ def upload_to_all_platforms(video_path, metadata, platforms=None):
             )
             results['youtube'] = {'status': 'success', 'result': result}
             print("✅ YouTube upload complete!")
+            _anti_bot_pace()
         except Exception as e:
             results['youtube'] = {'status': 'failed', 'error': str(e)}
             print(f"❌ YouTube upload failed: {e}")
@@ -151,6 +161,7 @@ def upload_to_all_platforms(video_path, metadata, platforms=None):
             )
             results['instagram'] = {'status': 'success', 'result': result}
             print("✅ Instagram upload complete!")
+            _anti_bot_pace()
         except Exception as e:
             results['instagram'] = {'status': 'failed', 'error': str(e)}
             print(f"❌ Instagram upload failed: {e}")
@@ -166,6 +177,7 @@ def upload_to_all_platforms(video_path, metadata, platforms=None):
             )
             results['facebook'] = {'status': 'success', 'result': result}
             print("✅ Facebook upload complete!")
+            _anti_bot_pace()
         except Exception as e:
             results['facebook'] = {'status': 'failed', 'error': str(e)}
             print(f"❌ Facebook upload failed: {e}")
@@ -178,6 +190,7 @@ def upload_to_all_platforms(video_path, metadata, platforms=None):
             )
             results['facebook_story'] = {'status': 'success', 'result': story_result}
             print("✅ Facebook Story upload complete!")
+            _anti_bot_pace()
         except Exception as e:
             results['facebook_story'] = {'status': 'failed', 'error': str(e)}
             print(f"❌ Facebook Story upload failed: {e}")
@@ -196,6 +209,7 @@ def upload_to_all_platforms(video_path, metadata, platforms=None):
             else:
                 results['telegram'] = {'status': 'success', 'result': result}
                 print("✅ Telegram upload complete!")
+            _anti_bot_pace()
         except Exception as e:
             results['telegram'] = {'status': 'failed', 'error': str(e)}
             print(f"❌ Telegram upload failed: {e}")
@@ -210,6 +224,7 @@ def upload_to_all_platforms(video_path, metadata, platforms=None):
             )
             results['tiktok'] = {'status': 'success', 'result': result}
             print("✅ TikTok upload complete!")
+            _anti_bot_pace()
         except Exception as e:
             results['tiktok'] = {'status': 'failed', 'error': str(e)}
             print(f"❌ TikTok upload failed: {e}")
@@ -224,6 +239,7 @@ def upload_to_all_platforms(video_path, metadata, platforms=None):
             )
             results['twitter'] = {'status': 'success', 'result': result}
             print("✅ Twitter upload complete!")
+            _anti_bot_pace()
         except Exception as e:
             results['twitter'] = {'status': 'failed', 'error': str(e)}
             print(f"❌ Twitter upload failed: {e}")
@@ -238,6 +254,7 @@ def upload_to_all_platforms(video_path, metadata, platforms=None):
             )
             results['vk'] = {'status': 'success', 'result': result}
             print("✅ VK upload complete!")
+            _anti_bot_pace()
         except Exception as e:
             results['vk'] = {'status': 'failed', 'error': str(e)}
             print(f"❌ VK upload failed: {e}")

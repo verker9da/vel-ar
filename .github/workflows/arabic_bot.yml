@@ -3,14 +3,18 @@ name: Arabic Learning Video Bot
 on:
   # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    - cron: '0 13 * * *'  # 8:00 AM EST
-    - cron: '0 16 * * *'  # 11:00 AM EST
-    - cron: '0 19 * * *'  # 2:00 PM EST
-    - cron: '0 22 * * *'  # 5:00 PM EST
-    - cron: '0 1 * * *'   # 8:00 PM EST
-    - cron: '0 4 * * *'   # 11:00 PM EST
+    - cron: '45 1 * * *'   # 4:45 AM Riyadh / Cairo Early
+    - cron: '30 5 * * *'   # 8:30 AM Riyadh Morning Prime Time
+    - cron: '30 9 * * *'   # 12:30 PM Riyadh Midday
+    - cron: '30 13 * * *'  # 4:30 PM Riyadh Afternoon
+    - cron: '30 17 * * *'  # 8:30 PM Riyadh Prime Evening
+    - cron: '30 21 * * *'  # 12:30 AM Riyadh / Americas Afternoon
     
   workflow_dispatch: # Allow manual trigger
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
 
 jobs:
   generate-and-upload:
@@ -19,6 +23,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: 🎲 Anti-bot Execution Jitter
+        if: github.event_name == 'schedule'
+        run: |
+          JITTER=$(( RANDOM % 150 + 30 ))
+          echo "Applying ${JITTER}s random start jitter to avoid exact-clock bot fingerprint..."
+          sleep $JITTER
 
       - name: Set up Python
         uses: actions/setup-python@v5
