@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "العبارات الشائعة",
   "phrases": [
     {
-      "english": "I need to finish this report by tomorrow.",
-      "arabic": "أحتاج إلى إنهاء هذا التقرير بحلول الغد.",
-      "pronunciation": "Ahtaj ila inhā' hādhā al-taqrīr biḥulūl al-ghad.",
-      "context": "Use this when discussing deadlines for work tasks."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
+      "context": "A standard greeting to start a conversation."
     },
     {
-      "english": "Can you please send me the meeting agenda?",
-      "arabic": "هل يمكنك فضلاً إرسال جدول أعمال الاجتماع إلي؟",
-      "pronunciation": "Hal yumkinuka faḍlan irsāl jadwal aʿmāl al-ijtimāʿ ilayya?",
-      "context": "Ask for information needed before a meeting."
+      "english": "I would like a cup of coffee, please.",
+      "arabic": "أريد كوباً من القهوة، من فضلك.",
+      "pronunciation": "Ureedu kooban min al-qahwah, min fadlik.",
+      "context": "Used when ordering at a cafe or restaurant."
     },
     {
-      "english": "I have a business meeting at ten o'clock.",
-      "arabic": "لدي اجتماع عمل في تمام الساعة العاشرة.",
-      "pronunciation": "Ladaiy ijtimāʿ ʿamal fī tamām al-sāʿah al-ʿāshirah.",
-      "context": "Inform someone about your scheduled work appointments."
+      "english": "Excuse me, where is the bathroom?",
+      "arabic": "عفواً، أين الحمام؟",
+      "pronunciation": "Afwan, ayna al-hammam?",
+      "context": "Essential for asking directions to a restroom."
     },
     {
-      "english": "Where is the nearest post office?",
-      "arabic": "أين أقرب مكتب بريد؟",
-      "pronunciation": "Aina aqrab maktab barīd?",
-      "context": "Ask for directions to a common business-related service."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude after receiving assistance."
     },
     {
-      "english": "I would like to book a flight to Dubai.",
-      "arabic": "أود حجز رحلة طيران إلى دبي.",
-      "pronunciation": "Awad ḥajz riḥlat ṭayarān ilā Dubay.",
-      "context": "Use this when arranging business travel."
+      "english": "I don't understand what you are saying.",
+      "arabic": "أنا لا أفهم ما تقوله.",
+      "pronunciation": "Ana la afham ma taqooluh.",
+      "context": "Used when you need clarification or don't comprehend."
     }
   ],
   "total": 5
