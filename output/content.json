@@ -1,35 +1,35 @@
 {
-  "category": "العواطف والمشاعر",
+  "category": "الألوان والأوصاف",
   "phrases": [
     {
-      "english": "I am very happy today because the weather is beautiful.",
-      "arabic": "أنا سعيد جداً اليوم لأن الجو جميل.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-jaw jameel.",
-      "context": "Use this when expressing joy about something positive in your life."
+      "english": "This shirt is a beautiful blue color.",
+      "arabic": "هذه القميص لونها أزرق جميل.",
+      "pronunciation": "Hathihi al-qamees lawnuha azraq jameel.",
+      "context": "Use this when complimenting someone's clothing."
     },
     {
-      "english": "He looks sad because he lost his keys.",
-      "arabic": "يبدو حزيناً لأنه فقد مفاتيحه.",
-      "pronunciation": "Yabdoo hazeenan li'annahu faqada mafateehahu.",
-      "context": "Use this to describe someone else's apparent sadness."
+      "english": "I like the red car parked over there.",
+      "arabic": "أحب السيارة الحمراء الواقفة هناك.",
+      "pronunciation": "Uhibbu as-sayyarah al-hamra' al-waqifah hunak.",
+      "context": "Use this to point out a specific item with a color."
     },
     {
-      "english": "She is angry because the train is late.",
-      "arabic": "هي غاضبة لأن القطار متأخر.",
-      "pronunciation": "Hiya ghadibah li'anna al-qitar muta'akhkhir.",
-      "context": "Use this to explain why someone is feeling anger."
+      "english": "The sky is very clear and white today.",
+      "arabic": "السماء صافية جداً وبيضاء اليوم.",
+      "pronunciation": "As-sama' safiyah jiddan wa bayda' al-yawm.",
+      "context": "Use this to describe the weather or a natural scene."
     },
     {
-      "english": "I feel tired after a long day at work.",
-      "arabic": "أشعر بالتعب بعد يوم طويل في العمل.",
-      "pronunciation": "Ash'ur bil-ta'ab ba'da yawm taweel fil-'amal.",
-      "context": "Use this to describe your own feeling of fatigue."
+      "english": "She has long, black hair.",
+      "arabic": "لديها شعر طويل وأسود.",
+      "pronunciation": "Ladayha sha'r taweel wa aswad.",
+      "context": "Use this to describe a person's physical appearance."
     },
     {
-      "english": "Are you excited about your upcoming trip to Egypt?",
-      "arabic": "هل أنت متحمس لرحلتك القادمة إلى مصر؟",
-      "pronunciation": "Hal anta mutahammis li-rihlatik al-qadimah ila Misr?",
-      "context": "Use this to inquire about someone's anticipation for an event."
+      "english": "This green apple looks very fresh.",
+      "arabic": "هذه التفاحة الخضراء تبدو طازجة جداً.",
+      "pronunciation": "Hathihi at-tuffahah al-khadra' tabdu tazijah jiddan.",
+      "context": "Use this when commenting on the appearance of food."
     }
   ],
   "total": 5
