@@ -3,10 +3,10 @@ name: Arabic Learning Video Bot
 on:
   # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    - cron: '45 1 * * *'   # 4:45 AM Riyadh / Cairo Early
-    - cron: '30 5 * * *'   # 8:30 AM Riyadh Morning Prime Time
-    - cron: '30 9 * * *'   # 12:30 PM Riyadh Midday
-    - cron: '30 13 * * *'  # 4:30 PM Riyadh Afternoon
+   # - cron: '45 1 * * *'   # 4:45 AM Riyadh / Cairo Early
+    #- cron: '30 5 * * *'   # 8:30 AM Riyadh Morning Prime Time
+   # - cron: '30 9 * * *'   # 12:30 PM Riyadh Midday
+   # - cron: '30 13 * * *'  # 4:30 PM Riyadh Afternoon
     - cron: '30 17 * * *'  # 8:30 PM Riyadh Prime Evening
     - cron: '30 21 * * *'  # 12:30 AM Riyadh / Americas Afternoon
     
