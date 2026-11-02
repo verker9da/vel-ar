@@ -1,35 +1,35 @@
 {
-  "category": "التحيات اليومية",
+  "category": "الطقس",
   "phrases": [
     {
-      "english": "Good morning, how are you today?",
-      "arabic": "صباح الخير، كيف حالك اليوم؟",
-      "pronunciation": "Sabah al-khayr, kayfa haluka al-yawm?",
-      "context": "Used to greet someone in the morning and inquire about their well-being."
+      "english": "What is the weather like today?",
+      "arabic": "كيف حال الطقس اليوم؟",
+      "pronunciation": "Kayfa hal al-taqsu al-yawm?",
+      "context": "Use this to ask about the general weather conditions for the current day."
     },
     {
-      "english": "Hello, it's nice to meet you.",
-      "arabic": "أهلاً بك، سررت بلقائك.",
-      "pronunciation": "Ahlan bik, surirtu biliqa'ik.",
-      "context": "A polite way to greet someone for the first time."
+      "english": "It is very hot outside.",
+      "arabic": "الجو حار جداً في الخارج.",
+      "pronunciation": "Al-jawwu harun jiddan fil-kharij.",
+      "context": "Use this when the temperature is uncomfortably high."
     },
     {
-      "english": "Good afternoon, I hope you are well.",
-      "arabic": "مساء الخير، أتمنى أن تكون بخير.",
-      "pronunciation": "Masa' al-khayr, atamanna an takuna bikhayr.",
-      "context": "A polite greeting used in the afternoon or evening."
+      "english": "It is raining heavily right now.",
+      "arabic": "إنها تمطر بغزارة الآن.",
+      "pronunciation": "Innaha tumtiru bi-ghazaratin al-aan.",
+      "context": "Use this to describe significant rainfall occurring at the present moment."
     },
     {
-      "english": "Goodbye, see you later.",
-      "arabic": "إلى اللقاء، أراك لاحقاً.",
-      "pronunciation": "Ila al-liqa', arak lahiqan.",
-      "context": "Used when parting ways with someone you expect to see again."
+      "english": "I hope it will be sunny tomorrow.",
+      "arabic": "آمل أن يكون الجو مشمساً غداً.",
+      "pronunciation": "Aamulu an yakuna al-jawwu mushmisan ghadan.",
+      "context": "Use this to express a wish for clear, sunny weather on the following day."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Expressing gratitude for assistance received."
+      "english": "There is a strong wind today.",
+      "arabic": "هناك رياح قوية اليوم.",
+      "pronunciation": "Hunaka riyahun qawiyyatun al-yawm.",
+      "context": "Use this when the wind is noticeably forceful."
     }
   ],
   "total": 5
