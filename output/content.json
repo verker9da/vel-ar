@@ -1,35 +1,35 @@
 {
-  "category": "السعادة",
+  "category": "العواطف والمشاعر",
   "phrases": [
     {
-      "english": "I am very happy today.",
-      "arabic": "أنا سعيد جدًا اليوم.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm.",
-      "context": "Use this to express your positive feelings on a particular day."
+      "english": "I am very happy today because the weather is beautiful.",
+      "arabic": "أنا سعيد جداً اليوم لأن الجو جميل.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-jaw jameel.",
+      "context": "Use this when expressing joy about something positive in your life."
     },
     {
-      "english": "This makes me feel peaceful.",
-      "arabic": "هذا يجعلني أشعر بالسلام.",
-      "pronunciation": "Hatha yaj'aluni ash'ur bil-salam.",
-      "context": "Use this when something brings you a sense of calm and tranquility."
+      "english": "He looks sad because he lost his keys.",
+      "arabic": "يبدو حزيناً لأنه فقد مفاتيحه.",
+      "pronunciation": "Yabdoo hazeenan li'annahu faqada mafateehahu.",
+      "context": "Use this to describe someone else's apparent sadness."
     },
     {
-      "english": "I am content with my life.",
-      "arabic": "أنا راضٍ عن حياتي.",
-      "pronunciation": "Ana radi 'an hayati.",
-      "context": "Use this to express satisfaction and acceptance of your current situation."
+      "english": "She is angry because the train is late.",
+      "arabic": "هي غاضبة لأن القطار متأخر.",
+      "pronunciation": "Hiya ghadibah li'anna al-qitar muta'akhkhir.",
+      "context": "Use this to explain why someone is feeling anger."
     },
     {
-      "english": "Everything is going well, thank God.",
-      "arabic": "كل شيء على ما يرام، الحمد لله.",
-      "pronunciation": "Kullu shay'in 'ala ma yuram, al-hamdulillah.",
-      "context": "Use this to express that things are proceeding favorably and to show gratitude."
+      "english": "I feel tired after a long day at work.",
+      "arabic": "أشعر بالتعب بعد يوم طويل في العمل.",
+      "pronunciation": "Ash'ur bil-ta'ab ba'da yawm taweel fil-'amal.",
+      "context": "Use this to describe your own feeling of fatigue."
     },
     {
-      "english": "I feel a deep sense of joy.",
-      "arabic": "أشعر بفرح عميق.",
-      "pronunciation": "Ash'ur bi-farahin 'ameeq.",
-      "context": "Use this to describe a profound and intense feeling of happiness."
+      "english": "Are you excited about your upcoming trip to Egypt?",
+      "arabic": "هل أنت متحمس لرحلتك القادمة إلى مصر؟",
+      "pronunciation": "Hal anta mutahammis li-rihlatik al-qadimah ila Misr?",
+      "context": "Use this to inquire about someone's anticipation for an event."
     }
   ],
   "total": 5
