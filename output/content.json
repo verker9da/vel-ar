@@ -1,35 +1,35 @@
 {
-  "category": "العائلة والعلاقات",
+  "category": "العمل والأعمال",
   "phrases": [
     {
-      "english": "My mother is a doctor.",
-      "arabic": "أمي طبيبة.",
-      "pronunciation": "Ummi tabeeba.",
-      "context": "Use this to describe your mother's profession."
+      "english": "I need to finish this report by tomorrow.",
+      "arabic": "أحتاج إلى إنهاء هذا التقرير بحلول الغد.",
+      "pronunciation": "Ahtaj ila inhā' hādhā al-taqrīr biḥulūl al-ghad.",
+      "context": "Use this when discussing deadlines for work tasks."
     },
     {
-      "english": "My father works in a bank.",
-      "arabic": "أبي يعمل في البنك.",
-      "pronunciation": "Abi ya'mal fil bank.",
-      "context": "Use this to describe your father's place of work."
+      "english": "Can you please send me the meeting agenda?",
+      "arabic": "هل يمكنك فضلاً إرسال جدول أعمال الاجتماع إلي؟",
+      "pronunciation": "Hal yumkinuka faḍlan irsāl jadwal aʿmāl al-ijtimāʿ ilayya?",
+      "context": "Ask for information needed before a meeting."
     },
     {
-      "english": "I have one sister and two brothers.",
-      "arabic": "لدي أخت واحدة وأخوان اثنان.",
-      "pronunciation": "Ladai ukht wahida wa akhwan ithnan.",
-      "context": "Use this to state the number of siblings you have."
+      "english": "I have a business meeting at ten o'clock.",
+      "arabic": "لدي اجتماع عمل في تمام الساعة العاشرة.",
+      "pronunciation": "Ladaiy ijtimāʿ ʿamal fī tamām al-sāʿah al-ʿāshirah.",
+      "context": "Inform someone about your scheduled work appointments."
     },
     {
-      "english": "This is my husband.",
-      "arabic": "هذا زوجي.",
-      "pronunciation": "Hatha zawji.",
-      "context": "Use this when introducing your husband to someone."
+      "english": "Where is the nearest post office?",
+      "arabic": "أين أقرب مكتب بريد؟",
+      "pronunciation": "Aina aqrab maktab barīd?",
+      "context": "Ask for directions to a common business-related service."
     },
     {
-      "english": "My children are very smart.",
-      "arabic": "أطفالي أذكياء جداً.",
-      "pronunciation": "Atfali athkiya' jiddan.",
-      "context": "Use this to express pride in your children's intelligence."
+      "english": "I would like to book a flight to Dubai.",
+      "arabic": "أود حجز رحلة طيران إلى دبي.",
+      "pronunciation": "Awad ḥajz riḥlat ṭayarān ilā Dubay.",
+      "context": "Use this when arranging business travel."
     }
   ],
   "total": 5
