@@ -1721,7 +1721,42 @@
       "transliteration": "Hadha sahlun jiddan.",
       "category": "Education",
       "generated_at": "2026-11-18T07:30:06.151718"
+    },
+    {
+      "english": "I want some water, please.",
+      "arabic": "أريد بعض الماء، من فضلك.",
+      "transliteration": "Ureed ba'd al-maa', min fadlak.",
+      "category": "Food",
+      "generated_at": "2026-11-18T23:29:28.395910"
+    },
+    {
+      "english": "This food is delicious!",
+      "arabic": "هذا الطعام لذيذ!",
+      "transliteration": "Hatha at-ta'aam ladheedh!",
+      "category": "Food",
+      "generated_at": "2026-11-18T23:29:28.395922"
+    },
+    {
+      "english": "Can I have tea?",
+      "arabic": "هل يمكنني الحصول على شاي؟",
+      "transliteration": "Hal yumkinuni al-husool 'ala shay?",
+      "category": "Food",
+      "generated_at": "2026-11-18T23:29:28.395924"
+    },
+    {
+      "english": "I'm hungry.",
+      "arabic": "أنا جائع.",
+      "transliteration": "Ana jaa'i'.",
+      "category": "Food",
+      "generated_at": "2026-11-18T23:29:28.395925"
+    },
+    {
+      "english": "What is this?",
+      "arabic": "ما هذا؟",
+      "transliteration": "Ma hatha?",
+      "category": "Food",
+      "generated_at": "2026-11-18T23:29:28.395927"
     }
   ],
-  "last_updated": "2026-11-18T07:30:06.151719"
+  "last_updated": "2026-11-18T23:29:28.395929"
 }
