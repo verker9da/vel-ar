@@ -115,7 +115,7 @@ jobs:
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: velocity-japanese-youtube-reel-${{ github.run_number }}
+          name: velocity-arabic-youtube-reel-${{ github.run_number }}
           path: |
             output/lessons/*/final_reel.mp4
             output/lessons/*/thumbnail.jpg

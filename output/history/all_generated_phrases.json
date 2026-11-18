@@ -1,1 +1,1692 @@
-{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "i study arabic to communicate with my colleagues.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i work hard because i want to support my family.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i save money to travel to morocco next year.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i exercise every morning to stay healthy.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i volunteer because i want to help others in my community.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i'm very hungry; let's eat something now.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i'm thirsty; could i have a glass of water, please?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i'm allergic to peanuts, so i cannot eat this salad.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can you recommend a popular local dish?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the food tastes delicious; please tell the chef i enjoyed it.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i achieved my goal after months of hard work.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "failure taught me valuable lessons that made me stronger.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "hard work pays off over time, so stay consistent.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "set clear goals and make a plan to reach them.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "celebrate small wins because they build momentum.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i have a cat and a dog at home.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the birds are singing beautifully this morning.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i love seeing horses run in the field.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can you see that elephant at the zoo?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my friend is allergic to cats.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i enjoy reading books in my free time.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my favorite hobby is playing football.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i like to travel and explore new places.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i spend my weekends hiking in the mountains.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i love cooking new recipes at home.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "where is the nearest train station?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i would like to book a hotel room for two nights.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "how much does this cost?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can you help me please?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am allergic to peanuts.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "excuse me, where is the nearest bathroom?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can you please show me on the map?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "how do i get to the train station?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "is it far from here?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "turn left at the next corner.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am very happy today.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "he looks sad because he misses his family.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "she is angry about the delayed train.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i feel scared of the loud noise.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "we are excited for our upcoming vacation.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i have a headache.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i feel tired.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my stomach hurts.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i need to see a doctor.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i love you very much.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "you are beautiful.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my heart belongs to you.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i miss you a lot.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "you are my everything.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "what is the weather like today?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "it is very hot outside.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "it is cold and i need a jacket.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "it looks like it will rain soon.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the sky is clear and sunny.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "what time is it right now?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the meeting is scheduled for three o'clock in the afternoon.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i need two apples and one banana from the market.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my birthday is on the fifth of may.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can you repeat that number please?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "patience is a virtue that brings comfort.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "actions speak louder than words.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "every beginning is difficult.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "knowledge is power.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "opportunity knocks but once.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i want to buy this shirt.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "do you have this in a smaller size?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can i pay with a credit card?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "where is the changing room?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "hello, how are you today?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "thank you very much for your help.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i would like to order a cup of coffee.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "excuse me, where is the bathroom?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "goodbye, it was nice meeting you.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "this shirt is a beautiful blue color.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the car is black and very fast.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i like the green color of the trees.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "her dress is a lovely shade of red.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the sky is bright yellow during sunset.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my brother is a doctor.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my sister lives in cairo.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i have two children.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my parents are visiting next week.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my wife is very kind.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am very happy today because i achieved my goal.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "this beautiful weather makes me feel joyful.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "seeing my family always brings me great happiness.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i wish you all the happiness in the world.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "finding this book was a moment of pure bliss.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i want to learn arabic very much.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "this arabic word is difficult for me.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i practice speaking arabic every day.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "learning arabic opens many doors for me.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am motivated by the rich culture of arabic-speaking countries.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "excuse me, where is the train station?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i don't understand this word.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "nice to meet you.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am looking for a new job opportunity.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "what are your working hours?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "this project requires a lot of effort.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i need to schedule a meeting with the manager.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "our company has a great team.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i would like to order a plate of grilled chicken, please.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "this food is very delicious, thank you.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can i have the bill, please?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "what is the specialty of the house?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am very happy today because the weather is beautiful.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "this food tastes delicious, it makes me happy.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "seeing my family always brings me joy.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i feel a sense of peace and happiness when i read books.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "thank you, your kindness has made me truly happy.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the bird is singing beautifully outside.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i saw a rabbit in the park yesterday.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my neighbor has a very loud horse.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am afraid of snakes.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can you please send me the company's annual report?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i need to schedule a meeting with the marketing team.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "what is your company's main product?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am available for a phone interview tomorrow.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "it is cold and it is snowing.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the wind is very strong today.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the meeting is at three o'clock in the afternoon.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i need to leave at seven thirty in the morning.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my birthday is on the fifth of june.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "there are twenty-five students in the class.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i want to learn arabic because it is the language of the quran.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am motivated to practice speaking with native speakers.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "this is a great opportunity to improve my arabic skills.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am determined to become fluent in arabic.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i find learning arabic very rewarding.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my favorite hobby is playing football with my friends.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i like listening to music, especially arabic music.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i love to travel and explore new places.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i would like to order a falafel sandwich, please.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "where is the nearest supermarket?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "where is the nearest train station, please?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "how do i get to the city center?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can you show me on the map?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "turn left at the next intersection.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i like the bright red car.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the dark green walls look very elegant.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "his eyes are a deep brown color.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "she wore a dress that was light pink.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am feeling tired.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am allergic to cats.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i would like to buy this shirt.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "do you have this in a different size?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can i try this on?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am just looking, thank you.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "you are very beautiful.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my heart beats for you.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my mother is a doctor and she is very kind.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my father works in a bank and he is very smart.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i have one brother and two sisters, and we are very close.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my grandmother loves to cook traditional food.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my cousin is getting married next month.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i feel a little sad.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am angry because of the delay.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "she is very excited about the trip.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "he is afraid of spiders.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "where is the nearest restroom?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i would like a cup of coffee, please.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can you help me, please?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i don't understand.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "patience is the key to relief.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "learn from yesterday, live for today, hope for tomorrow.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "a little bit of knowledge is a dangerous thing.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the pen is mightier than the sword.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "every cloud has a silver lining.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "hello, how are you doing today?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "excuse me, where is the nearest restroom?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i would like to order one cup of coffee.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i don't understand what you are saying.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "good morning, how are you today?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "hello, peace be upon you.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "good evening, i hope you are well.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "goodbye, may you be in god's protection.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i don't understand what you mean.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can you please repeat that for me?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i feel very tired today.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my head hurts a lot.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i need to drink more water.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i want to eat something healthy.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "how do i get to the central market?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "turn left at the next corner, please.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i love to travel to new places and explore different cultures.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "on weekends, i usually go hiking in the mountains.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i spend my evenings learning to play the guitar.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my mother is a doctor.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my father works in a bank.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i have one sister and two brothers.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "this is my husband.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my children are very smart.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "he looks sad because he lost his keys.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "she is angry because the train is late.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i feel tired after a long day at work.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "are you excited about your upcoming trip to egypt?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "patience is the key to success.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "there is no power and no strength except with god.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "everything happens for a reason.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "seek knowledge from the cradle to the grave.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "hello, it's nice to meet you.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "good afternoon, i hope you are well.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "goodbye, see you later.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i need to finish this report by tomorrow.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "can you please send me the meeting agenda?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i have a business meeting at ten o'clock.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "where is the nearest post office?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i would like to book a flight to dubai.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i want to learn arabic because it's a beautiful language.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am practicing speaking arabic every day.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "this book is very helpful for my arabic studies.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i hope to become fluent in arabic soon.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "learning arabic opens up new cultural experiences for me.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i need to find a pharmacy.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "it is raining heavily right now.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i hope it will be sunny tomorrow.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "there is a strong wind today.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "this meal is delicious, thank you.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "do you have any vegetarian options?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i have a playful cat named leo.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my neighbor owns a very energetic dog.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i saw a beautiful bird in the garden.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the children love to feed the ducks at the park.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "be careful, there are many bees around the flowers.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "you are so beautiful.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "our love is eternal.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "this makes me feel peaceful.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i am content with my life.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "everything is going well, thank god.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i feel a deep sense of joy.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "thank you for your help.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i like the red car parked over there.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the sky is very clear and white today.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "she has long, black hair.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "this green apple looks very fresh.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i don't understand this word at all.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "what time is it?",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "it is three o'clock.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "i need five apples, please.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "my phone number is nine eight seven six five four three two one zero.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    },
+    {
+      "english": "the meeting is at ten thirty in the morning.",
+      "arabic": "",
+      "transliteration": "",
+      "category": "legacy",
+      "generated_at": null
+    }
+  ],
+  "last_updated": null
+}
