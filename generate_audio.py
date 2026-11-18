@@ -37,12 +37,12 @@ def configure_edge_tts():
         pass
 
 
-async def generate_single_audio(text: str, voice: str, output_path: str):
+async def generate_single_audio(text: str, voice: str, output_path: str, rate: str = "+0%"):
     """Generate audio for a single text using specified voice with active endpoint and retry"""
     configure_edge_tts()
     for attempt in range(3):
         try:
-            communicate = edge_tts.Communicate(text, voice)
+            communicate = edge_tts.Communicate(text, voice, rate=rate)
             await communicate.save(output_path)
             out = Path(output_path)
             if out.exists() and out.stat().st_size > 200:
@@ -103,7 +103,7 @@ def generate_phrase_audio(phrase_data: dict, output_dir: str, phrase_index: int)
     print(f"[tts]   ✅ English: {english_text[:50]}...")
 
     # Generate Arabic audio
-    asyncio.run(generate_single_audio(arabic_text, ARABIC_VOICE, str(arabic_file)))
+    asyncio.run(generate_single_audio(arabic_text, ARABIC_VOICE, str(arabic_file), rate="-10%"))
     print(f"[tts]   ✅ Arabic: {arabic_text[:30]}...")
 
     # Get durations
