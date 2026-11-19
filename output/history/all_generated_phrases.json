@@ -1756,7 +1756,42 @@
       "transliteration": "Ma hatha?",
       "category": "Food",
       "generated_at": "2026-11-18T23:29:28.395927"
+    },
+    {
+      "english": "I love this song!",
+      "arabic": "أحب هذه الأغنية!",
+      "transliteration": "Uhibbu hathihi al-ughniyah!",
+      "category": "Music",
+      "generated_at": "2026-11-19T23:41:30.443579"
+    },
+    {
+      "english": "Can you play it louder?",
+      "arabic": "هل يمكنك تشغيلها بصوت أعلى؟",
+      "transliteration": "Hal yumkinuka tashgheeluha bisawtin a'la?",
+      "category": "Music",
+      "generated_at": "2026-11-19T23:41:30.443590"
+    },
+    {
+      "english": "This music is so relaxing.",
+      "arabic": "هذه الموسيقى مريحة جداً.",
+      "transliteration": "Hathihi al-musiqa mureehah jiddan.",
+      "category": "Music",
+      "generated_at": "2026-11-19T23:41:30.443592"
+    },
+    {
+      "english": "What is this instrument?",
+      "arabic": "ما هو هذا الجهاز الموسيقي؟",
+      "transliteration": "Ma huwa hatha al-jihaz al-musiqi?",
+      "category": "Music",
+      "generated_at": "2026-11-19T23:41:30.443594"
+    },
+    {
+      "english": "I want to learn guitar.",
+      "arabic": "أريد أن أتعلم الجيتار.",
+      "transliteration": "Ureedu an ata'allam al-jitaar.",
+      "category": "Music",
+      "generated_at": "2026-11-19T23:41:30.443595"
     }
   ],
-  "last_updated": "2026-11-18T23:29:28.395929"
+  "last_updated": "2026-11-19T23:41:30.443597"
 }
