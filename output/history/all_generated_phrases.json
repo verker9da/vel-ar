@@ -1791,7 +1791,42 @@
       "transliteration": "Ureedu an ata'allam al-jitaar.",
       "category": "Music",
       "generated_at": "2026-11-19T23:41:30.443595"
+    },
+    {
+      "english": "You did a great job today!",
+      "arabic": "لقد قمت بعمل رائع اليوم!",
+      "transliteration": "laqad qumta bi-'amalin raa'i'in al-yawm!",
+      "category": "Success",
+      "generated_at": "2026-11-20T23:15:52.144113"
+    },
+    {
+      "english": "Keep up the excellent work.",
+      "arabic": "استمر في هذا العمل الممتاز.",
+      "transliteration": "istamirr fi hadha al-'amali al-mumtaaz.",
+      "category": "Success",
+      "generated_at": "2026-11-20T23:15:52.144125"
+    },
+    {
+      "english": "That's progress, well done!",
+      "arabic": "هذا تقدم، أحسنت!",
+      "transliteration": "hadha taqaddum, ahsanta!",
+      "category": "Success",
+      "generated_at": "2026-11-20T23:15:52.144126"
+    },
+    {
+      "english": "You're learning so fast!",
+      "arabic": "أنت تتعلم بسرعة كبيرة!",
+      "transliteration": "anta tata'allamu bisur'atin kabeeratin!",
+      "category": "Success",
+      "generated_at": "2026-11-20T23:15:52.144127"
+    },
+    {
+      "english": "Fantastic effort, I'm proud.",
+      "arabic": "جهد رائع، أنا فخور.",
+      "transliteration": "juhdun raa'i', ana fakhuur.",
+      "category": "Success",
+      "generated_at": "2026-11-20T23:15:52.144128"
     }
   ],
-  "last_updated": "2026-11-19T23:41:30.443597"
+  "last_updated": "2026-11-20T23:15:52.144130"
 }
