@@ -1826,7 +1826,42 @@
       "transliteration": "juhdun raa'i', ana fakhuur.",
       "category": "Success",
       "generated_at": "2026-11-20T23:15:52.144128"
+    },
+    {
+      "english": "Where is the nearest station?",
+      "arabic": "أين أقرب محطة؟",
+      "transliteration": "Ayna aqrab mahattah?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T22:16:31.215964"
+    },
+    {
+      "english": "How much is this ticket?",
+      "arabic": "بكم هذه التذكرة؟",
+      "transliteration": "Bikam hathihi al-tazkirah?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T22:16:31.215976"
+    },
+    {
+      "english": "I need a taxi, please.",
+      "arabic": "أحتاج تاكسي، من فضلك.",
+      "transliteration": "Ahtaj taxi, min fadlak.",
+      "category": "Travel",
+      "generated_at": "2026-11-21T22:16:31.215978"
+    },
+    {
+      "english": "Can you take me there?",
+      "arabic": "هل يمكنك أخذي إلى هناك؟",
+      "transliteration": "Hal yumkinuka akhthi ila hunak?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T22:16:31.215978"
+    },
+    {
+      "english": "My hotel is called...",
+      "arabic": "فندقي اسمه...",
+      "transliteration": "Funduqi ismuhu...",
+      "category": "Travel",
+      "generated_at": "2026-11-21T22:16:31.215979"
     }
   ],
-  "last_updated": "2026-11-20T23:15:52.144130"
+  "last_updated": "2026-11-21T22:16:31.215981"
 }
