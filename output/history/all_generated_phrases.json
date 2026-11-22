@@ -1861,7 +1861,42 @@
       "transliteration": "Funduqi ismuhu...",
       "category": "Travel",
       "generated_at": "2026-11-21T22:16:31.215979"
+    },
+    {
+      "english": "Let's play football!",
+      "arabic": "هيا نلعب كرة القدم!",
+      "transliteration": "Hayya nal'ab kurat al-qadam!",
+      "category": "Sports",
+      "generated_at": "2026-11-22T22:40:58.554719"
+    },
+    {
+      "english": "I love basketball.",
+      "arabic": "أحب كرة السلة.",
+      "transliteration": "Uhibbu kurat as-salla.",
+      "category": "Sports",
+      "generated_at": "2026-11-22T22:40:58.554730"
+    },
+    {
+      "english": "Did you watch the game?",
+      "arabic": "هل شاهدت المباراة؟",
+      "transliteration": "Hal shahadta al-mubarah?",
+      "category": "Sports",
+      "generated_at": "2026-11-22T22:40:58.554732"
+    },
+    {
+      "english": "The score is tied.",
+      "arabic": "النتيجة متعادلة.",
+      "transliteration": "An-natijah muta'adilah.",
+      "category": "Sports",
+      "generated_at": "2026-11-22T22:40:58.554734"
+    },
+    {
+      "english": "Who won the match?",
+      "arabic": "من فاز بالمباراة؟",
+      "transliteration": "Man faaz bil-mubarah?",
+      "category": "Sports",
+      "generated_at": "2026-11-22T22:40:58.554735"
     }
   ],
-  "last_updated": "2026-11-21T22:16:31.215981"
+  "last_updated": "2026-11-22T22:40:58.554737"
 }
