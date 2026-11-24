@@ -1896,7 +1896,42 @@
       "transliteration": "Man faaz bil-mubarah?",
       "category": "Sports",
       "generated_at": "2026-11-22T22:40:58.554735"
+    },
+    {
+      "english": "It is noon.",
+      "arabic": "إنها الظهيرة.",
+      "transliteration": "Innaha al-dhahira.",
+      "category": "Time",
+      "generated_at": "2026-11-24T03:25:06.949697"
+    },
+    {
+      "english": "It is midnight.",
+      "arabic": "إنها منتصف الليل.",
+      "transliteration": "Innaha muntasaf al-layl.",
+      "category": "Time",
+      "generated_at": "2026-11-24T03:25:06.949709"
+    },
+    {
+      "english": "Morning is beautiful.",
+      "arabic": "الصباح جميل.",
+      "transliteration": "Al-sabah jameel.",
+      "category": "Time",
+      "generated_at": "2026-11-24T03:25:06.949710"
+    },
+    {
+      "english": "When will you arrive?",
+      "arabic": "متى ستصل؟",
+      "transliteration": "Mata satasil?",
+      "category": "Time",
+      "generated_at": "2026-11-24T03:25:06.949711"
+    },
+    {
+      "english": "I will come later.",
+      "arabic": "سآتي لاحقًا.",
+      "transliteration": "Sa'ati laahiqan.",
+      "category": "Time",
+      "generated_at": "2026-11-24T03:25:06.949711"
     }
   ],
-  "last_updated": "2026-11-22T22:40:58.554737"
+  "last_updated": "2026-11-24T03:25:06.949713"
 }
