@@ -1931,7 +1931,42 @@
       "transliteration": "Sa'ati laahiqan.",
       "category": "Time",
       "generated_at": "2026-11-24T03:25:06.949711"
+    },
+    {
+      "english": "Please forgive me, I made a mistake.",
+      "arabic": "أرجوك سامحني، لقد أخطأت.",
+      "transliteration": "Arjook samihni, laqad akhta't.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T01:30:24.057010"
+    },
+    {
+      "english": "I'm truly sorry for what happened.",
+      "arabic": "أنا آسف حقاً لما حدث.",
+      "transliteration": "Ana aasif haqqan lima hadath.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T01:30:24.057020"
+    },
+    {
+      "english": "Can you find it in your heart to forgive me?",
+      "arabic": "هل يمكنك أن تسامحني؟",
+      "transliteration": "Hal yumkinuka an tusamihni?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T01:30:24.057022"
+    },
+    {
+      "english": "I hope you can forgive my actions.",
+      "arabic": "أتمنى أن تسامح تصرفاتي.",
+      "transliteration": "Atamanna an tusamih tasarrufaati.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T01:30:24.057023"
+    },
+    {
+      "english": "My apologies, I didn't mean to hurt you.",
+      "arabic": "اعتذاري، لم أقصد إيذاءك.",
+      "transliteration": "I'tidhaari, lam aqsid iidha'ak.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T01:30:24.057025"
     }
   ],
-  "last_updated": "2026-11-24T03:25:06.949713"
+  "last_updated": "2026-11-25T01:30:24.057027"
 }
