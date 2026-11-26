@@ -1966,7 +1966,42 @@
       "transliteration": "I'tidhaari, lam aqsid iidha'ak.",
       "category": "Forgiveness",
       "generated_at": "2026-11-25T01:30:24.057025"
+    },
+    {
+      "english": "Be kind to others, please.",
+      "arabic": "كُن لطيفًا مع الآخرين، من فضلك.",
+      "transliteration": "Kun lateefan ma'a al-akharin, min fadlik.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T01:05:12.790496"
+    },
+    {
+      "english": "That was very thoughtful of you.",
+      "arabic": "هذا كان لطفًا كبيرًا منك.",
+      "transliteration": "Hadha kana lutfan kabeeran mink.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T01:05:12.790509"
+    },
+    {
+      "english": "Your kindness is appreciated.",
+      "arabic": "لطفك محل تقدير.",
+      "transliteration": "Lutfuka mahallu taqdeer.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T01:05:12.790510"
+    },
+    {
+      "english": "May your day be filled with kindness.",
+      "arabic": "أتمنى لك يومًا مليئًا باللطف.",
+      "transliteration": "Atamanna laka yawman malee'an bil-lutf.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T01:05:12.790511"
+    },
+    {
+      "english": "A little kindness goes a long way.",
+      "arabic": "القليل من اللطف يقطع شوطًا طويلاً.",
+      "transliteration": "Al-qaleel min al-lutf yaqta'u shawtan taweelan.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T01:05:12.790513"
     }
   ],
-  "last_updated": "2026-11-25T01:30:24.057027"
+  "last_updated": "2026-11-26T01:05:12.790514"
 }
