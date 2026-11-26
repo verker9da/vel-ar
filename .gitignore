@@ -3,3 +3,4 @@ __pycache__/
 output/*.mp4
 output/**/*.mp4
 .env
+scene_storybook/preview.html
