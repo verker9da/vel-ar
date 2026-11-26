@@ -48,7 +48,7 @@ LANGUAGE = {
     "encouragement": "ممتاز!",
     "rtl": True,
     "char_tiles": False,
-    "script_font": "",
+    "script_font": "NotoSansArabic-Bold.ttf",
     "glyphs": "أبتثجحخدذرزسشصضطظعغفقكلمنهوي",
 }
 # ==== LANGUAGE PACK END ====
