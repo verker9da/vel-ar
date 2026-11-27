@@ -2,7 +2,7 @@ name: Velocity Arabic - Storybook Publish
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '18:20 * * *'
   workflow_dispatch:
     inputs:
       category:
