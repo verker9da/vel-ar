@@ -2,8 +2,6 @@ name: Velocity Arabic - Storybook Publish
 
 on:
   schedule:
-    - cron: '0 22 * * *'
-    - cron: '0 3 * * *'
     - cron: '0 10 * * *'
   workflow_dispatch:
     inputs:
@@ -153,7 +151,7 @@ jobs:
         run: python validate.py
 
       - name: Publish to all platforms
-        run: python upload_all_platforms.py
+        run: python upload_all_platforms.py --platforms youtube --require youtube
 
       - name: Upload video artifact
         uses: actions/upload-artifact@v4
