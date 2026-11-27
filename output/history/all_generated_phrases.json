@@ -2001,7 +2001,28 @@
       "transliteration": "Al-qaleel min al-lutf yaqta'u shawtan taweelan.",
       "category": "Kindness",
       "generated_at": "2026-11-26T01:05:12.790513"
+    },
+    {
+      "english": "I want to learn Arabic, for sure.",
+      "arabic": "أريد أن أتعلم العربية، بالتأكيد.",
+      "transliteration": "Ureed an ata'allam al-'arabiyyah, bi-l-ta'keed.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T11:57:55.908938"
+    },
+    {
+      "english": "This is for my studies, you know.",
+      "arabic": "هذا لدراستي، كما تعلم.",
+      "transliteration": "Hatha li-dirasati, kama ta'lam.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T11:57:55.908949"
+    },
+    {
+      "english": "He came to visit, with pleasure.",
+      "arabic": "جاء للزيارة، بكل سرور.",
+      "transliteration": "Jaa'a li-l-ziyarah, bi-kull suroor.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T11:57:55.908951"
     }
   ],
-  "last_updated": "2026-11-26T01:05:12.790514"
+  "last_updated": "2026-11-27T11:57:55.908953"
 }
